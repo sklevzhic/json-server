@@ -196,99 +196,7 @@
     {
       "id": "164",
       "type": "Принтер",
-      "refill": [
-        {
-          "id": 1,
-          "report": "2021-07-10",
-          "transmissionDate": "2021-07-15",
-          "dateOfReceiving": "2021-07-25",
-          "receiverName": "Клевжиц Александр Юрьевич",
-          "receiverDate": "2021-07-30",
-          "place": "106"
-        },
-        {
-          "id": 2,
-          "report": "2017-05-24",
-          "transmissionDate": "2017-05-25",
-          "dateOfReceiving": "2017-05-26",
-          "receiverDate": "2014-07-27",
-          "receiverName": "Клевжиц Александр Юрьевич"
-        },
-        {
-          "id": 3,
-          "report": "2017-05-24",
-          "transmissionDate": "2017-05-25",
-          "dateOfReceiving": "2017-05-26",
-          "receiverDate": "2017-05-27",
-          "receiverName": "Клевжиц Александр Юрьевич"
-        },
-        {
-          "id": 4,
-          "report": "2017-05-24",
-          "transmissionDate": "2017-05-25",
-          "dateOfReceiving": "2017-05-26",
-          "receiverDate": "2017-05-27",
-          "receiverName": "Клевжиц Александр Юрьевич",
-          "place": "106"
-        },
-        {
-          "id": 5,
-          "report": "2017-05-24",
-          "transmissionDate": "2017-05-25",
-          "dateOfReceiving": "2017-05-26",
-          "receiverDate": "2017-05-27",
-          "receiverName": "Клевжиц Александр Юрьевич"
-        },
-        {
-          "id": 6,
-          "report": "2017-05-24",
-          "transmissionDate": "2017-05-25",
-          "dateOfReceiving": "2017-05-26",
-          "receiverDate": "2017-05-27",
-          "receiverName": "Клевжиц Александр Юрьевич"
-        },
-        {
-          "id": 7,
-          "report": "2015-05-24",
-          "transmissionDate": "2017-05-25",
-          "dateOfReceiving": "2017-05-26",
-          "receiverDate": "2017-05-27",
-          "receiverName": "Клевжиц Александр Юрьевич",
-          "place": "106"
-        },
-        {
-          "id": 8,
-          "report": "2015-05-24",
-          "transmissionDate": "2017-05-25",
-          "dateOfReceiving": "2017-05-26",
-          "receiverDate": "2015-05-27",
-          "receiverName": "Клевжиц Александр Юрьевич"
-        },
-        {
-          "id": 9,
-          "report": "2015-05-24",
-          "transmissionDate": "2017-05-25",
-          "dateOfReceiving": "2017-05-26",
-          "receiverDate": "2015-05-27",
-          "receiverName": "Клевжиц Александр Юрьевич"
-        },
-        {
-          "id": 10,
-          "report": "2015-05-24",
-          "transmissionDate": "2017-05-25",
-          "dateOfReceiving": "2017-05-26",
-          "receiverDate": "2021-05-27",
-          "receiverName": "Клевжиц Александр Юрьевич"
-        },
-        {
-          "id": 9,
-          "report": "2015-05-24",
-          "transmissionDate": "2017-05-25",
-          "dateOfReceiving": "2017-05-26",
-          "receiverDate": "2021-08-27",
-          "receiverName": "Клевжиц Александр Юрьевич"
-        }
-      ],
+      "refill": [],
       "name": "HP LaserJet 1010",
       "invent": "1360405",
       "year": "2004",
@@ -1221,7 +1129,7 @@
     {
       "id": "158",
       "type": "Монитор",
-      "name": "Монитор Philips 190V3LSB/01",
+      "name": "Philips 190V3LSB/01",
       "invent": "1361664",
       "year": "2012",
       "build": "1",
@@ -1263,7 +1171,7 @@
     },
     {
       "type": "Монитор",
-      "name": "Монитор",
+      "name": "Samsung SyncMaster 740N",
       "invent": "01360907",
       "build": "1",
       "room": "142",
@@ -1275,6 +1183,7 @@
     },
     {
       "type": "Монитор",
+      "name": "Samsung SyncMaster 740N",
       "invent": "01360904",
       "build": "1",
       "room": "142",
@@ -1286,6 +1195,7 @@
     },
     {
       "type": "Монитор",
+      "name": "Samsung SyncMaster 740N",
       "invent": "01360905",
       "build": "1",
       "room": "142",
@@ -1297,6 +1207,7 @@
     },
     {
       "type": "Монитор",
+      "name": "Samsung SyncMaster 740N",
       "invent": "1360906",
       "build": "1",
       "room": "142",
@@ -1308,6 +1219,7 @@
     },
     {
       "type": "Монитор",
+      "name": "Samsung SyncMaster 740N",
       "invent": "1360916",
       "build": "1",
       "room": "142",
@@ -1319,6 +1231,7 @@
     },
     {
       "type": "Монитор",
+      "name": "Samsung SyncMaster 740N",
       "invent": "1360910",
       "build": "1",
       "room": "142",
@@ -1330,6 +1243,7 @@
     },
     {
       "type": "Монитор",
+      "name": "Samsung SyncMaster 740N",
       "invent": "1360912",
       "build": "1",
       "room": "142",
@@ -1341,6 +1255,7 @@
     },
     {
       "type": "Монитор",
+      "name": "Samsung SyncMaster 740N",
       "invent": "1360911",
       "build": "1",
       "room": "142",
@@ -1352,6 +1267,7 @@
     },
     {
       "type": "Монитор",
+      "name": "Samsung SyncMaster 740N",
       "invent": "1360909",
       "build": "1",
       "room": "142",
@@ -1363,6 +1279,7 @@
     },
     {
       "type": "Монитор",
+      "name": "Samsung SyncMaster 740N",
       "invent": "1360913",
       "build": "1",
       "room": "142",
@@ -1374,6 +1291,7 @@
     },
     {
       "type": "Монитор",
+      "name": "Samsung SyncMaster 740N",
       "invent": "1360892",
       "build": "1",
       "room": "142",
@@ -2756,7 +2674,7 @@
     {
       "id": "149",
       "type": "Принтер",
-      "name": "ПРИНТЕР HP1010",
+      "name": "HP LaserJet 1010",
       "invent": "136П7881",
       "year": "2007",
       "build": "9",
@@ -2857,7 +2775,7 @@
     {
       "id": "15",
       "type": "Принтер",
-      "name": "HP LJ 10201",
+      "name": "HP LJ 1020",
       "invent": "0136П8159",
       "year": "2004",
       "build": "9",
@@ -2912,7 +2830,7 @@
     {
       "id": "68",
       "type": "Принтер",
-      "name": "ПРИНТЕР HP LaserJet1018",
+      "name": "HP LaserJet 1018",
       "invent": "1360632",
       "year": "2007",
       "build": "9",
@@ -4063,7 +3981,7 @@
     {
       "id": "70",
       "type": "Сканер",
-      "name": "СКАНЕР HP ScanJet G2710",
+      "name": "HP ScanJet G2710",
       "invent": "136131511",
       "year": "2009",
       "build": "9",
@@ -4213,6 +4131,35 @@
       "invent": "10000032",
       "zavod": "YLNC193281",
       "isTrusted": "TRUE"
+    },
+    {
+      "name": "Samsung SyncMaster 740N",
+      "type": "Монитор",
+      "room": "106",
+      "build": "1",
+      "user": "Клевжиц Александр Юрьевич",
+      "date": "06.01.2021",
+      "faculty": "Учебно-методический отдел",
+      "invent": "1360908",
+      "zavod": "NA17HMBP802175",
+      "matfyo": "Владимирская Елена Алексеевна",
+      "year": "2013",
+      "id": "FjC8Eiv"
+    },
+    {
+      "name": "Integral TFT LCD 17",
+      "type": "Монитор",
+      "room": "106",
+      "build": "1",
+      "user": "Расоян Араик Джасмович",
+      "date": "06.01.2016",
+      "faculty": "Учебно-методический отдел",
+      "invent": "1361284",
+      "zavod": "LCD170009102488",
+      "matfyo": "Клевжиц Александр Юрьевич",
+      "year": "2001",
+      "id": "HSoIjYg",
+      "print": true
     }
   ],
   "comments": [
@@ -4453,6 +4400,152 @@
       "body": "Блок Ющика",
       "technicId": "193",
       "id": 34
+    },
+    {
+      "postId": "137",
+      "date": "2021-08-16T08:34:09.851Z",
+      "body": "Выдан новый картридж",
+      "technicId": "137",
+      "id": 35
+    },
+    {
+      "postId": "137",
+      "date": "2021-08-16T08:34:20.504Z",
+      "body": "Старый лежит в шкафу",
+      "technicId": "137",
+      "id": 36
+    },
+    {
+      "postId": "HSoIjYg",
+      "date": "2021-08-16T14:03:42.018Z",
+      "body": "Списан 2017",
+      "technicId": "HSoIjYg",
+      "id": 37
+    }
+  ],
+  "refills": [
+    {
+      "id": 1,
+      "technicId": "68",
+      "report": "2021-07-10",
+      "transmissionDate": "2021-07-15",
+      "dateOfReceiving": "2021-07-25",
+      "receiverName": "Клевжиц Александр Юрьевич",
+      "receiverDate": "2021-07-30",
+      "place": "106"
+    },
+    {
+      "id": 2,
+      "technicId": "68",
+      "report": "2017-05-24",
+      "transmissionDate": "2017-05-25",
+      "dateOfReceiving": "2017-05-26",
+      "receiverDate": "2014-07-27",
+      "receiverName": "Клевжиц Александр Юрьевич"
+    },
+    {
+      "id": 3,
+      "technicId": "68",
+      "report": "2017-05-24",
+      "transmissionDate": "2017-05-25",
+      "dateOfReceiving": "2017-05-26",
+      "receiverDate": "2017-05-27",
+      "receiverName": "Клевжиц Александр Юрьевич"
+    },
+    {
+      "id": 4,
+      "technicId": "68",
+      "report": "2017-05-24",
+      "transmissionDate": "2017-05-25",
+      "dateOfReceiving": "2017-05-26",
+      "receiverDate": "2017-05-27",
+      "receiverName": "Клевжиц Александр Юрьевич",
+      "place": "106"
+    },
+    {
+      "id": 5,
+      "technicId": "68",
+      "report": "2017-05-24",
+      "transmissionDate": "2017-05-25",
+      "dateOfReceiving": "2017-05-26",
+      "receiverDate": "2017-05-27",
+      "receiverName": "Клевжиц Александр Юрьевич"
+    },
+    {
+      "id": 6,
+      "technicId": "68",
+      "report": "2017-05-24",
+      "transmissionDate": "2017-05-25",
+      "dateOfReceiving": "2017-05-26",
+      "receiverDate": "2017-05-27",
+      "receiverName": "Клевжиц Александр Юрьевич"
+    },
+    {
+      "id": 7,
+      "technicId": "68",
+      "report": "2015-05-24",
+      "transmissionDate": "2017-05-25",
+      "dateOfReceiving": "2017-05-26",
+      "receiverDate": "2017-05-27",
+      "receiverName": "Клевжиц Александр Юрьевич",
+      "place": "106"
+    },
+    {
+      "id": 8,
+      "technicId": "68",
+      "report": "2015-05-24",
+      "transmissionDate": "2017-05-25",
+      "dateOfReceiving": "2017-05-26",
+      "receiverDate": "2015-05-27",
+      "receiverName": "Клевжиц Александр Юрьевич"
+    },
+    {
+      "id": 9,
+      "technicId": "68",
+      "report": "2015-05-24",
+      "transmissionDate": "2017-05-25",
+      "dateOfReceiving": "2017-05-26",
+      "receiverDate": "2015-05-27",
+      "receiverName": "Клевжиц Александр Юрьевич"
+    },
+    {
+      "id": 10,
+      "technicId": "68",
+      "report": "2015-05-24",
+      "transmissionDate": "2017-05-25",
+      "dateOfReceiving": "2017-05-26",
+      "receiverDate": "2021-05-27",
+      "receiverName": "Клевжиц Александр Юрьевич"
+    },
+    {
+      "id": 9,
+      "technicId": "68",
+      "report": "2015-05-24",
+      "transmissionDate": "2017-05-25",
+      "dateOfReceiving": "2017-05-26",
+      "receiverDate": "2021-08-27",
+      "receiverName": "Клевжиц Александр Юрьевич"
+    }
+  ],
+  "refillsCurrent": [
+    {
+      "name": "Сбор заявок",
+      "arr": [
+        "362",
+        "229"
+      ]
+    },
+    {
+      "name": "Заявка картриджей",
+      "arr": []
+    },
+    {
+      "name": "Передача картриджей",
+      "arr": []
+    },
+    {
+      "name": "Получение из ЦРИТ",
+      "arr": []
     }
   ]
 }
