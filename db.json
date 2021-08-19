@@ -201,8 +201,8 @@
       "invent": "1360405",
       "year": "2004",
       "build": "1",
-      "room": "123",
-      "user": "О.А.Глазко 1",
+      "room": "106",
+      "user": "Общий",
       "desc": "Не захватывает бумагу",
       "print": false,
       "problem": "ремонт",
@@ -1787,7 +1787,7 @@
       "invent": "1363187",
       "build": "1",
       "room": "101",
-      "user": "Шеститко И.В.",
+      "user": "Шеститко Ирина Владимировна",
       "matfyo": "Клевжиц Александр Юрьевич",
       "zavod": "2TG24159",
       "print": false,
@@ -1803,7 +1803,7 @@
       "year": "2013",
       "build": "1",
       "room": "102",
-      "user": "Радыгина В.В.",
+      "user": "Радыгина Вероника Валерьевна",
       "matfyo": "Клевжиц Александр Юрьевич",
       "zavod": "Z8EEB8KP1D00YS",
       "getdate": "2015-12-31T21:00:00.000Z",
@@ -1818,7 +1818,7 @@
       "year": "2018",
       "build": "1",
       "room": "107",
-      "user": "Сороко И.Н.",
+      "user": "Сороко Инна Николаевна",
       "matfyo": "Клевжиц Александр Юрьевич",
       "zavod": "XFA17510",
       "print": true,
@@ -1831,7 +1831,7 @@
       "invent": "1363186",
       "build": "1",
       "room": "108",
-      "user": "Гуравская И.С.",
+      "user": "Гуравская Инна Станиславовна",
       "matfyo": "Клевжиц Александр Юрьевич",
       "zavod": "2TG24157",
       "print": false,
@@ -1890,12 +1890,12 @@
     {
       "id": "72",
       "type": "МФУ",
-      "name": "Sharp AL-20211",
+      "name": "Sharp AL-2021",
       "invent": "1361644",
       "year": "2012",
       "build": "9",
       "room": "17",
-      "user": "Микшто Агнесса Александровна",
+      "user": "Плуталова Яна Олеговна",
       "matfyo": "Николаенко Инна Васильевна",
       "print": true,
       "date": "2016-01-01",
@@ -4442,6 +4442,20 @@
       "body": "Под списание",
       "technicId": "16",
       "id": 39
+    },
+    {
+      "postId": "164",
+      "date": "2021-08-19T14:03:32.073Z",
+      "body": "После ремонта",
+      "technicId": "164",
+      "id": 40
+    },
+    {
+      "postId": "164",
+      "date": "2021-08-19T14:03:39.862Z",
+      "body": "ОГ пользовалась",
+      "technicId": "164",
+      "id": 41
     }
   ],
   "refills": [
@@ -4454,98 +4468,6 @@
       "receiverName": "Клевжиц Александр Юрьевич",
       "receiverDate": "2025-07-30",
       "place": "106"
-    },
-    {
-      "id": 2,
-      "technicId": "68",
-      "report": "2017-05-24",
-      "transmissionDate": "2017-05-25",
-      "dateOfReceiving": "2017-05-26",
-      "receiverDate": "2014-07-27",
-      "receiverName": "Клевжиц Александр Юрьевич"
-    },
-    {
-      "id": 3,
-      "technicId": "68",
-      "report": "2017-05-24",
-      "transmissionDate": "2017-05-25",
-      "dateOfReceiving": "2017-05-26",
-      "receiverDate": "2017-05-27",
-      "receiverName": "Клевжиц Александр Юрьевич"
-    },
-    {
-      "id": 4,
-      "technicId": "68",
-      "report": "2017-05-24",
-      "transmissionDate": "2017-05-25",
-      "dateOfReceiving": "2017-05-26",
-      "receiverDate": "2017-05-27",
-      "receiverName": "Клевжиц Александр Юрьевич",
-      "place": "106"
-    },
-    {
-      "id": 5,
-      "technicId": "68",
-      "report": "2017-05-24",
-      "transmissionDate": "2017-05-25",
-      "dateOfReceiving": "2017-05-26",
-      "receiverDate": "2017-05-27",
-      "receiverName": "Клевжиц Александр Юрьевич"
-    },
-    {
-      "id": 6,
-      "technicId": "68",
-      "report": "2017-05-24",
-      "transmissionDate": "2017-05-25",
-      "dateOfReceiving": "2017-05-26",
-      "receiverDate": "2017-05-27",
-      "receiverName": "Клевжиц Александр Юрьевич"
-    },
-    {
-      "id": 7,
-      "technicId": "68",
-      "report": "2015-05-24",
-      "transmissionDate": "2017-05-25",
-      "dateOfReceiving": "2017-05-26",
-      "receiverDate": "2017-05-27",
-      "receiverName": "Клевжиц Александр Юрьевич",
-      "place": "106"
-    },
-    {
-      "id": 8,
-      "technicId": "68",
-      "report": "2015-05-24",
-      "transmissionDate": "2017-05-25",
-      "dateOfReceiving": "2017-05-26",
-      "receiverDate": "2015-05-27",
-      "receiverName": "Клевжиц Александр Юрьевич"
-    },
-    {
-      "id": 9,
-      "technicId": "68",
-      "report": "2015-05-24",
-      "transmissionDate": "2017-05-25",
-      "dateOfReceiving": "2017-05-26",
-      "receiverDate": "2015-05-27",
-      "receiverName": "Клевжиц Александр Юрьевич"
-    },
-    {
-      "id": 10,
-      "technicId": "68",
-      "report": "2015-05-24",
-      "transmissionDate": "2017-05-25",
-      "dateOfReceiving": "2017-05-26",
-      "receiverDate": "2021-05-27",
-      "receiverName": "Клевжиц Александр Юрьевич"
-    },
-    {
-      "id": 9,
-      "technicId": "68",
-      "report": "2015-05-24",
-      "transmissionDate": "2017-05-25",
-      "dateOfReceiving": "2017-05-26",
-      "receiverDate": "2021-08-27",
-      "receiverName": "Клевжиц Александр Юрьевич"
     }
   ],
   "refillsCurrent": [
@@ -4553,30 +4475,44 @@
       "id": 1,
       "arr": [
         {
-          "name": "Сбор заявок",
+          "name": "Сбор картриджей",
           "arr": [
-            "229",
-            "230",
-            "231",
-            "232"
+            {
+              "technicId": "369",
+              "name": "HP LaserJet P1005",
+              "user": "Маголина Алла Викторовна",
+              "createDate": 1629377482824,
+              "countRefill": 2
+            }
           ]
         },
         {
-          "name": "Заявка картриджей",
+          "name": "Оставление заявки в ЦРИТ",
+          "arr": [
+            {
+              "technicId": "362",
+              "name": "Canon MF4730",
+              "user": "Яковенко Сергей Владимирович",
+              "createDate": 1629377311291,
+              "receiverName": "Клевжиц Александр Юрьевич",
+              "countRefill": 2
+            },
+            {
+              "technicId": "229",
+              "name": "Canon i-sensys MF 443dw",
+              "user": "Владимирская Елена Алексеевна",
+              "createDate": 1629377500344,
+              "countRefill": 2
+            }
+          ]
+        },
+        {
+          "name": "Передача в ЦРИТ",
           "arr": []
         },
         {
-          "name": "Передача картриджей",
-          "arr": [
-            "229"
-          ]
-        },
-        {
           "name": "Получение из ЦРИТ",
-          "arr": [
-            "363",
-            "364"
-          ]
+          "arr": []
         }
       ]
     }
