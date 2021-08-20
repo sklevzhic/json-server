@@ -401,7 +401,7 @@
       "invent": "7101280",
       "build": "1",
       "room": "107",
-      "user": "Сороко И.Н.",
+      "user": "Сороко Инна Николаевна",
       "zavod": "null",
       "print": true,
       "faculty": "Факультет дополнительного профессионального образования"
@@ -710,7 +710,7 @@
       "year": "2013",
       "build": "1",
       "room": "107",
-      "user": "Сороко И.Н.",
+      "user": "Сороко Инна Николаевна",
       "matfyo": "Клевжиц Александр Юрьевич",
       "zavod": "309033",
       "print": true,
@@ -2649,7 +2649,7 @@
     {
       "id": "139",
       "type": "Принтер",
-      "name": "HP LaserJen 1100",
+      "name": "HP LaserJet 1100",
       "invent": "136П6808",
       "year": "2000",
       "build": "1",
@@ -2902,7 +2902,7 @@
     {
       "id": "208",
       "type": "Принтер",
-      "name": " ПРИНТЕР ЛАЗЕРНЫЙ HP1022",
+      "name": "HP LaserJet 1022",
       "invent": "136П8159",
       "year": "2005",
       "room": "где",
@@ -4149,6 +4149,26 @@
       "year": "2001",
       "id": "HSoIjYg",
       "print": true
+    },
+    {
+      "name": "HP LaserJet P1005",
+      "type": "Принтер",
+      "room": "11",
+      "build": "9",
+      "user": "Самосюк Татьяна Валерьевна",
+      "date": "",
+      "invent": "",
+      "id": "5nSQp2K"
+    },
+    {
+      "name": "HP LaserJet P1005",
+      "type": "Принтер",
+      "room": "104",
+      "build": "1",
+      "user": "Клезович Ольга Валерьевна",
+      "date": "",
+      "invent": "",
+      "id": "ciSeMHl"
     }
   ],
   "comments": [
@@ -4449,58 +4469,637 @@
   ],
   "refills": [
     {
+      "technicId": "194",
+      "name": "Samsung SCX4650N",
+      "user": "Гостиница",
+      "createDate": "5/1/20",
+      "countRefill": "1",
+      "receiverDate": "5/31/20"
+    },
+    {
+      "technicId": "367",
+      "name": "Kyocera FS-1370DN",
+      "user": "Моголина Алла Викторовна",
+      "createDate": "5/1/20",
+      "countRefill": "1",
+      "receiverDate": "5/31/20"
+    },
+    {
+      "technicId": "117",
+      "name": "Samsung SCX4650N",
+      "user": "Радыгина Вероника Валерьевна",
+      "createDate": "5/1/20",
+      "countRefill": "2",
+      "receiverDate": "5/31/20"
+    },
+    {
+      "technicId": "78",
+      "name": "Kyocera FS-1370DN",
+      "user": "Севастьянова Кристина Сергеевна",
+      "createDate": "5/1/20",
+      "countRefill": "3",
+      "receiverDate": "5/31/20"
+    },
+    {
+      "technicId": "96",
+      "name": "Kyocera FS-1370DN",
+      "user": "Стрела София Сергеевна",
+      "createDate": "5/1/20",
+      "countRefill": "1",
+      "receiverDate": "5/31/20"
+    },
+    {
+      "technicId": "154",
+      "name": "HP Laserget 1005",
+      "user": "Клевжиц Александр Юрьевич",
+      "createDate": "10/20/20",
+      "countRefill": "2",
+      "receiverDate": "11/19/20"
+    },
+    {
+      "technicId": "231",
+      "name": "Canon i-sensus MF443dw",
+      "user": "Микшто Агнесса Александровна",
+      "createDate": "10/20/20",
+      "countRefill": "1",
+      "receiverDate": "11/19/20"
+    },
+    {
+      "technicId": "15",
+      "name": "HP laserjet 1020",
+      "user": "Римик Ольга Владимировна",
+      "createDate": "11/30/20",
+      "countRefill": "2",
+      "receiverDate": "12/30/20"
+    },
+    {
+      "technicId": "14",
+      "name": "HP LaserJet 1018",
+      "user": "Толстик Ольга Витальевна",
+      "createDate": "11/30/20",
+      "countRefill": "3",
+      "receiverDate": "12/30/20"
+    },
+    {
+      "technicId": "375",
+      "user": "Дудорга Ольга Ивановна",
+      "createDate": "12/11/20",
+      "countRefill": "1",
+      "receiverDate": "1/10/21"
+    },
+    {
+      "technicId": "151",
+      "name": "HP LaserJet P1005",
+      "user": "Алтынцева Елена Николаевна",
+      "createDate": "12/17/20",
+      "countRefill": "2",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "229",
+      "name": "Canon i-sensus MF443dw",
+      "user": "Владимирская Елена Алексеевна",
+      "createDate": "12/17/20",
+      "countRefill": "1",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "229",
+      "name": "Canon i-sensus MF443dw",
+      "user": "Владимирская Елена Алексеевна",
+      "createDate": "12/17/20",
+      "countRefill": "1",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "229",
+      "name": "Canon i-sensus MF443dw",
+      "user": "Владимирская Елена Алексеевна",
+      "createDate": "12/17/20",
+      "countRefill": "1",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "194",
+      "name": "Samsung SCX4650N",
+      "user": "Гостиница",
+      "createDate": "12/17/20",
+      "countRefill": "1",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "228",
+      "name": "Canon i-sensus MF443dw",
+      "user": "Гуравская Инна Станиславовна",
+      "createDate": "12/17/20",
+      "countRefill": "1",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "1130",
+      "name": "Canon IR2206",
+      "user": "Деканат ФДП",
+      "createDate": "12/17/20",
+      "countRefill": "2",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "1135",
+      "name": "Canon IR2206",
+      "user": "Деканат ФУиПРП",
+      "createDate": "12/17/20",
+      "countRefill": "1",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "375",
+      "user": "Дудорга Ольга Ивановна",
+      "createDate": "12/17/20",
+      "countRefill": "2",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "114",
+      "name": "Canon LBP6030B",
+      "user": "Кислякова Юлия Николаевна",
+      "createDate": "12/17/20",
+      "countRefill": "3",
+      "receiverDate": "1/16/21"
+    },
+    {
       "technicId": "128",
       "name": "Sharp AR-5618",
       "user": "Стрела София Сергеевна",
-      "createDate": 1629404320978,
+      "createDate": "12/17/20",
+      "countRefill": "1",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "28",
+      "name": "HP laserjet 1010",
+      "user": "Клевжиц Александр Юрьевич",
+      "createDate": "12/17/20",
+      "countRefill": "1",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "154",
+      "name": "HP Laserget 1005",
+      "user": "Клевжиц Александр Юрьевич",
+      "createDate": "12/17/20",
+      "countRefill": "1",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "ciSeMHl",
+      "name": "HP laserJet p1005",
+      "user": "Клезович Ольга Валерьевна",
+      "createDate": "12/17/20",
+      "countRefill": "1",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "231",
+      "name": "Canon i-sensus MF443dw",
+      "user": "Микшто Агнесса Александровна",
+      "createDate": "12/17/20",
+      "countRefill": "1",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "231",
+      "name": "Canon i-sensus MF443dw",
+      "user": "Микшто Агнесса Александровна",
+      "createDate": "12/17/20",
+      "countRefill": "1",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "226",
+      "name": "Canon i-sensus MF443dw",
+      "user": "Моголина Алла Викторовна",
+      "createDate": "12/17/20",
+      "countRefill": "1",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "369",
+      "name": "HP P1005",
+      "user": "Моголина Алла Викторовна",
+      "createDate": "12/17/20",
+      "countRefill": "2",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "367",
+      "name": "Kyocera FS-1370DN",
+      "user": "Моголина Алла Викторовна",
+      "createDate": "12/17/20",
+      "countRefill": "1",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "164",
+      "name": "HP Laserget 1010",
+      "user": "общий",
+      "createDate": "12/17/20",
+      "countRefill": "2",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "72",
+      "name": "Sharp AL-2021",
+      "user": "Плуталова Яна Олеговна",
+      "createDate": "12/17/20",
+      "countRefill": "1",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "117",
+      "name": "Samsung SCX4650N",
+      "user": "Радыгина Вероника Валерьевна",
+      "createDate": "12/17/20",
+      "countRefill": "1",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "5nSQp2K",
+      "name": "HP LaserJet P1005",
+      "user": "Самосюк Татьяна Валерьевна",
+      "createDate": "12/17/20",
+      "countRefill": "2",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "78",
+      "name": "Kyocera FS-1370DN",
+      "user": "Севастьянова Кристина Сергеевна",
+      "createDate": "12/17/20",
+      "countRefill": "3",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "137",
+      "name": "Canon MF 3010",
+      "user": "Сороко Инна Николаевна",
+      "createDate": "12/17/20",
+      "countRefill": "1",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "96",
+      "name": "Kyocera FS-1370DN",
+      "user": "Стрела София Сергеевна",
+      "createDate": "12/17/20",
+      "countRefill": "2",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "227",
+      "name": "Canon i-sensus MF443dw",
+      "user": "Шеститко Ирина Владимировна",
+      "createDate": "12/17/20",
+      "countRefill": "3",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "178",
+      "name": "HP LaserJet P1005",
+      "user": "Ширинская Татьяна Михайловна",
+      "createDate": "12/17/20",
+      "countRefill": "1",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "178",
+      "name": "HP LaserJet P1005",
+      "user": "Ширинская Татьяна Михайловна",
+      "createDate": "12/17/20",
+      "countRefill": "2",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "155",
+      "name": "HP LaserJet 1020",
+      "user": "Шыкер Марина Чеславовна",
+      "createDate": "12/17/20",
+      "countRefill": "3",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "362",
+      "name": "Canon MF4730",
+      "user": "Яковенко Сергей Владимирович",
+      "createDate": "12/17/20",
+      "countRefill": "4",
+      "receiverDate": "1/16/21"
+    },
+    {
+      "technicId": "ciSeMHl",
+      "name": "HP laserJet p1005",
+      "user": "Клезович Ольга Валерьевна",
+      "createDate": "1/17/21",
+      "countRefill": "1",
+      "receiverDate": "2/16/21"
+    },
+    {
+      "technicId": "231",
+      "name": "Canon i-sensus MF443dw",
+      "user": "Микшто Агнесса Александровна",
+      "createDate": "2/17/21",
+      "countRefill": "2",
+      "receiverDate": "3/19/21"
+    },
+    {
+      "technicId": "231",
+      "name": "Canon i-sensus MF443dw",
+      "user": "Микшто Агнесса Александровна",
+      "createDate": "2/17/21",
+      "countRefill": "1",
+      "receiverDate": "3/19/21"
+    },
+    {
+      "technicId": "230",
+      "id": "230n",
+      "name": "Canon i-sensus MF443dw",
+      "user": "Глазко Ольга Аркадьевна",
+      "createDate": "3/10/21",
+      "countRefill": "1",
+      "receiverDate": "4/9/21"
+    },
+    {
+      "technicId": "229",
+      "name": "Canon i-sensus MF443dw",
+      "user": "Владимирская Елена Алексеевна",
+      "createDate": "3/29/21",
+      "countRefill": "1",
+      "receiverDate": "4/28/21"
+    },
+    {
+      "technicId": "230",
+      "id": "230n",
+      "name": "Canon i-sensus MF443dw",
+      "user": "Глазко Ольга Аркадьевна",
+      "createDate": "3/29/21",
+      "countRefill": "1",
+      "receiverDate": "4/28/21"
+    },
+    {
+      "technicId": "375",
+      "user": "Дудорга Ольга Ивановна",
+      "createDate": "3/29/21",
+      "countRefill": "2",
+      "receiverDate": "4/28/21"
+    },
+    {
+      "technicId": "137",
+      "name": "Canon MF 3010",
+      "user": "Сороко Инна Николаевна",
+      "createDate": "3/29/21",
+      "countRefill": "1",
+      "receiverDate": "4/28/21"
+    },
+    {
+      "technicId": "155",
+      "name": "HP LaserJet 1020",
+      "user": "Шыкер Марина Чеславовна",
+      "createDate": "3/29/21",
+      "countRefill": "1",
+      "receiverDate": "4/28/21"
+    },
+    {
+      "technicId": "155",
+      "name": "HP LaserJet 1020",
+      "user": "Шыкер Марина Чеславовна",
+      "createDate": "3/29/21",
+      "countRefill": "1",
+      "receiverDate": "4/28/21"
+    },
+    {
+      "technicId": "228",
+      "name": "Canon i-sensus MF443dw",
+      "user": "Гуравская Инна Станиславовна",
+      "createDate": "4/21/21",
+      "countRefill": "1",
+      "receiverDate": "5/21/21"
+    },
+    {
+      "technicId": "375",
+      "user": "Дудорга Ольга Ивановна",
+      "createDate": "4/21/21",
+      "countRefill": "1",
+      "receiverDate": "5/21/21"
+    },
+    {
+      "technicId": "375",
+      "user": "Дудорга Ольга Ивановна",
+      "createDate": "4/21/21",
+      "countRefill": "2",
+      "receiverDate": "5/21/21"
+    },
+    {
+      "technicId": "28",
+      "name": "HP laserjet 1010",
+      "user": "Клевжиц Александр Юрьевич",
+      "createDate": "4/21/21",
+      "countRefill": "1",
+      "receiverDate": "5/21/21"
+    },
+    {
+      "technicId": "ciSeMHl",
+      "name": "HP laserJet p1005",
+      "user": "Клезович Ольга Валерьевна",
+      "createDate": "4/21/21",
+      "countRefill": "1",
+      "receiverDate": "5/21/21"
+    },
+    {
+      "technicId": "369",
+      "name": "HP P1005",
+      "user": "Моголина Алла Викторовна",
+      "createDate": "4/21/21",
+      "countRefill": "2",
+      "receiverDate": "5/21/21"
+    },
+    {
+      "technicId": "178",
+      "name": "HP LaserJet P1005",
+      "user": "Ширинская Татьяна Михайловна",
+      "createDate": "4/21/21",
+      "countRefill": "1",
+      "receiverDate": "5/21/21"
+    },
+    {
+      "technicId": "28",
+      "name": "HP laserjet 1010",
+      "user": "Клевжиц Александр Юрьевич",
+      "createDate": "5/5/21",
+      "countRefill": "2",
+      "receiverDate": "6/4/21"
+    },
+    {
+      "technicId": "164",
+      "name": "HP Laserget 1010",
+      "user": "общий",
+      "createDate": "5/5/21",
+      "countRefill": "1",
+      "receiverDate": "6/4/21"
+    },
+    {
+      "technicId": "15",
+      "name": "HP laserjet 1020",
+      "user": "Римик Ольга Владимировна",
+      "createDate": "5/5/21",
+      "countRefill": "1",
+      "receiverDate": "6/4/21"
+    },
+    {
+      "technicId": "14",
+      "name": "HP LaserJet 1018",
+      "user": "Толстик Ольга Витальевна",
+      "createDate": "5/5/21",
+      "countRefill": "1",
+      "receiverDate": "6/4/21"
+    },
+    {
+      "technicId": "229",
+      "name": "Canon i-sensus MF443dw",
+      "user": "Владимирская Елена Алексеевна",
+      "createDate": "6/11/21",
+      "countRefill": "2",
+      "receiverDate": "7/11/21"
+    },
+    {
+      "technicId": "230",
+      "id": "230n",
+      "name": "Canon i-sensus MF443dw",
+      "user": "Глазко Ольга Аркадьевна",
+      "createDate": "6/11/21",
+      "countRefill": "1",
+      "receiverDate": "7/11/21"
+    },
+    {
+      "technicId": "114",
+      "name": "Canon LBP6030B",
+      "user": "Кислякова Юлия Николаевна",
+      "createDate": "6/11/21",
+      "countRefill": "1",
+      "receiverDate": "7/11/21"
+    },
+    {
+      "technicId": "231",
+      "name": "Canon i-sensus MF443dw",
+      "user": "Микшто Агнесса Александровна",
+      "createDate": "6/11/21",
+      "countRefill": "1",
+      "receiverDate": "7/11/21"
+    },
+    {
+      "technicId": "5nSQp2K",
+      "name": "HP LaserJet P1005",
+      "user": "Самосюк Татьяна Валерьевна",
+      "createDate": "6/11/21",
+      "countRefill": "1",
+      "receiverDate": "7/11/21"
+    },
+    {
+      "technicId": "227",
+      "name": "Canon i-sensus MF443dw",
+      "user": "Шеститко Ирина Владимировна",
+      "createDate": "6/11/21",
+      "countRefill": "2",
+      "receiverDate": "7/11/21"
+    },
+    {
+      "technicId": "155",
+      "name": "HP LaserJet 1020",
+      "user": "Шыкер Марина Чеславовна",
+      "createDate": "6/11/21",
+      "countRefill": "1",
+      "receiverDate": "7/11/21"
+    },
+    {
+      "technicId": "155",
+      "name": "HP LaserJet 1020",
+      "user": "Шыкер Марина Чеславовна",
+      "createDate": "6/11/21",
+      "countRefill": "1",
+      "receiverDate": "7/11/21"
+    },
+    {
+      "technicId": "96",
+      "name": "Kyocera FS-1370DN",
+      "user": "Стрела София Сергеевна",
+      "createDate": "7/1/21",
+      "countRefill": "1",
+      "receiverDate": "7/31/21"
+    },
+    {
+      "technicId": "14",
+      "name": "HP LaserJet 1018",
+      "user": "Толстик Ольга Витальевна",
+      "createDate": "7/1/21",
+      "countRefill": "2",
+      "receiverDate": "7/31/21"
+    },
+    {
+      "technicId": "226",
+      "name": "Canon i-sensus MF443dw",
+      "user": "Моголина Алла Викторовна",
+      "createDate": "7/2/21",
+      "countRefill": "3",
+      "receiverDate": "8/1/21"
+    },
+    {
+      "technicId": "358",
+      "name": "HP LaserJet 1100",
+      "user": "Цытрон Елена Владимировна",
+      "createDate": "7/2/21",
+      "countRefill": "4",
+      "receiverDate": "8/1/21"
+    },
+    {
+      "technicId": "362",
+      "name": "Canon MF4730",
+      "user": "Яковенко Сергей Владимирович",
+      "createDate": "7/21/21",
+      "countRefill": "1",
+      "receiverDate": "8/20/21"
+    },
+    {
+      "technicId": "137",
+      "name": "Canon MF 3010",
+      "user": "Сороко Инна Николаевна",
+      "createDate": "1/15/21",
+      "countRefill": "1",
+      "receiverDate": "8/15/21"
+    },
+    {
+      "technicId": "156",
+      "name": "Sharp AR-5415",
+      "user": "Кладовка",
+      "createDate": 1629446890165,
       "countRefill": 1,
-      "receiverDate": 1629404327200,
-      "id": 1
+      "receiverDate": 1629447408556,
+      "id": "zZPjruJ"
     },
     {
-      "technicId": "128",
-      "name": "Sharp AR-5618",
-      "user": "Стрела София Сергеевна",
-      "createDate": 1629404387097,
-      "countRefill": 2,
-      "receiverDate": 1629404394152,
-      "id": 2
-    },
-    {
-      "technicId": "128",
-      "name": "Sharp AR-5618",
-      "user": "Стрела София Сергеевна",
-      "createDate": 1629404439009,
+      "technicId": "78",
+      "name": "Kyocera FS-1370DN",
+      "user": "Севастьянова Кристина Сергеевна",
+      "createDate": 1629447719346,
       "countRefill": 3,
-      "receiverDate": 1629404443946,
-      "id": 3
-    },
-    {
-      "technicId": "128",
-      "name": "Sharp AR-5618",
-      "user": "Стрела София Сергеевна",
-      "createDate": 1629404615855,
-      "countRefill": 4,
-      "receiverDate": 1629404626436,
-      "id": 4
+      "receiverDate": 1629448690346,
+      "id": "maudIZ-"
     },
     {
       "technicId": "25",
       "name": "Epson L805",
       "user": "Отдел ремонта",
-      "createDate": 1629404652673,
+      "createDate": 1629447733264,
       "countRefill": 1,
-      "receiverDate": 1629404658806,
-      "id": 5
-    },
-    {
-      "technicId": "128",
-      "name": "Sharp AR-5618",
-      "user": "Стрела София Сергеевна",
-      "createDate": 1629404720854,
-      "countRefill": 5,
-      "receiverDate": 1629404727116,
-      "id": 6
+      "receiverDate": 1629459217566,
+      "id": "NnD-ldQ"
     }
   ],
   "refillsCurrent": [
