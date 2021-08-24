@@ -49,3 +49,21 @@ const LastRefueling = ({printers, handlerRefills}) => {
 }
 
 export default LastRefueling
+
+
+
+
+
+
+{((property === 'date') || (property === 'year'))
+    ?
+    : <div>
+        {((property === 'invent') || (property === 'zavod')) ?
+
+            :
+
+        }
+
+    </div>
+}
+
