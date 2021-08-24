@@ -19,17 +19,13 @@ import images from "../global/images";
 import ArrowDropDownIcon from "@material-ui/icons/ArrowDropDown";
 import TagFacesIcon from '@material-ui/icons/TagFaces';
 
-const useStyles = makeStyles((theme) => ({
-
-}))
+const useStyles = makeStyles((theme) => ({}))
 
 const LastRefueling = ({printers, handlerRefills}) => {
     const classes = useStyles();
     return (
         <>
-
             <List>
-
                 {
                     printers.map(el => {
                         return <ListItem component={Link} to={`/technics/${el.id}`} button>
