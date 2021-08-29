@@ -1036,7 +1036,7 @@
       "year": "2008-01-01",
       "build": "1",
       "room": "Кладовка",
-      "user": "Кладовка",
+      "user": "Списан",
       "matfyo": "Клевжиц Александр Юрьевич",
       "zavod": "",
       "print": false,
@@ -1848,19 +1848,6 @@
       "zavod": "2TG24157",
       "print": false,
       "faculty": "Сектор повышения квалификации и переподготовки"
-    },
-    {
-      "id": "225",
-      "type": "МФУ",
-      "name": "Canon imageRUNNER 2206",
-      "build": "1",
-      "room": "123",
-      "user": "Шыкер Марина Чеславовна",
-      "matfyo": "Клевжиц Александр Юрьевич",
-      "print": false,
-      "faculty": "Факультет дополнительного профессионального образования",
-      "year": "2020-01-01",
-      "date": "2020-01-01"
     },
     {
       "id": "229",
@@ -2736,7 +2723,7 @@
       "year": "2004",
       "build": "1",
       "room": "123",
-      "user": "О.А.Глазко 2",
+      "user": "Общий",
       "print": false,
       "faculty": "Факультет дополнительного профессионального образования"
     },
@@ -4719,6 +4706,13 @@
       "body": "выдан полный картридж",
       "technicId": "178",
       "id": 44
+    },
+    {
+      "postId": "118",
+      "date": "2021-08-28T16:57:50.228Z",
+      "body": "Установлена Win10 ",
+      "technicId": "118",
+      "id": 45
     }
   ],
   "refills": [
@@ -5346,20 +5340,6 @@
       "countRefill": 1,
       "receiverDate": 1629625706175,
       "id": "OHQm6tA"
-    },
-    {
-      "createDate": 1630168039993,
-      "countRefill": 1,
-      "receiverDate": 1630168069750,
-      "technicId": "undefined",
-      "id": "zPCR_fN"
-    },
-    {
-      "createDate": 1630168126905,
-      "countRefill": 1,
-      "receiverDate": 1630168133331,
-      "technicId": "undefined",
-      "id": "mgkIfkC"
     },
     {
       "technicId": "184",
