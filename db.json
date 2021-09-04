@@ -5544,5 +5544,32 @@
         }
       ]
     }
+  ],
+  "todos": [
+    {
+      "title": "Задание 1",
+      "completed": true,
+      "id": 7
+    },
+    {
+      "title": "Задание 2",
+      "completed": false,
+      "id": 8
+    },
+    {
+      "title": "Задание 3",
+      "completed": true,
+      "id": 9
+    },
+    {
+      "title": "Задание 4",
+      "completed": true,
+      "id": 10
+    },
+    {
+      "title": "Задание 5",
+      "completed": false,
+      "id": 11
+    }
   ]
 }
