@@ -5547,11 +5547,6 @@
   ],
   "todos": [
     {
-      "title": "Задание 1",
-      "completed": true,
-      "id": 7
-    },
-    {
       "title": "Задание 2",
       "completed": false,
       "id": 8
@@ -5570,6 +5565,939 @@
       "title": "Задание 5",
       "completed": false,
       "id": 11
+    },
+    {
+      "title": "dsafdsf",
+      "completed": false,
+      "id": 12
+    },
+    {
+      "title": "dasgasfdg",
+      "completed": false,
+      "id": 13
+    },
+    {
+      "title": "fagdsf",
+      "completed": false,
+      "id": 14
+    },
+    {
+      "title": "bgfbgfbgb",
+      "completed": false,
+      "id": 15
+    },
+    {
+      "title": "ghbgfnhfcb",
+      "completed": false,
+      "id": 16
+    },
+    {
+      "title": "gfnfg",
+      "completed": false,
+      "id": 17
+    }
+  ],
+  "english": [
+    {
+      "eng": "I like English",
+      "rus": "Мне нравится английский  ",
+      "id": "32",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "You do it very well",
+      "rus": "Ты делаешь это очень хорошо ",
+      "id": "33",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "They go to school",
+      "rus": "Они ходят в школу",
+      "id": "118",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "They have a dream",
+      "rus": "У них есть мечта",
+      "id": "61",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "They have a job",
+      "rus": "У них есть работа",
+      "id": "52",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "They have an idea",
+      "rus": "У них есть идея",
+      "id": "69",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "They work in a company",
+      "rus": "Они работают в компании",
+      "id": "66",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "They work in this place",
+      "rus": "Они работают в этом месте",
+      "id": "72",
+      "level": "a0",
+      "lesson": "1",
+      "errors": 1
+    },
+    {
+      "eng": "I really like it",
+      "rus": "Мне очень нравится это ",
+      "id": "39",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "You have a talent",
+      "rus": "У вас есть талант",
+      "id": "68",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I really like this course",
+      "rus": "Мне очень нравится этот курс - ",
+      "id": "70",
+      "level": "a0",
+      "lesson": "1",
+      "correctly": 1
+    },
+    {
+      "eng": "We support you",
+      "rus": "Мы поддерживаем тебя",
+      "id": "55",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "We see this problem",
+      "rus": "Мы видим эту проблему ",
+      "id": "41",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "We see a university",
+      "rus": "Мы видим университет ",
+      "id": "40",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "We see a message",
+      "rus": "Мы видим сообщение ",
+      "id": "42",
+      "level": "a0",
+      "lesson": "1",
+      "correctly": 1,
+      "errors": 2
+    },
+    {
+      "eng": "They want more",
+      "rus": "Они хотят большего  ",
+      "id": "34",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "We have an aim",
+      "rus": "У нас есть цель",
+      "id": "60",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "We have a job",
+      "rus": "У нас есть работа ",
+      "id": "35",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "We have a dream",
+      "rus": "У нас есть мечта",
+      "id": "67",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "We go to university",
+      "rus": "Мы ходим в университет",
+      "id": "80",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I have an umbrella",
+      "rus": "У меня есть зонт ",
+      "id": "45",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I work in this company",
+      "rus": "Я работаю в этой компании ",
+      "id": "43",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I want to visit Spain",
+      "rus": "Я хочу посетить Испанию ",
+      "id": "114",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I want to visit new countries and cities",
+      "rus": "Я хочу посетить новые страны и города ",
+      "id": "82",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I want to visit England",
+      "rus": "Я хочу посетить Англию ",
+      "id": "111",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I want to tell you about one problem",
+      "rus": "Я хочу сказать тебе об одной проблеме ",
+      "id": "97",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I want to talk about it",
+      "rus": "Я хочу поговорить об этом ",
+      "id": "126",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I want to say one very important thing",
+      "rus": "Я хочу сказать одну очень важную вещь ",
+      "id": "86",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I want to say one thing",
+      "rus": "Я хочу сказать одну вещь ",
+      "id": "78",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I want to order this food online",
+      "rus": "Я хочу заказать эту еду онлайн ",
+      "id": "89",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I want to order these tickets online",
+      "rus": "Я хочу заказать эти билеты онлайн ",
+      "id": "87",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I want to order it online",
+      "rus": "Я хочу заказать это онлайн ",
+      "id": "93",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I want to learn English",
+      "rus": "Я хочу выучить английский ",
+      "id": "121",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I want to go to this shop",
+      "rus": "Я хочу пойти в этот магазин ",
+      "id": "103",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I want to go to this restaurant",
+      "rus": "Я хочу пойти в этот ресторан ",
+      "id": "95",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I want to go to the United State",
+      "rus": "Я хочу поехать в Соединение Штаты ",
+      "id": "124",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I want to go to the park",
+      "rus": "Я хочу пойти в парк ",
+      "id": "127",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I want to go to England",
+      "rus": "Я хочу поехать в Англию ",
+      "id": "109",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I want to go there with you",
+      "rus": "Я хочу пойти туда с тобой ",
+      "id": "102",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I want to go for a walk",
+      "rus": "Я хочу пойти на прогулку ",
+      "id": "100",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I want to call you now",
+      "rus": "Я хочу позвонить тебе сейчас ",
+      "id": "90",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I want to buy this ticket",
+      "rus": "Я хочу купить этот билет ",
+      "id": "92",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I want to buy these tickets",
+      "rus": "Я хочу купить эти билеты ",
+      "id": "105",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I want to buy it",
+      "rus": "Я хочу купить это ",
+      "id": "107",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I understand",
+      "rus": "Я понимаю ",
+      "id": "76",
+      "level": "a0",
+      "lesson": "1",
+      "errors": 1
+    },
+    {
+      "eng": "I talkI'd like to talk about it now",
+      "rus": "Я бы хотел поговорить об этом сейчас wаlk ",
+      "id": "120",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I support you",
+      "rus": "Я поддерживаю тебя ",
+      "id": "54",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I see an airport",
+      "rus": "Я вижу аэропорт ",
+      "id": "71",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I see a university",
+      "rus": "Я вижу университет ",
+      "id": "73",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I see a train",
+      "rus": "Я вижу поезд ",
+      "id": "64",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I see a supermarket",
+      "rus": "Я вижу супермаркет ",
+      "id": "37",
+      "level": "a0",
+      "lesson": "1",
+      "errors": 1
+    },
+    {
+      "eng": "I see a message",
+      "rus": "я вижу сообщение ",
+      "id": "74",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I see a hotel",
+      "rus": "Я вижу отель ",
+      "id": "38",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I see a bus",
+      "rus": "Я вижу автобус ",
+      "id": "51",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I work in a company",
+      "rus": "Я работаю в компании ",
+      "id": "31",
+      "level": "a0",
+      "lesson": "1",
+      "errors": 1
+    },
+    {
+      "eng": "I really want it",
+      "rus": "Я очень хочу это ",
+      "id": "49",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I really like this city",
+      "rus": "Мне очень нравится этот город ",
+      "id": "62",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I often go there",
+      "rus": "Я часто хожу туда ",
+      "id": "108",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I often go for a walk",
+      "rus": "Я часто хожу гулять ",
+      "id": "79",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I need to go to work",
+      "rus": "Мне нужно идти на работу ",
+      "id": "112",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I need to go home",
+      "rus": "Мне нужно идти домой ",
+      "id": "110",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I need to do it now",
+      "rus": "Мне нужно сделать это сейчас ",
+      "id": "91",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I need to do it",
+      "rus": "Мне нужно сделать это ",
+      "id": "116",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I need to be there soon",
+      "rus": "Мне нужно быть там скоро ",
+      "id": "119",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I like this place",
+      "rus": "Мне нравится это место ",
+      "id": "50",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I like this food",
+      "rus": "Мне нравится эта еда ",
+      "id": "46",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I know",
+      "rus": "Я знаю ",
+      "id": "63",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I have an idea",
+      "rus": "У меня есть идея ",
+      "id": "65",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I have an aim",
+      "rus": "У меня есть цель ",
+      "id": "57",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I have a ticket",
+      "rus": "У меня есть билет ",
+      "id": "75",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I have a question",
+      "rus": "У меня вопрос ",
+      "id": "59",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I have a problem",
+      "rus": "У меня проблема ",
+      "id": "58",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I have a job",
+      "rus": "У меня есть работа ",
+      "id": "47",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I have a friend",
+      "rus": "У меня есть друг ",
+      "id": "48",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I have a family",
+      "rus": "у меня есть семья ",
+      "id": "53",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I have a dream",
+      "rus": "У меня есть мечта ",
+      "id": "36",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I go to work",
+      "rus": "Я хожу на работу ",
+      "id": "117",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I agree with you",
+      "rus": "Я согласен с тобой ",
+      "id": "44",
+      "level": "a0",
+      "lesson": "1"
+    },
+    {
+      "eng": "I agree",
+      "rus": "Я согласен ",
+      "id": "56",
+      "level": "a0",
+      "lesson": "1",
+      "correctly": 1,
+      "errors": 1
+    },
+    {
+      "eng": "I'd like to visit this country",
+      "rus": "Я бы хотел посетить эту страну ",
+      "id": "81",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I'd like to visit this city",
+      "rus": "Я бы хотел посетить этот город ",
+      "id": "104",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I'd like to visit the United States",
+      "rus": "Я бы хотел посетить Соединенные Штаты ",
+      "id": "83",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I'd like to visit new countries and cities",
+      "rus": "Я хотел бы посетить новые страны и города ",
+      "id": "115",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I'd like to try on this sweater",
+      "rus": "Я бы хотел примерить этот свитер ",
+      "id": "106",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I want to tell you one thing",
+      "rus": "Я хочу сказать тебе одну вещь - ",
+      "id": "77",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I'd like to try on this dress",
+      "rus": "Я бы хотела примерить это платье ",
+      "id": "98",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I'd like to try on these trousers",
+      "rus": "я бы хотел примерить эти брюки ",
+      "id": "125",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I'd like to try on these shoes",
+      "rus": "Я бы хотел примерить эту обувь ",
+      "id": "88",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I'd like to try on these jeans",
+      "rus": "Я бы хотел примерить эти джинсы ",
+      "id": "84",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I'd like to go to the United States next year",
+      "rus": "Я бы хотел поехать в Соединенные Штаты в следующем году ",
+      "id": "101",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I'd like to go to the park with you",
+      "rus": "Я бы хотел пойти в парк с тобой ",
+      "id": "122",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I'd like to go to that place",
+      "rus": "Я бы хотел пойти в то место ",
+      "id": "113",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I'd like to go to America",
+      "rus": "Я бы хотел поехать в Америку ",
+      "id": "96",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I'd like to go home",
+      "rus": "я бы хотел пойти домой ",
+      "id": "123",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I'd like to go for a walk now",
+      "rus": "Я бы хотел пойти на прогулку сейчас ",
+      "id": "85",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I'd like to drink tea",
+      "rus": "Я хотел бы попить чаю ",
+      "id": "94",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I'd like to drink coffee",
+      "rus": "Я хотел бы выпить кофе ",
+      "id": "99",
+      "level": "a0",
+      "lesson": "2"
+    },
+    {
+      "eng": "I need to do it now",
+      "rus": "Мне нужно сделать это сейчас",
+      "id": "15",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I often go for a walk",
+      "rus": "Я часто хожу гулять",
+      "id": "3",
+      "level": "a1",
+      "lesson": "3",
+      "type": null,
+      "errors": 1,
+      "correctly": 1
+    },
+    {
+      "eng": "I want to buy these tickets",
+      "rus": "Я хочу купить эти билеты",
+      "id": "29",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I want to buy this ticket",
+      "rus": "Я хочу купить этот билет",
+      "id": "16",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I want to call you now",
+      "rus": "Я хочу позвонить тебе сейчас",
+      "id": "14",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I want to go for a walk",
+      "rus": "Я хочу пойти на прогулку",
+      "id": "24",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I want to go there with you",
+      "rus": "Я хочу пойти туда с тобой",
+      "id": "26",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I want to go to this restaurant",
+      "rus": "Я хочу пойти в этот ресторан",
+      "id": "19",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I want to go to this shop",
+      "rus": "Я хочу пойти в этот магазин",
+      "id": "27",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I want to order it online",
+      "rus": "Я хочу заказать это онлайн",
+      "id": "17",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I want to order these tickets online",
+      "rus": "Я хочу заказать эти билеты онлайн",
+      "id": "11",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I want to order this food online",
+      "rus": "Я хочу заказать эту еду онлайн",
+      "id": "13",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I want to say one thing",
+      "rus": "Я хочу сказать одну вещь",
+      "id": "2",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I want to say one very important thing",
+      "rus": "Я хочу сказать одну очень важную вещь",
+      "id": "10",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I want to tell you about one problem",
+      "rus": "Я хочу сказать тебе об одной проблеме",
+      "id": "21",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I want to tell you one thing",
+      "rus": "Я хочу сказать тебе одну вещь",
+      "id": "1",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I want to visit new countries and cities",
+      "rus": "Я хочу посетить новые страны и города",
+      "id": "6",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I'd like to drink coffee",
+      "rus": "Я хотел бы выпить кофе",
+      "id": "23",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I'd like to drink tea",
+      "rus": "Я хотел бы попить чаю",
+      "id": "18",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I'd like to go for a walk now",
+      "rus": "Я бы хотел пойти на прогулку сейчас",
+      "id": "9",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I'd like to go to America",
+      "rus": "Я бы хотел поехать в Америку",
+      "id": "20",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I'd like to go to the United States next year",
+      "rus": "Я бы хотел поехать в Соединенные Штаты в следующем году",
+      "id": "25",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I'd like to try on these jeans",
+      "rus": "Я бы хотел примерить эти джинсы",
+      "id": "8",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I'd like to try on these shoes",
+      "rus": "Я бы хотел примерить эту обувь",
+      "id": "12",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I'd like to try on this dress",
+      "rus": "Я бы хотела примерить это платье",
+      "id": "22",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I'd like to try on this sweater",
+      "rus": "Я бы хотел примерить этот свитер",
+      "id": "30",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I'd like to visit the United States",
+      "rus": "Я бы хотел посетить Соединенные Штаты",
+      "id": "7",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I'd like to visit this city",
+      "rus": "Я бы хотел посетить этот город",
+      "id": "28",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "I'd like to visit this country",
+      "rus": "Я бы хотел посетить эту страну",
+      "id": "5",
+      "level": "a1",
+      "lesson": "3"
+    },
+    {
+      "eng": "We go to university",
+      "rus": "Мы ходим в университет",
+      "id": "4",
+      "level": "a1",
+      "lesson": "3"
     }
   ]
 }
