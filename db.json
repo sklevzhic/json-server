@@ -5600,14 +5600,14 @@
   "english": [
     {
       "eng": "I like English",
-      "rus": "Мне нравится английский  ",
+      "rus": "Мне нравится английский",
       "id": "32",
       "level": "a0",
       "lesson": "1"
     },
     {
       "eng": "You do it very well",
-      "rus": "Ты делаешь это очень хорошо ",
+      "rus": "Ты делаешь это очень хорошо",
       "id": "33",
       "level": "a0",
       "lesson": "1"
@@ -5671,11 +5671,11 @@
     },
     {
       "eng": "I really like this course",
-      "rus": "Мне очень нравится этот курс - ",
+      "rus": "Мне очень нравится этот курс",
       "id": "70",
       "level": "a0",
       "lesson": "1",
-      "correctly": 1
+      "correctly": 2
     },
     {
       "eng": "We support you",
@@ -5709,7 +5709,7 @@
     },
     {
       "eng": "They want more",
-      "rus": "Они хотят большего  ",
+      "rus": "Они хотят большего",
       "id": "34",
       "level": "a0",
       "lesson": "1"
@@ -5723,7 +5723,7 @@
     },
     {
       "eng": "We have a job",
-      "rus": "У нас есть работа ",
+      "rus": "У нас есть работа",
       "id": "35",
       "level": "a0",
       "lesson": "1"
@@ -5740,7 +5740,9 @@
       "rus": "Мы ходим в университет",
       "id": "80",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "errors": 1,
+      "correctly": 1
     },
     {
       "eng": "I have an umbrella",
@@ -5775,14 +5777,16 @@
       "rus": "Я хочу посетить Англию ",
       "id": "111",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "correctly": 1
     },
     {
       "eng": "I want to tell you about one problem",
       "rus": "Я хочу сказать тебе об одной проблеме ",
       "id": "97",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "correctly": 1
     },
     {
       "eng": "I want to talk about it",
@@ -6498,6 +6502,257 @@
       "id": "4",
       "level": "a1",
       "lesson": "3"
+    },
+    {
+      "rus": "Эта речь действительно вдохновила меня",
+      "eng": "This speech really inspired",
+      "id": "128",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Мы все обсудили",
+      "eng": "We discussed everything",
+      "id": "129",
+      "level": "a1",
+      "lesson": "24",
+      "errors": 1,
+      "correctly": 1
+    },
+    {
+      "rus": "Это действительно имело значение",
+      "eng": "It really mattered",
+      "id": "130",
+      "level": "a1",
+      "lesson": "24",
+      "errors": 1,
+      "correctly": 1
+    },
+    {
+      "rus": "Я нашел некоторые ошибки и исправил их",
+      "eng": "I found some mistakes and corrected them",
+      "id": "131",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я исправил все ошибки",
+      "eng": "I corrected all the mistakes",
+      "id": "132",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Он пожаловался на это менеджеру",
+      "eng": "He complained about it to the manager",
+      "id": "133",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Он прыгнул очень высоко",
+      "eng": "He jumped very high",
+      "id": "134",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я помыл посуду",
+      "eng": "I washed the dishes",
+      "id": "135",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Это зависело от различных факторов",
+      "eng": "It depended on different factors",
+      "id": "136",
+      "level": "a1",
+      "lesson": "24",
+      "errors": 1,
+      "correctly": 1
+    },
+    {
+      "rus": "Она вымыла пол",
+      "eng": "She washed the floor",
+      "id": "137",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Этот бизнес принадлежал ему",
+      "eng": "This business belonged to him",
+      "id": "138",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я действительно беспокоился об этом",
+      "eng": "I really worried about it",
+      "id": "139",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Солдаты разрушили то здание полностью",
+      "eng": "The soldiers destroyed that building completely",
+      "id": "140",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я закончил эту работу десять минут назад",
+      "eng": "I finished this work ten minutes ago",
+      "id": "141",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Они часто смеялись над этим",
+      "eng": "They often laughed at it",
+      "id": "142",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Он поцеловал ее",
+      "eng": "He kissed her",
+      "id": "143",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Этот автор опубликовал несколько статей",
+      "eng": "This author published several articles",
+      "id": "144",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Она провалила экзамен",
+      "eng": "She failed the exam",
+      "id": "145",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Он провалил этот экзамен",
+      "eng": "He failed this exam",
+      "id": "146",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Он провалил тест",
+      "eng": "He failed the test",
+      "id": "147",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Его слова звучали действительно странно",
+      "eng": "His words sounded really strange",
+      "id": "148",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Они думали, что эта вещь не была такой важной, но это действительно имело значение",
+      "eng": "They thought that this thing wasn't so important but it really mattered",
+      "id": "149",
+      "level": "a1",
+      "lesson": "24",
+      "errors": 1
+    },
+    {
+      "rus": "Он записал новое видео",
+      "eng": "He recorded a new video",
+      "id": "150",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я учился почти каждый день",
+      "eng": "I studied almost every day",
+      "id": "151",
+      "level": "a1",
+      "lesson": "24",
+      "errors": 1,
+      "correctly": 1
+    },
+    {
+      "rus": "Они часто смеялись над ним",
+      "eng": "They often laughed at him",
+      "id": "152",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я пожелал ей всего наилучшего",
+      "eng": "I wished her all the best",
+      "id": "153",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я посетил этот остров в прошлом году",
+      "eng": "I visited this island last year",
+      "id": "154",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Она приготовила очень вкусный торт",
+      "eng": "She cooked a very tasty cake",
+      "id": "155",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Успех этого проекта зависел от каждого из нас",
+      "eng": "The success of this project depended on each of us",
+      "id": "156",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Этот результат действительно мотивировал меня",
+      "eng": "This result really motivated me",
+      "id": "157",
+      "level": "a1",
+      "lesson": "24",
+      "errors": 1,
+      "correctly": 1
+    },
+    {
+      "rus": "Я пригласил ее на свой день рождения",
+      "eng": "I invited her to my birthday",
+      "id": "158",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Они разрушили это здание полностью",
+      "eng": "They destroyed this building completely",
+      "id": "159",
+      "level": "a1",
+      "lesson": "24",
+      "errors": 2,
+      "correctly": 2
+    },
+    {
+      "rus": "Она решила пожаловаться на это менеджеру",
+      "eng": "She decided to complain about it to the manager",
+      "id": "160",
+      "level": "a1",
+      "lesson": "24"
+    },
+    {
+      "rus": "Этот писатель опубликовал более десяти книг",
+      "eng": "This writer published more than ten books",
+      "id": "161",
+      "level": "a1",
+      "lesson": "24"
     }
   ]
 }
