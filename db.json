@@ -5660,7 +5660,8 @@
       "rus": "Мне очень нравится это ",
       "id": "39",
       "level": "a0",
-      "lesson": "1"
+      "lesson": "1",
+      "errors": 1
     },
     {
       "eng": "You have a talent",
@@ -5719,7 +5720,8 @@
       "rus": "У нас есть цель",
       "id": "60",
       "level": "a0",
-      "lesson": "1"
+      "lesson": "1",
+      "errors": 1
     },
     {
       "eng": "We have a job",
@@ -5749,7 +5751,8 @@
       "rus": "У меня есть зонт ",
       "id": "45",
       "level": "a0",
-      "lesson": "1"
+      "lesson": "1",
+      "correctly": 1
     },
     {
       "eng": "I work in this company",
@@ -5877,7 +5880,8 @@
       "rus": "Я хочу пойти туда с тобой ",
       "id": "102",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "correctly": 1
     },
     {
       "eng": "I want to go for a walk",
@@ -6090,14 +6094,16 @@
       "rus": "У меня есть цель ",
       "id": "57",
       "level": "a0",
-      "lesson": "1"
+      "lesson": "1",
+      "errors": 1
     },
     {
       "eng": "I have a ticket",
       "rus": "У меня есть билет ",
       "id": "75",
       "level": "a0",
-      "lesson": "1"
+      "lesson": "1",
+      "correctly": 1
     },
     {
       "eng": "I have a question",
@@ -6139,7 +6145,8 @@
       "rus": "У меня есть мечта ",
       "id": "36",
       "level": "a0",
-      "lesson": "1"
+      "lesson": "1",
+      "correctly": 1
     },
     {
       "eng": "I go to work",
@@ -6225,7 +6232,8 @@
       "rus": "Я бы хотел примерить эту обувь ",
       "id": "88",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "correctly": 1
     },
     {
       "eng": "I'd like to try on these jeans",
@@ -6260,7 +6268,8 @@
       "rus": "Я бы хотел поехать в Америку ",
       "id": "96",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "correctly": 1
     },
     {
       "eng": "I'd like to go home",
@@ -6508,7 +6517,8 @@
       "eng": "This speech really inspired",
       "id": "128",
       "level": "a1",
-      "lesson": "24"
+      "lesson": "24",
+      "errors": 1
     },
     {
       "rus": "Мы все обсудили",
@@ -6533,7 +6543,9 @@
       "eng": "I found some mistakes and corrected them",
       "id": "131",
       "level": "a1",
-      "lesson": "24"
+      "lesson": "24",
+      "errors": 1,
+      "correctly": 1
     },
     {
       "rus": "Я исправил все ошибки",
@@ -6598,7 +6610,9 @@
       "eng": "The soldiers destroyed that building completely",
       "id": "140",
       "level": "a1",
-      "lesson": "24"
+      "lesson": "24",
+      "errors": 1,
+      "correctly": 1
     },
     {
       "rus": "Я закончил эту работу десять минут назад",
@@ -6619,14 +6633,17 @@
       "eng": "He kissed her",
       "id": "143",
       "level": "a1",
-      "lesson": "24"
+      "lesson": "24",
+      "errors": 1
     },
     {
       "rus": "Этот автор опубликовал несколько статей",
       "eng": "This author published several articles",
       "id": "144",
       "level": "a1",
-      "lesson": "24"
+      "lesson": "24",
+      "errors": 3,
+      "correctly": 2
     },
     {
       "rus": "Она провалила экзамен",
@@ -6640,7 +6657,8 @@
       "eng": "He failed this exam",
       "id": "146",
       "level": "a1",
-      "lesson": "24"
+      "lesson": "24",
+      "correctly": 2
     },
     {
       "rus": "Он провалил тест",
@@ -6706,14 +6724,17 @@
       "eng": "She cooked a very tasty cake",
       "id": "155",
       "level": "a1",
-      "lesson": "24"
+      "lesson": "24",
+      "errors": 1,
+      "correctly": 1
     },
     {
       "rus": "Успех этого проекта зависел от каждого из нас",
       "eng": "The success of this project depended on each of us",
       "id": "156",
       "level": "a1",
-      "lesson": "24"
+      "lesson": "24",
+      "errors": 1
     },
     {
       "rus": "Этот результат действительно мотивировал меня",
@@ -6729,7 +6750,8 @@
       "eng": "I invited her to my birthday",
       "id": "158",
       "level": "a1",
-      "lesson": "24"
+      "lesson": "24",
+      "correctly": 1
     },
     {
       "rus": "Они разрушили это здание полностью",
@@ -6738,7 +6760,7 @@
       "level": "a1",
       "lesson": "24",
       "errors": 2,
-      "correctly": 2
+      "correctly": 3
     },
     {
       "rus": "Она решила пожаловаться на это менеджеру",
@@ -6752,7 +6774,9 @@
       "eng": "This writer published more than ten books",
       "id": "161",
       "level": "a1",
-      "lesson": "24"
+      "lesson": "24",
+      "errors": 1,
+      "correctly": 1
     }
   ]
 }
