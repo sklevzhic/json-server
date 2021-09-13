@@ -5631,21 +5631,24 @@
       "rus": "У них есть работа",
       "id": "52",
       "level": "a0",
-      "lesson": "1"
+      "lesson": "1",
+      "correctly": 1
     },
     {
       "eng": "They have an idea",
       "rus": "У них есть идея",
       "id": "69",
       "level": "a0",
-      "lesson": "1"
+      "lesson": "1",
+      "correctly": 1
     },
     {
       "eng": "They work in a company",
       "rus": "Они работают в компании",
       "id": "66",
       "level": "a0",
-      "lesson": "1"
+      "lesson": "1",
+      "correctly": 1
     },
     {
       "eng": "They work in this place",
@@ -5705,7 +5708,7 @@
       "id": "42",
       "level": "a0",
       "lesson": "1",
-      "correctly": 1,
+      "correctly": 2,
       "errors": 2
     },
     {
@@ -5721,7 +5724,8 @@
       "id": "60",
       "level": "a0",
       "lesson": "1",
-      "errors": 1
+      "errors": 1,
+      "correctly": 1
     },
     {
       "eng": "We have a job",
@@ -5744,7 +5748,7 @@
       "level": "a0",
       "lesson": "2",
       "errors": 1,
-      "correctly": 1
+      "correctly": 3
     },
     {
       "eng": "I have an umbrella",
@@ -5752,14 +5756,15 @@
       "id": "45",
       "level": "a0",
       "lesson": "1",
-      "correctly": 1
+      "correctly": 2
     },
     {
       "eng": "I work in this company",
       "rus": "Я работаю в этой компании ",
       "id": "43",
       "level": "a0",
-      "lesson": "1"
+      "lesson": "1",
+      "correctly": 2
     },
     {
       "eng": "I want to visit Spain",
@@ -5773,7 +5778,8 @@
       "rus": "Я хочу посетить новые страны и города ",
       "id": "82",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "correctly": 1
     },
     {
       "eng": "I want to visit England",
@@ -5796,7 +5802,8 @@
       "rus": "Я хочу поговорить об этом ",
       "id": "126",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "correctly": 1
     },
     {
       "eng": "I want to say one very important thing",
@@ -5810,7 +5817,8 @@
       "rus": "Я хочу сказать одну вещь ",
       "id": "78",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "correctly": 1
     },
     {
       "eng": "I want to order this food online",
@@ -5824,14 +5832,16 @@
       "rus": "Я хочу заказать эти билеты онлайн ",
       "id": "87",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "correctly": 1
     },
     {
       "eng": "I want to order it online",
       "rus": "Я хочу заказать это онлайн ",
       "id": "93",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "correctly": 1
     },
     {
       "eng": "I want to learn English",
@@ -5859,7 +5869,8 @@
       "rus": "Я хочу поехать в Соединение Штаты ",
       "id": "124",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "correctly": 1
     },
     {
       "eng": "I want to go to the park",
@@ -5873,7 +5884,8 @@
       "rus": "Я хочу поехать в Англию ",
       "id": "109",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "correctly": 1
     },
     {
       "eng": "I want to go there with you",
@@ -5881,7 +5893,7 @@
       "id": "102",
       "level": "a0",
       "lesson": "2",
-      "correctly": 1
+      "correctly": 2
     },
     {
       "eng": "I want to go for a walk",
@@ -5895,7 +5907,8 @@
       "rus": "Я хочу позвонить тебе сейчас ",
       "id": "90",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "correctly": 1
     },
     {
       "eng": "I want to buy this ticket",
@@ -5938,28 +5951,32 @@
       "rus": "Я поддерживаю тебя ",
       "id": "54",
       "level": "a0",
-      "lesson": "1"
+      "lesson": "1",
+      "correctly": 1
     },
     {
       "eng": "I see an airport",
       "rus": "Я вижу аэропорт ",
       "id": "71",
       "level": "a0",
-      "lesson": "1"
+      "lesson": "1",
+      "correctly": 1
     },
     {
       "eng": "I see a university",
       "rus": "Я вижу университет ",
       "id": "73",
       "level": "a0",
-      "lesson": "1"
+      "lesson": "1",
+      "correctly": 1
     },
     {
       "eng": "I see a train",
       "rus": "Я вижу поезд ",
       "id": "64",
       "level": "a0",
-      "lesson": "1"
+      "lesson": "1",
+      "correctly": 1
     },
     {
       "eng": "I see a supermarket",
@@ -6010,14 +6027,16 @@
       "rus": "Мне очень нравится этот город ",
       "id": "62",
       "level": "a0",
-      "lesson": "1"
+      "lesson": "1",
+      "correctly": 1
     },
     {
       "eng": "I often go there",
       "rus": "Я часто хожу туда ",
       "id": "108",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "correctly": 1
     },
     {
       "eng": "I often go for a walk",
@@ -6038,7 +6057,8 @@
       "rus": "Мне нужно идти домой ",
       "id": "110",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "correctly": 1
     },
     {
       "eng": "I need to do it now",
@@ -6059,14 +6079,16 @@
       "rus": "Мне нужно быть там скоро ",
       "id": "119",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "correctly": 2
     },
     {
       "eng": "I like this place",
       "rus": "Мне нравится это место ",
       "id": "50",
       "level": "a0",
-      "lesson": "1"
+      "lesson": "1",
+      "correctly": 1
     },
     {
       "eng": "I like this food",
@@ -6080,7 +6102,8 @@
       "rus": "Я знаю ",
       "id": "63",
       "level": "a0",
-      "lesson": "1"
+      "lesson": "1",
+      "correctly": 1
     },
     {
       "eng": "I have an idea",
@@ -6095,7 +6118,8 @@
       "id": "57",
       "level": "a0",
       "lesson": "1",
-      "errors": 1
+      "errors": 1,
+      "correctly": 1
     },
     {
       "eng": "I have a ticket",
@@ -6110,14 +6134,16 @@
       "rus": "У меня вопрос ",
       "id": "59",
       "level": "a0",
-      "lesson": "1"
+      "lesson": "1",
+      "correctly": 1
     },
     {
       "eng": "I have a problem",
       "rus": "У меня проблема ",
       "id": "58",
       "level": "a0",
-      "lesson": "1"
+      "lesson": "1",
+      "correctly": 1
     },
     {
       "eng": "I have a job",
@@ -6168,7 +6194,7 @@
       "id": "56",
       "level": "a0",
       "lesson": "1",
-      "correctly": 1,
+      "correctly": 2,
       "errors": 1
     },
     {
@@ -6204,7 +6230,8 @@
       "rus": "Я бы хотел примерить этот свитер ",
       "id": "106",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "correctly": 1
     },
     {
       "eng": "I want to tell you one thing",
@@ -6233,7 +6260,7 @@
       "id": "88",
       "level": "a0",
       "lesson": "2",
-      "correctly": 1
+      "correctly": 2
     },
     {
       "eng": "I'd like to try on these jeans",
@@ -6297,7 +6324,8 @@
       "rus": "Я хотел бы выпить кофе ",
       "id": "99",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "correctly": 1
     },
     {
       "eng": "I need to do it now",
@@ -6349,7 +6377,8 @@
       "rus": "Я хочу пойти туда с тобой",
       "id": "26",
       "level": "a1",
-      "lesson": "3"
+      "lesson": "3",
+      "correctly": 1
     },
     {
       "eng": "I want to go to this restaurant",
@@ -6370,14 +6399,16 @@
       "rus": "Я хочу заказать это онлайн",
       "id": "17",
       "level": "a1",
-      "lesson": "3"
+      "lesson": "3",
+      "correctly": 2
     },
     {
       "eng": "I want to order these tickets online",
       "rus": "Я хочу заказать эти билеты онлайн",
       "id": "11",
       "level": "a1",
-      "lesson": "3"
+      "lesson": "3",
+      "correctly": 1
     },
     {
       "eng": "I want to order this food online",
@@ -6405,7 +6436,8 @@
       "rus": "Я хочу сказать тебе об одной проблеме",
       "id": "21",
       "level": "a1",
-      "lesson": "3"
+      "lesson": "3",
+      "correctly": 2
     },
     {
       "eng": "I want to tell you one thing",
@@ -6440,7 +6472,8 @@
       "rus": "Я бы хотел пойти на прогулку сейчас",
       "id": "9",
       "level": "a1",
-      "lesson": "3"
+      "lesson": "3",
+      "correctly": 1
     },
     {
       "eng": "I'd like to go to America",
@@ -6454,7 +6487,8 @@
       "rus": "Я бы хотел поехать в Соединенные Штаты в следующем году",
       "id": "25",
       "level": "a1",
-      "lesson": "3"
+      "lesson": "3",
+      "correctly": 1
     },
     {
       "eng": "I'd like to try on these jeans",
@@ -6468,7 +6502,8 @@
       "rus": "Я бы хотел примерить эту обувь",
       "id": "12",
       "level": "a1",
-      "lesson": "3"
+      "lesson": "3",
+      "correctly": 2
     },
     {
       "eng": "I'd like to try on this dress",
@@ -6489,21 +6524,24 @@
       "rus": "Я бы хотел посетить Соединенные Штаты",
       "id": "7",
       "level": "a1",
-      "lesson": "3"
+      "lesson": "3",
+      "correctly": 1
     },
     {
       "eng": "I'd like to visit this city",
       "rus": "Я бы хотел посетить этот город",
       "id": "28",
       "level": "a1",
-      "lesson": "3"
+      "lesson": "3",
+      "correctly": 1
     },
     {
       "eng": "I'd like to visit this country",
       "rus": "Я бы хотел посетить эту страну",
       "id": "5",
       "level": "a1",
-      "lesson": "3"
+      "lesson": "3",
+      "correctly": 1
     },
     {
       "eng": "We go to university",
@@ -6566,14 +6604,16 @@
       "eng": "He jumped very high",
       "id": "134",
       "level": "a1",
-      "lesson": "24"
+      "lesson": "24",
+      "correctly": 1
     },
     {
       "rus": "Я помыл посуду",
       "eng": "I washed the dishes",
       "id": "135",
       "level": "a1",
-      "lesson": "24"
+      "lesson": "24",
+      "correctly": 1
     },
     {
       "rus": "Это зависело от различных факторов",
@@ -6596,14 +6636,16 @@
       "eng": "This business belonged to him",
       "id": "138",
       "level": "a1",
-      "lesson": "24"
+      "lesson": "24",
+      "correctly": 1
     },
     {
       "rus": "Я действительно беспокоился об этом",
       "eng": "I really worried about it",
       "id": "139",
       "level": "a1",
-      "lesson": "24"
+      "lesson": "24",
+      "correctly": 1
     },
     {
       "rus": "Солдаты разрушили то здание полностью",
@@ -6650,7 +6692,8 @@
       "eng": "She failed the exam",
       "id": "145",
       "level": "a1",
-      "lesson": "24"
+      "lesson": "24",
+      "correctly": 1
     },
     {
       "rus": "Он провалил этот экзамен",
@@ -6672,7 +6715,8 @@
       "eng": "His words sounded really strange",
       "id": "148",
       "level": "a1",
-      "lesson": "24"
+      "lesson": "24",
+      "correctly": 1
     },
     {
       "rus": "Они думали, что эта вещь не была такой важной, но это действительно имело значение",
@@ -6703,7 +6747,8 @@
       "eng": "They often laughed at him",
       "id": "152",
       "level": "a1",
-      "lesson": "24"
+      "lesson": "24",
+      "correctly": 1
     },
     {
       "rus": "Я пожелал ей всего наилучшего",
@@ -6726,7 +6771,7 @@
       "level": "a1",
       "lesson": "24",
       "errors": 1,
-      "correctly": 1
+      "correctly": 2
     },
     {
       "rus": "Успех этого проекта зависел от каждого из нас",
@@ -6743,7 +6788,7 @@
       "level": "a1",
       "lesson": "24",
       "errors": 1,
-      "correctly": 1
+      "correctly": 2
     },
     {
       "rus": "Я пригласил ее на свой день рождения",
@@ -6760,7 +6805,7 @@
       "level": "a1",
       "lesson": "24",
       "errors": 2,
-      "correctly": 3
+      "correctly": 4
     },
     {
       "rus": "Она решила пожаловаться на это менеджеру",
