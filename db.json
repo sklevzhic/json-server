@@ -5670,7 +5670,8 @@
       "rus": "Я хочу купить это ",
       "id": "10",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "errors": 1
     },
     {
       "eng": "I often go there",
@@ -5695,7 +5696,8 @@
       "id": "13",
       "level": "a1",
       "lesson": "3",
-      "correctly": "1"
+      "correctly": "1",
+      "errors": "11"
     },
     {
       "eng": "I need to go home",
@@ -5703,7 +5705,8 @@
       "id": "14",
       "level": "a0",
       "lesson": "2",
-      "correctly": "1"
+      "correctly": "1",
+      "errors": "11"
     },
     {
       "eng": "I want to visit England",
@@ -5760,7 +5763,8 @@
       "rus": "Они ходят в школу",
       "id": "22",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "errors": 1
     },
     {
       "eng": "I need to be there soon",
@@ -5829,7 +5833,8 @@
       "id": "31",
       "level": "a0",
       "lesson": "2",
-      "correctly": "1"
+      "correctly": "1",
+      "errors": "11"
     },
     {
       "eng": "I want to go to the park",
@@ -5879,7 +5884,7 @@
       "level": "a1",
       "lesson": "24",
       "correctly": "1",
-      "errors": "1"
+      "errors": "11"
     },
     {
       "eng": "I corrected all the mistakes",
@@ -5895,7 +5900,7 @@
       "id": "39",
       "level": "a1",
       "lesson": "24",
-      "errors": "1"
+      "errors": 1
     },
     {
       "eng": "He jumped very high",
@@ -5995,7 +6000,7 @@
       "level": "a1",
       "lesson": "24",
       "correctly": "2",
-      "errors": "3"
+      "errors": "21"
     },
     {
       "eng": "She failed the exam",
@@ -6012,7 +6017,8 @@
       "id": "53",
       "level": "a1",
       "lesson": "24",
-      "correctly": "2"
+      "correctly": "2",
+      "errors": "21"
     },
     {
       "eng": "He failed the test",
@@ -6020,7 +6026,7 @@
       "id": "54",
       "level": "a1",
       "lesson": "24",
-      "errors": "1"
+      "errors": 1
     },
     {
       "eng": "His words sounded really strange",
@@ -6028,7 +6034,8 @@
       "id": "55",
       "level": "a1",
       "lesson": "24",
-      "correctly": "1"
+      "correctly": "1",
+      "errors": "11"
     },
     {
       "eng": "They thought that this thing wasn't so important but it really mattered",
@@ -6204,7 +6211,8 @@
       "rus": "Я бы хотела примерить это платье",
       "id": "77",
       "level": "a1",
-      "lesson": "3"
+      "lesson": "3",
+      "errors": 1
     },
     {
       "eng": "I'd like to drink coffee",
@@ -6227,7 +6235,8 @@
       "id": "80",
       "level": "a1",
       "lesson": "3",
-      "correctly": "1"
+      "correctly": "1",
+      "errors": "11"
     },
     {
       "eng": "I want to go there with you",
@@ -6258,7 +6267,7 @@
       "id": "84",
       "level": "a1",
       "lesson": "3",
-      "errors": "1"
+      "errors": 1
     },
     {
       "eng": "I often go for a walk",
@@ -6283,7 +6292,7 @@
       "id": "87",
       "level": "a0",
       "lesson": "1",
-      "errors": "1"
+      "errors": 1
     },
     {
       "eng": "I like English",
@@ -6305,7 +6314,8 @@
       "rus": "Они хотят большего",
       "id": "90",
       "level": "a0",
-      "lesson": "1"
+      "lesson": "1",
+      "errors": 1
     },
     {
       "eng": "We have a job",
@@ -6336,7 +6346,8 @@
       "rus": "Я вижу отель ",
       "id": "94",
       "level": "a0",
-      "lesson": "1"
+      "lesson": "1",
+      "errors": 1
     },
     {
       "eng": "I really like it",
@@ -6413,7 +6424,8 @@
       "rus": "У меня есть работа ",
       "id": "104",
       "level": "a0",
-      "lesson": "1"
+      "lesson": "1",
+      "errors": 1
     },
     {
       "eng": "I have a friend",
@@ -6428,7 +6440,8 @@
       "rus": "Я очень хочу это ",
       "id": "106",
       "level": "a0",
-      "lesson": "1"
+      "lesson": "1",
+      "errors": 1
     },
     {
       "eng": "I'd like to visit this country",
@@ -6552,7 +6565,7 @@
       "level": "a0",
       "lesson": "1",
       "correctly": "1",
-      "errors": "2"
+      "errors": "11"
     },
     {
       "eng": "I know",
@@ -6676,7 +6689,8 @@
       "rus": "Я хочу сказать тебе одну вещь - ",
       "id": "137",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "errors": 1
     },
     {
       "eng": "I want to say one thing",
@@ -6691,7 +6705,8 @@
       "rus": "Я часто хожу гулять ",
       "id": "139",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "errors": 1
     },
     {
       "eng": "I'd like to try on these jeans",
@@ -6759,7 +6774,8 @@
       "id": "148",
       "level": "a0",
       "lesson": "2",
-      "correctly": "1"
+      "correctly": "1",
+      "errors": "11"
     },
     {
       "eng": "I'd like to try on these shoes",
@@ -6775,7 +6791,7 @@
       "id": "150",
       "level": "a0",
       "lesson": "2",
-      "errors": "1"
+      "errors": 1
     },
     {
       "eng": "I'd like to go for a walk now",
@@ -6878,7 +6894,8 @@
       "rus": "Она не знает ответа",
       "id": "163",
       "level": "33",
-      "lesson": "2"
+      "lesson": "2",
+      "errors": 1
     },
     {
       "eng": "I don't have time",
@@ -6900,7 +6917,8 @@
       "rus": "Он не знает ответа",
       "id": "166",
       "level": "33",
-      "lesson": "2"
+      "lesson": "2",
+      "errors": 1
     },
     {
       "eng": "She doesn't understand it",
@@ -7044,7 +7062,8 @@
       "rus": "Они не хотят говорить это",
       "id": "186",
       "level": "33",
-      "lesson": "2"
+      "lesson": "2",
+      "errors": 1
     },
     {
       "eng": "I don't think about it",
@@ -7281,7 +7300,8 @@
       "rus": "Она живет с родителями?",
       "id": "219",
       "level": "a0",
-      "lesson": "10"
+      "lesson": "10",
+      "errors": 1
     },
     {
       "eng": " Do you often go there?",
@@ -7380,7 +7400,8 @@
       "rus": "Он говорит по-английски?",
       "id": "233",
       "level": "a0",
-      "lesson": "10"
+      "lesson": "10",
+      "errors": 1
     },
     {
       "eng": " Do you want to live in another city?",
@@ -7659,7 +7680,8 @@
       "rus": "Сколько стоит эта услуга?",
       "id": "271",
       "level": "a0",
-      "lesson": "12"
+      "lesson": "12",
+      "errors": 1
     },
     {
       "eng": " Where does she study?",
@@ -7673,7 +7695,8 @@
       "rus": "Какие фильмы ты смотришь?",
       "id": "273",
       "level": "a0",
-      "lesson": "12"
+      "lesson": "12",
+      "errors": 1
     },
     {
       "eng": " How much do you pay for it?",
@@ -7702,7 +7725,8 @@
       "rus": "Как часто ты проводишь время с семьей?",
       "id": "277",
       "level": "a0",
-      "lesson": "12"
+      "lesson": "12",
+      "errors": 1
     },
     {
       "eng": " How much do you pay for this service?",
@@ -7716,7 +7740,8 @@
       "rus": "Куда ты хочешь пойти сейча",
       "id": "279",
       "level": "a0",
-      "lesson": "12"
+      "lesson": "12",
+      "errors": 1
     },
     {
       "eng": " What does he want?",
@@ -7794,7 +7819,8 @@
       "rus": "Как ты предпочитаешь учить английский?",
       "id": "290",
       "level": "a0",
-      "lesson": "12"
+      "lesson": "12",
+      "errors": 1
     },
     {
       "eng": " Where do you live?",
@@ -7877,6 +7903,2131 @@
       "level": "a0",
       "lesson": "12",
       "errors": 1
+    },
+    {
+      "rus": "Это так легко для меня",
+      "eng": "It's so easy for me",
+      "id": "302",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Я сейчас не занят Я свободен",
+      "eng": "I'm not busy now I'm free",
+      "id": "303",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Это место такое красивое",
+      "eng": "This place is so beautiful",
+      "id": "304",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Я сейчас не на работе Я дома",
+      "eng": "I'm not at work now I'm at home",
+      "id": "305",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Это не проблема для меня",
+      "eng": "It isn't a problem for me",
+      "id": "306",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Я женат",
+      "eng": "I'm married",
+      "id": "307",
+      "level": "a0",
+      "lesson": "16",
+      "errors": 1
+    },
+    {
+      "rus": "Это не интересно мне",
+      "eng": "It isn't interesting for me",
+      "id": "308",
+      "level": "a0",
+      "lesson": "16",
+      "errors": 1
+    },
+    {
+      "rus": "я вижу что ты не уверен",
+      "eng": "I see that you aren't sure",
+      "id": "309",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Он не врач Он учитель",
+      "eng": "He isn't a doctor He's a teacher",
+      "id": "310",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Этот урок очень полезный",
+      "eng": "This lesson is very useful",
+      "id": "311",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Он не прав",
+      "eng": "He isn't right",
+      "id": "312",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Моя мама - врач",
+      "eng": "My mother is a doctor",
+      "id": "313",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Я думаю что ты не прав",
+      "eng": "I think that you aren't right",
+      "id": "314",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Они не бедные Они очень богатые",
+      "eng": "They aren't poor They're very rich",
+      "id": "315",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Это не интересно",
+      "eng": "It isn't interesting",
+      "id": "316",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Я не женатЯ не замужем",
+      "eng": "I'm not married",
+      "id": "317",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Мой отец - менеджер",
+      "eng": "My father is a manager",
+      "id": "318",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "этот отель очень хороший",
+      "eng": "This hotel is very good",
+      "id": "319",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Это не интересно Это так скучно",
+      "eng": "It isn't interesting It's so boring",
+      "id": "320",
+      "level": "a0",
+      "lesson": "16",
+      "errors": 1
+    },
+    {
+      "rus": "Это не плохо",
+      "eng": "It isn't bad",
+      "id": "321",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Это не ошибка",
+      "eng": "It isn't a mistake",
+      "id": "322",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Это не дорого Это очень дешево",
+      "eng": "It isn't expensive It's very cheap",
+      "id": "323",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Это действительно сложно",
+      "eng": "It's really difficult",
+      "id": "324",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Они сейчас не вместе",
+      "eng": "They aren't together now",
+      "id": "325",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Это не легко Это очень трудно",
+      "eng": "It isn't easy It's very difficult",
+      "id": "326",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Он не бедный Он очень богатый",
+      "eng": "He isn't poor He's very rich",
+      "id": "327",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Я вижу что ты не уверен по поводу этого",
+      "eng": "I see that you aren't sure about it",
+      "id": "328",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Это слишком сложно для меня",
+      "eng": "It's too difficult for me",
+      "id": "329",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Мой брат - студент",
+      "eng": "My brother is a student",
+      "id": "330",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Я холост",
+      "eng": "I'm single",
+      "id": "331",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Она не дизайнер Она медсестра",
+      "eng": "She isn't a designer She's a nurse",
+      "id": "332",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Это не важно",
+      "eng": "It isn't important",
+      "id": "333",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Они не в городе",
+      "eng": "They aren't in the city",
+      "id": "334",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Это не сложно Это так легко",
+      "eng": "It isn't difficult It's so easy",
+      "id": "335",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Это не интересно Это очень скучно",
+      "eng": "It isn't interesting It's very boring",
+      "id": "336",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Он не старый Он очень молод",
+      "eng": "He isn't old He's very young",
+      "id": "337",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Мы не в парке сейчас",
+      "eng": "We aren't in the park now",
+      "id": "338",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Он не женат Он холост",
+      "eng": "He isn't married He's single",
+      "id": "339",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Она не уверена по поводу этого",
+      "eng": "She isn't sure about it U'iznt Jur 'baut it",
+      "id": "340",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Я не дома",
+      "eng": "I'm not at home",
+      "id": "341",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Это видео не скучное Оно такое смешное",
+      "eng": "This video isn't boring It's so funny",
+      "id": "342",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Я не уверен по поводу этого",
+      "eng": "I'm not sure about it",
+      "id": "343",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Это видео очень смешное",
+      "eng": "This video is very funny",
+      "id": "344",
+      "level": "a0",
+      "lesson": "16"
+    },
+    {
+      "rus": "Она врач?",
+      "eng": "Is she a doctor?",
+      "id": "345",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Ты из Англии?",
+      "eng": " Are you from England?",
+      "id": "346",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "ЗОн бизнесмен?",
+      "eng": " Is he a businessman?",
+      "id": "347",
+      "level": "a0",
+      "lesson": "18",
+      "errors": 1
+    },
+    {
+      "rus": "Они менеджеры?",
+      "eng": " Are they managers?",
+      "id": "348",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Это популярно сейчас?",
+      "eng": " Is it popular now?",
+      "id": "349",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Ты на кухне?",
+      "eng": " Are you in the kitchen?",
+      "id": "350",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Они врачи?",
+      "eng": " Are they doctors?",
+      "id": "351",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Ты в комнате?",
+      "eng": " Are you in the room?",
+      "id": "352",
+      "level": "a0",
+      "lesson": "18",
+      "errors": 1
+    },
+    {
+      "rus": "Это легко?",
+      "eng": " Is it easy?",
+      "id": "353",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Ты занят?",
+      "eng": " Are you busy?",
+      "id": "354",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Они в отъезде?",
+      "eng": " Are they away?",
+      "id": "355",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Он менеджер?",
+      "eng": " Is he a manager?",
+      "id": "356",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "он твой друг?",
+      "eng": " Is he your friend?",
+      "id": "357",
+      "level": "a0",
+      "lesson": "18",
+      "errors": 1
+    },
+    {
+      "rus": "Ты онлайн?",
+      "eng": " Are you online?",
+      "id": "358",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Он в отъезде?",
+      "eng": " Is he away?",
+      "id": "359",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Ты в парке?",
+      "eng": " Are you in the park?",
+      "id": "360",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Это популярно?",
+      "eng": "Is it popular?",
+      "id": "361",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Ты рядом?",
+      "eng": " Are you near?",
+      "id": "362",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Она медсестра?",
+      "eng": " Is she a nurse?",
+      "id": "363",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Ты со своими друзьями сейчас?",
+      "eng": " Are you with your friendsnow?",
+      "id": "364",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Это действительно так важно?",
+      "eng": " Is it really so important?",
+      "id": "365",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Это действительно важно?",
+      "eng": " Is it really important?",
+      "id": "366",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Это интересно тебе?",
+      "eng": " Is it interesting for you?",
+      "id": "367",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Он из Соединенных Штатов?",
+      "eng": " Is he from the United States?",
+      "id": "368",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Ты дома?",
+      "eng": " Are you at home?",
+      "id": "369",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Это плохо?",
+      "eng": " Is it bad?",
+      "id": "370",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Это хорошо?",
+      "eng": " Is it good?",
+      "id": "371",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Ты в своей комнате?",
+      "eng": " Are you in your room?",
+      "id": "372",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "ты сейчас на работе?",
+      "eng": " Are you at work now?",
+      "id": "373",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Это полезно или нет?",
+      "eng": " Is it useful or not?",
+      "id": "374",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Она с тобой?",
+      "eng": " Is she with you?",
+      "id": "375",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Это легко или нет?",
+      "eng": " Is it easy or not?",
+      "id": "376",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Это важно?",
+      "eng": " Is it important?",
+      "id": "377",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Мы в правильном месте?",
+      "eng": " Are we in the right place?",
+      "id": "378",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Ты в этом городе?",
+      "eng": " Are you in this city?",
+      "id": "379",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Они счастливы?",
+      "eng": " Are they happy?",
+      "id": "380",
+      "level": "a0",
+      "lesson": "18",
+      "errors": 1
+    },
+    {
+      "rus": "Это дорого?",
+      "eng": " Is it expensive?",
+      "id": "381",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Это важно или нет?",
+      "eng": " Is it important or not?",
+      "id": "382",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "она из Италии?",
+      "eng": " Is she from Italy?",
+      "id": "383",
+      "level": "a0",
+      "lesson": "18",
+      "errors": 1
+    },
+    {
+      "rus": "Ты один?",
+      "eng": " Are you alone?",
+      "id": "384",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Это ошибка?",
+      "eng": " Is it a mistake?",
+      "id": "385",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Вы из России?",
+      "eng": " Are you from Russia?",
+      "id": "386",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Ты свободен?",
+      "eng": " Are you free?",
+      "id": "387",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Это хорошо или нет?",
+      "eng": " Is it good or not?",
+      "id": "388",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Это далеко?",
+      "eng": " Is it far?",
+      "id": "389",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Мы правы?",
+      "eng": " Are we right?",
+      "id": "390",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Ты в городе?",
+      "eng": " Are you in the city?",
+      "id": "391",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Они рядом?",
+      "eng": " Are they near?",
+      "id": "392",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Это трудно?",
+      "eng": " Is it difficult?",
+      "id": "393",
+      "level": "a0",
+      "lesson": "18"
+    },
+    {
+      "rus": "Это полезно?",
+      "eng": " Is it useful?",
+      "id": "394",
+      "level": "a0",
+      "lesson": "18",
+      "errors": 1
+    },
+    {
+      "rus": "Сколько стоит платье?",
+      "eng": " How much is the dress?",
+      "id": "395",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Что находится в коробке?",
+      "eng": " What's in the box?",
+      "id": "396",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Где находится супермаркет?",
+      "eng": " Where is the supermarket?",
+      "id": "397",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "что находится на полу?",
+      "eng": " What's on the floor?",
+      "id": "398",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Как его зовут?",
+      "eng": " What's his name?",
+      "id": "399",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Откуда ты? Я из России",
+      "eng": "Where are you from? I'm from Russia",
+      "id": "400",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Как у нее дела? Как она?",
+      "eng": "? How is she?",
+      "id": "401",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Где этот магазин?",
+      "eng": " Where is this shop?",
+      "id": "402",
+      "level": "a0",
+      "lesson": "20",
+      "errors": 1
+    },
+    {
+      "rus": "Где ты сейчас?",
+      "eng": " Where are you now?",
+      "id": "403",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Что находится на этом столе?",
+      "eng": " What's on this table?",
+      "id": "404",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Откуда ты? Я из Бразилии",
+      "eng": "Where are you from? I'm from Brazil",
+      "id": "405",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Когда ты на работе?",
+      "eng": " When are you at work?",
+      "id": "406",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Кем она работает?",
+      "eng": " What's her job?",
+      "id": "407",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Как у него дела? Как он?",
+      "eng": "? How is he?",
+      "id": "408",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Где это место?",
+      "eng": " Where is this place?",
+      "id": "409",
+      "level": "a0",
+      "lesson": "20",
+      "errors": 1
+    },
+    {
+      "rus": "Когда ты свободен?",
+      "eng": " When are you free?",
+      "id": "410",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Где это?",
+      "eng": " Where is it?",
+      "id": "411",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Где находится ближайший банк?",
+      "eng": " Where is the nearest bank?",
+      "id": "412",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Как у них дела Как они?",
+      "eng": " How are they?",
+      "id": "413",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Что находится на столе?",
+      "eng": " What's on the table?",
+      "id": "414",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Кем он работает?",
+      "eng": " What's his job?",
+      "id": "415",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Почему это так важно?",
+      "eng": " Why is it so important?",
+      "id": "416",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Где банк?",
+      "eng": " Where is the bank?",
+      "id": "417",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Где находится этот отель?",
+      "eng": " Where is this hotel?",
+      "id": "418",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Где находится ближайший магазин?",
+      "eng": " Where is the nearest shop?",
+      "id": "419",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Откуда она? Она из Германии",
+      "eng": "Where is she from? She's from Germany",
+      "id": "420",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Сколько стоит это платье?",
+      "eng": " How much is this dress?",
+      "id": "421",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Сколько это стоит?",
+      "eng": " How much is it?",
+      "id": "422",
+      "level": "a0",
+      "lesson": "20",
+      "errors": 1
+    },
+    {
+      "rus": "Сколько ей лет?",
+      "eng": " How old is she?",
+      "id": "423",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Где находится ближайший супермаркет?",
+      "eng": " Where is the nearest supermarket?",
+      "id": "424",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Что здесь??",
+      "eng": " What's here?",
+      "id": "425",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Где она?",
+      "eng": " Where is she?",
+      "id": "426",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Где аэропорт?",
+      "eng": " Where is the airport?",
+      "id": "427",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Кем ты работаешь?",
+      "eng": " What's your job?",
+      "id": "428",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Сколько тебе лет?",
+      "eng": " How old are you?",
+      "id": "429",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Сколько ему лет?",
+      "eng": " How old is he?",
+      "id": "430",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Где он?",
+      "eng": " Where is he?",
+      "id": "431",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Как дела? Как ты?",
+      "eng": "How are you?",
+      "id": "432",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Как ее зовут?",
+      "eng": " What's her name?",
+      "id": "433",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Почему это так дорого?",
+      "eng": " Why is it so expensive?",
+      "id": "434",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Где ты?",
+      "eng": " Where are you?",
+      "id": "435",
+      "level": "a0",
+      "lesson": "20",
+      "errors": 1
+    },
+    {
+      "rus": "Откуда ты? Я из Англии",
+      "eng": "Where are you from? I'm from England",
+      "id": "436",
+      "level": "a0",
+      "lesson": "20",
+      "errors": 1
+    },
+    {
+      "rus": "Где этот банк?",
+      "eng": " Where is this bank?",
+      "id": "437",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Откуда ты?",
+      "eng": " Where are you from?",
+      "id": "438",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Откуда он? Он из Соединенных Штатов",
+      "eng": "Where is he from? He's from the United States",
+      "id": "439",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Кто он?",
+      "eng": " Who is he?",
+      "id": "440",
+      "level": "a0",
+      "lesson": "20",
+      "errors": 1
+    },
+    {
+      "rus": "Что находится в этой коробке?",
+      "eng": " What's in this box?",
+      "id": "441",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Что там??",
+      "eng": " What's there?",
+      "id": "442",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Кто прав?",
+      "eng": " Who is right?",
+      "id": "443",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Как тебя зовут?",
+      "eng": " What's your name?",
+      "id": "444",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Кто она?",
+      "eng": " Who is she?",
+      "id": "445",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Сколько стоит сумка?",
+      "eng": " How much is the bag?",
+      "id": "446",
+      "level": "a0",
+      "lesson": "20",
+      "errors": 1
+    },
+    {
+      "rus": "Сколько стоит билет?",
+      "eng": " How much is the ticket?",
+      "id": "447",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "Сколько стоит эта сумка?",
+      "eng": " How much is this bag?",
+      "id": "448",
+      "level": "a0",
+      "lesson": "20",
+      "errors": 1
+    },
+    {
+      "rus": "Сколько стоит этот билет?",
+      "eng": " How much is this ticket?",
+      "id": "449",
+      "level": "a0",
+      "lesson": "20"
+    },
+    {
+      "rus": "я расскажу тебе эту историю",
+      "eng": "I'll tell you this story",
+      "id": "450",
+      "level": "a0",
+      "lesson": "22",
+      "errors": 1
+    },
+    {
+      "rus": "Я буду в другом городе завтра",
+      "eng": "I'll be in another city tomorrow",
+      "id": "451",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "я расскажу тебе об этом сейчас",
+      "eng": "I'll tell you about it now",
+      "id": "452",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я посмотрю этот фильм",
+      "eng": "I'll watch this movie",
+      "id": "453",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я закажу эту модель онлайн",
+      "eng": "I'll order this model online",
+      "id": "454",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я отправлю ей сообщение",
+      "eng": "I'll send her a message",
+      "id": "455",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я прочитаю эту статью",
+      "eng": "T'll read this article",
+      "id": "456",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я открою окно",
+      "eng": "Till open the window",
+      "id": "457",
+      "level": "a0",
+      "lesson": "22",
+      "errors": 1
+    },
+    {
+      "rus": "Я подожду их ответа",
+      "eng": "I'll wait for their answer",
+      "id": "458",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Он будет на работе",
+      "eng": "He'll be at work",
+      "id": "459",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я отправлю ему письмо",
+      "eng": "I'll send him a letter",
+      "id": "460",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Она будет в отъезде",
+      "eng": "She'll be away",
+      "id": "461",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я думаю он победит",
+      "eng": "I think he'll win",
+      "id": "462",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Он скажет это сейчас",
+      "eng": "He'll say it now",
+      "id": "463",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я скоро сделаю это",
+      "eng": "I'll do it soon",
+      "id": "464",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я думаю они проиграют",
+      "eng": "I think they'll lose",
+      "id": "465",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я думаю это скоро случится",
+      "eng": "I think it'll happen soon",
+      "id": "466",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Тебе понравится это место",
+      "eng": "You'll like this place",
+      "id": "467",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "я подумаю об этом",
+      "eng": "I'll think about it",
+      "id": "468",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я пойду туда завтра",
+      "eng": "I'll go there tomorrow",
+      "id": "469",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я скоро поеду в этот город",
+      "eng": "I'll go to this city soon",
+      "id": "470",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Они сделают это",
+      "eng": "They'll do it",
+      "id": "471",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я открою дверь",
+      "eng": "I'll open the door",
+      "id": "472",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Это скоро случится",
+      "eng": "It'll happen soon",
+      "id": "473",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Ему понравится эта идея",
+      "eng": "He'll like this idea",
+      "id": "474",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Они будут говорить о разных вещах",
+      "eng": "They'll talk about different things",
+      "id": "475",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я закрою окно",
+      "eng": "I'll closethe window",
+      "id": "476",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "я буду занят завтра",
+      "eng": "T'll be busy tomorrow",
+      "id": "477",
+      "level": "a0",
+      "lesson": "22",
+      "errors": 1
+    },
+    {
+      "rus": "Мы будем говорить по-английски там",
+      "eng": "We'll speak English there",
+      "id": "478",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Это будет лучше",
+      "eng": "It'll be better",
+      "id": "479",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я не думаю что это будет стоить дешевле",
+      "eng": "I don't think that it'll cost less",
+      "id": "480",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Она будет очень занята завтра",
+      "eng": "She'll be very busy tomorrow",
+      "id": "481",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я буду там завтра",
+      "eng": "I'll be there tomorrow",
+      "id": "482",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я закрою дверь",
+      "eng": "I'll close the door",
+      "id": "483",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Мы скоро увидим это",
+      "eng": "We'll see it soon",
+      "id": "484",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я подожду этого",
+      "eng": "I'll wait for it",
+      "id": "485",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я думаю это скоро будет дороже",
+      "eng": "I think it'll be more expensive soon",
+      "id": "486",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я посмотрю это видео",
+      "eng": "I'll watch this video",
+      "id": "487",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я поеду в Англию в этом году",
+      "eng": "I'll go to England this year",
+      "id": "488",
+      "level": "a0",
+      "lesson": "22",
+      "errors": 1
+    },
+    {
+      "rus": "Она расскажет мне об этом",
+      "eng": "She'll tell me about it sil tel mi'baut it",
+      "id": "489",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "я буду дома",
+      "eng": "I'll be at home",
+      "id": "490",
+      "level": "a0",
+      "lesson": "22",
+      "errors": 1
+    },
+    {
+      "rus": "Я подожду тебя",
+      "eng": "I'll wait for you",
+      "id": "491",
+      "level": "a0",
+      "lesson": "22",
+      "errors": 1
+    },
+    {
+      "rus": "Я поеду в Америку вследующем году",
+      "eng": "I'll go to America next year",
+      "id": "492",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я куплю эти билеты онлайн",
+      "eng": "I'll buy thesetickets online",
+      "id": "493",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я скоро позвоню ему",
+      "eng": "I'll call him soon",
+      "id": "494",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Ты скоро узнаешь это",
+      "eng": "You'll know it soon",
+      "id": "495",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я не думаю что это будет дешевле",
+      "eng": "I don't think that it'll be cheaper",
+      "id": "496",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я думаю это скоро будет стоить дороже",
+      "eng": "I think it'll cost more soon",
+      "id": "497",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я сейчас в этом городе",
+      "eng": "I'm in this city now",
+      "id": "498",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Он мой друг",
+      "eng": "He's my friend",
+      "id": "499",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Она учитель",
+      "eng": "She's a teacher",
+      "id": "500",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Она моя сестра",
+      "eng": "She's my sister",
+      "id": "501",
+      "level": "a0",
+      "lesson": "14",
+      "errors": 1
+    },
+    {
+      "rus": "Это очень плохо",
+      "eng": "It's very bad",
+      "id": "502",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Это важно",
+      "eng": "It's important",
+      "id": "503",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Они друзья",
+      "eng": "They're friends fe frendz",
+      "id": "504",
+      "level": "a0",
+      "lesson": "14",
+      "errors": 1
+    },
+    {
+      "rus": "Это так дешево",
+      "eng": "It's so cheap",
+      "id": "505",
+      "level": "a0",
+      "lesson": "14",
+      "errors": 1
+    },
+    {
+      "rus": "Это плохо",
+      "eng": "It's bad",
+      "id": "506",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Это хорошо",
+      "eng": "It's good",
+      "id": "507",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Меня зовут Алекс",
+      "eng": "My name's Alex",
+      "id": "508",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Это действительно плохо",
+      "eng": "It's really bad",
+      "id": "509",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Это очень дешево",
+      "eng": "It's very cheap",
+      "id": "510",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Он здесь",
+      "eng": "He's here",
+      "id": "511",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Это интересно",
+      "eng": "It's interesting",
+      "id": "512",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Она мой учитель",
+      "eng": "She's my teacher",
+      "id": "513",
+      "level": "a0",
+      "lesson": "14",
+      "errors": 1
+    },
+    {
+      "rus": "Они очень богатые",
+      "eng": "They're very rich",
+      "id": "514",
+      "level": "a0",
+      "lesson": "14",
+      "errors": 1
+    },
+    {
+      "rus": "Они студенты",
+      "eng": "They're students",
+      "id": "515",
+      "level": "a0",
+      "lesson": "14",
+      "errors": 1
+    },
+    {
+      "rus": "Мы в парке",
+      "eng": "We're in the park",
+      "id": "516",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Он мой брат",
+      "eng": "He's my brother",
+      "id": "517",
+      "level": "a0",
+      "lesson": "14",
+      "errors": 1
+    },
+    {
+      "rus": "Он наш учитель",
+      "eng": "He's our teacher",
+      "id": "518",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Он учитель",
+      "eng": "He's a teacher",
+      "id": "519",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Мы друзья",
+      "eng": "We're friends",
+      "id": "520",
+      "level": "a0",
+      "lesson": "14",
+      "errors": 1
+    },
+    {
+      "rus": "Мы в Англии",
+      "eng": "We're in England",
+      "id": "521",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Меня зовут Кейт",
+      "eng": "My name's Kate",
+      "id": "522",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Яна работе",
+      "eng": "I'm at work",
+      "id": "523",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Я студент",
+      "eng": "I'm a student",
+      "id": "524",
+      "level": "a0",
+      "lesson": "14",
+      "errors": 1
+    },
+    {
+      "rus": "Это так важно",
+      "eng": "It's so important",
+      "id": "525",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Это слишком дорого",
+      "eng": "It's too expensive",
+      "id": "526",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Мне пятьдесят лет",
+      "eng": "I'm fifty years old",
+      "id": "527",
+      "level": "a0",
+      "lesson": "14",
+      "errors": 1
+    },
+    {
+      "rus": "Это действительно интересно",
+      "eng": "It's really interesting",
+      "id": "528",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Они здесь",
+      "eng": "They're here",
+      "id": "529",
+      "level": "a0",
+      "lesson": "14",
+      "errors": 1
+    },
+    {
+      "rus": "Он очень бедный",
+      "eng": "He's very poor",
+      "id": "530",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Мне пятьдесят",
+      "eng": "I'm fifty",
+      "id": "531",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Это так хорошо",
+      "eng": "It's so good",
+      "id": "532",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Он дизайнер",
+      "eng": "He's a designer",
+      "id": "533",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Это действительно важно",
+      "eng": "It's really important",
+      "id": "534",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "я сейчас очень занят",
+      "eng": "I'm very busy now",
+      "id": "535",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Это очень важно",
+      "eng": "It's very important",
+      "id": "536",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Она там",
+      "eng": "She's there",
+      "id": "537",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Это действительно хорошо",
+      "eng": "It's really good",
+      "id": "538",
+      "level": "a0",
+      "lesson": "14",
+      "errors": 1
+    },
+    {
+      "rus": "Это очень интересно",
+      "eng": "It's very interesting",
+      "id": "539",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Он мой папа",
+      "eng": "He's my father",
+      "id": "540",
+      "level": "a0",
+      "lesson": "14",
+      "errors": 1
+    },
+    {
+      "rus": "Я так счастлив",
+      "eng": "I'm so happy",
+      "id": "541",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Это очень хорошо",
+      "eng": "It's very good",
+      "id": "542",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Ему пятнадцать",
+      "eng": "He's fifteen",
+      "id": "543",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Это так интересно",
+      "eng": "It's so interesting",
+      "id": "544",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Она моя мама",
+      "eng": "She's my mother",
+      "id": "545",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "я дома",
+      "eng": "I'm at home",
+      "id": "546",
+      "level": "a0",
+      "lesson": "14",
+      "errors": 1
+    },
+    {
+      "rus": "Ты прав",
+      "eng": "You're right",
+      "id": "547",
+      "level": "a0",
+      "lesson": "14"
+    },
+    {
+      "rus": "Я завтра пойду на работу",
+      "eng": "I'll go to work tomorrow",
+      "id": "548",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я увижу его завтра",
+      "eng": "I'll see him tomorrow",
+      "id": "549",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Это будет очень интересно",
+      "eng": "It'll be very interesting",
+      "id": "550",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я куплю это онлайн",
+      "eng": "I'll buy it online",
+      "id": "551",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я думаю тебе понравится это",
+      "eng": "I think you'll like it",
+      "id": "552",
+      "level": "a0",
+      "lesson": "22"
+    },
+    {
+      "rus": "Я думаю тебе не понравится это предложение",
+      "eng": "I think you won't like this offer",
+      "id": "553",
+      "level": "a0",
+      "lesson": "24",
+      "errors": 1
+    },
+    {
+      "rus": "Он не будет говорить своему другу об этом",
+      "eng": "He won't tell hisfriend about it",
+      "id": "554",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Она не расскажет ему об этом",
+      "eng": "She won't tell him about it",
+      "id": "555",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Она не согласится",
+      "eng": "She won't agree",
+      "id": "556",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Они не будут слушать это",
+      "eng": "They won't listen to it",
+      "id": "557",
+      "level": "a0",
+      "lesson": "24",
+      "errors": 1
+    },
+    {
+      "rus": "Он не узнает об этом",
+      "eng": "He won't know about it",
+      "id": "558",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Он не поймет это",
+      "eng": "He won't understand it",
+      "id": "559",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Он не придет сюда завтра",
+      "eng": "He won't come here tomorrow",
+      "id": "560",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Он не пойдет на встречу",
+      "eng": "He won't go to the meeting",
+      "id": "561",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я не пойду в это место завтра Я пойду в другое место",
+      "eng": "I won't go to this place tomorrow I'll go to another place",
+      "id": "562",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я не буду отвечать на это сообщение",
+      "eng": "I won't answer this message",
+      "id": "563",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я не буду отвечать на это письмо",
+      "eng": "I won't answer this letter",
+      "id": "564",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я думаю он не согласится",
+      "eng": "I think he won't agree",
+      "id": "565",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Она не пойдет на работу",
+      "eng": "She won't go to work",
+      "id": "566",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Они не будут говорить об этом",
+      "eng": "They won't talk about it",
+      "id": "567",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Он не будет слушать это",
+      "eng": "He won't listen to it",
+      "id": "568",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Мы не пойдем на пляж завтра",
+      "eng": "We won't go to the beach tomorrow",
+      "id": "569",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я не буду покупать эту машину Я куплю другую машину",
+      "eng": "I won't buy this car I'll buy another car",
+      "id": "570",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Мы не пойдем туда",
+      "eng": "We won't go there",
+      "id": "571",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я не пойду туда",
+      "eng": "I won't go there",
+      "id": "572",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Это не будет интересно тебе",
+      "eng": "It won't be interesting for you",
+      "id": "573",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я не буду играть в эту игру",
+      "eng": "I won't play this game",
+      "id": "574",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Они не будут покупать дом Они купят квартиру",
+      "eng": "They won't buy a house They'll buy an apartment",
+      "id": "575",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Меня не будет дома завтра Я буду в отъезде",
+      "eng": "I won't be at home tomorrow I'll be away",
+      "id": "576",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я не буду делать это",
+      "eng": "I won't do it",
+      "id": "577",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я не буду платить за это",
+      "eng": "I won't pay for it",
+      "id": "578",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я думаю ему не понравится эта идея",
+      "eng": "I think he won't like this idea",
+      "id": "579",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я не буду тратить свое время на это",
+      "eng": "I won't spend my time on it",
+      "id": "580",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Это не будет легко Это будет очень сложно",
+      "eng": "It won't be easy It'll be very difficult",
+      "id": "581",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Он не скажет это",
+      "eng": "He won't say it",
+      "id": "582",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я не буду танцевать",
+      "eng": "I won't dance",
+      "id": "583",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я думаю это не поможет тебе",
+      "eng": "I think it won't help you",
+      "id": "584",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я не буду ждать этого",
+      "eng": "I won't wait for it",
+      "id": "585",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Они не будут играть",
+      "eng": "They won't play",
+      "id": "586",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "он не поверит этому",
+      "eng": "He won't believe it",
+      "id": "587",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я не буду занят",
+      "eng": "I won't be busy",
+      "id": "588",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я не пойду в парк сегодня",
+      "eng": "I won't go to the park today",
+      "id": "589",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я не буду ждать его",
+      "eng": "I won't wait for him",
+      "id": "590",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я думаю это не поможет ему",
+      "eng": "I think it won't help him",
+      "id": "591",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я не буду занят завтра",
+      "eng": "I won't be busy tomorrow",
+      "id": "592",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Она не пойдет на вечеринку",
+      "eng": "She won't go to the party",
+      "id": "593",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я думаю это не будет интересно тебе",
+      "eng": "I think it won't be interesting for you",
+      "id": "594",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Мы не будем его ждать",
+      "eng": "We won't wait for him",
+      "id": "595",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Он не будет учиться в Англии Он будет учиться в другой стране",
+      "eng": "He won't study in England He'll study in another country",
+      "id": "596",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я не пойду на пляж сегодня",
+      "eng": "I won't go to the beach today",
+      "id": "597",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я не буду платить за это Это будет бесплатно",
+      "eng": "I won't pay for it It'll be free",
+      "id": "598",
+      "level": "a0",
+      "lesson": "24"
+    },
+    {
+      "rus": "Я не буду отвечать",
+      "eng": "I won't answer",
+      "id": "599",
+      "level": "a0",
+      "lesson": "24"
     }
   ]
 }
