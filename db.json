@@ -6043,14 +6043,15 @@
       "id": "56",
       "level": "a1",
       "lesson": "24",
-      "errors": "1"
+      "errors": 1
     },
     {
       "eng": "I need to do it now",
       "rus": "Мне нужно сделать это сейчас",
       "id": "57",
       "level": "a1",
-      "lesson": "3"
+      "lesson": "3",
+      "errors": 1
     },
     {
       "eng": "He recorded a new video",
@@ -6106,7 +6107,7 @@
       "id": "64",
       "level": "a1",
       "lesson": "24",
-      "errors": "1"
+      "errors": 1
     },
     {
       "eng": "This result really motivated me",
@@ -6259,7 +6260,8 @@
       "id": "83",
       "level": "a1",
       "lesson": "3",
-      "correctly": "1"
+      "correctly": "1",
+      "errors": "11"
     },
     {
       "eng": "I want to buy these tickets",
@@ -6449,7 +6451,8 @@
       "id": "107",
       "level": "a1",
       "lesson": "3",
-      "correctly": "1"
+      "correctly": "1",
+      "errors": "11"
     },
     {
       "eng": "I like this place",
@@ -6464,7 +6467,8 @@
       "rus": "Я вижу автобус ",
       "id": "109",
       "level": "a0",
-      "lesson": "1"
+      "lesson": "1",
+      "errors": 1
     },
     {
       "eng": "They have a job",
@@ -6489,7 +6493,8 @@
       "id": "112",
       "level": "a0",
       "lesson": "1",
-      "correctly": "1"
+      "correctly": "1",
+      "errors": "11"
     },
     {
       "eng": "We support you",
@@ -6744,7 +6749,8 @@
       "rus": "Я бы хотел посетить Соединенные Штаты ",
       "id": "144",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "errors": 1
     },
     {
       "eng": "I'd like to try on these jeans",
@@ -6862,7 +6868,8 @@
       "id": "159",
       "level": "a0",
       "lesson": "2",
-      "correctly": "1"
+      "correctly": "1",
+      "errors": "11"
     },
     {
       "eng": "I'd like to try on this dress",
@@ -6902,7 +6909,8 @@
       "rus": "У меня нет времени",
       "id": "164",
       "level": "33",
-      "lesson": "2"
+      "lesson": "2",
+      "errors": 1
     },
     {
       "eng": "He doesn't think about it",
@@ -6939,7 +6947,8 @@
       "rus": "я не спрашиваю его об этом",
       "id": "169",
       "level": "33",
-      "lesson": "2"
+      "lesson": "2",
+      "errors": 1
     },
     {
       "eng": "She doesn't work so much",
@@ -6968,7 +6977,8 @@
       "rus": "Я не путешествую так часто",
       "id": "173",
       "level": "33",
-      "lesson": "2"
+      "lesson": "2",
+      "errors": 1
     },
     {
       "eng": "I don't want to stop I want to continue",
@@ -6983,7 +6993,8 @@
       "rus": "Я вижу что это не работает",
       "id": "175",
       "level": "33",
-      "lesson": "2"
+      "lesson": "2",
+      "errors": 1
     },
     {
       "eng": "He doesn't have a car",
@@ -7055,7 +7066,8 @@
       "rus": "Ему не нравится эта песня",
       "id": "185",
       "level": "33",
-      "lesson": "2"
+      "lesson": "2",
+      "errors": 1
     },
     {
       "eng": "They don't want to say it",
@@ -7128,7 +7140,8 @@
       "rus": "У него нет этих денег",
       "id": "195",
       "level": "33",
-      "lesson": "2"
+      "lesson": "2",
+      "errors": 1
     },
     {
       "eng": "He doesn't speak English",
@@ -7229,7 +7242,8 @@
       "rus": "Ты действительно так думаешь?",
       "id": "209",
       "level": "a0",
-      "lesson": "10"
+      "lesson": "10",
+      "errors": 1
     },
     {
       "eng": " Does he support you?",
@@ -7489,7 +7503,8 @@
       "rus": "Ты хочешь посетитьСоединенные Штаты?",
       "id": "245",
       "level": "a0",
-      "lesson": "10"
+      "lesson": "10",
+      "errors": 1
     },
     {
       "eng": " Do you have a family?",
@@ -7533,7 +7548,8 @@
       "rus": "Ты хочешь учиться за границей?",
       "id": "251",
       "level": "a0",
-      "lesson": "10"
+      "lesson": "10",
+      "errors": 1
     },
     {
       "eng": " Do you read English books?",
@@ -7613,7 +7629,8 @@
       "rus": "Где ты хочешь работать?",
       "id": "262",
       "level": "a0",
-      "lesson": "12"
+      "lesson": "12",
+      "errors": 1
     },
     {
       "eng": " How much does this ticket cost?",
@@ -7673,7 +7690,8 @@
       "rus": "Как часто ты изучаешь английский?",
       "id": "270",
       "level": "a0",
-      "lesson": "12"
+      "lesson": "12",
+      "errors": 1
     },
     {
       "eng": " How much does this service cost?",
@@ -7791,7 +7809,8 @@
       "rus": "Какие книги ты читаешь?",
       "id": "286",
       "level": "a0",
-      "lesson": "12"
+      "lesson": "12",
+      "errors": 1
     },
     {
       "eng": " What does she know?",
@@ -7849,7 +7868,8 @@
       "rus": "Как он предпочитает изучать английский?",
       "id": "294",
       "level": "a0",
-      "lesson": "12"
+      "lesson": "12",
+      "errors": 1
     },
     {
       "eng": " What do you know about all this?",
@@ -7909,7 +7929,8 @@
       "eng": "It's so easy for me",
       "id": "302",
       "level": "a0",
-      "lesson": "16"
+      "lesson": "16",
+      "errors": 1
     },
     {
       "rus": "Я сейчас не занят Я свободен",
@@ -7930,7 +7951,8 @@
       "eng": "I'm not at work now I'm at home",
       "id": "305",
       "level": "a0",
-      "lesson": "16"
+      "lesson": "16",
+      "errors": 1
     },
     {
       "rus": "Это не проблема для меня",
@@ -7981,7 +8003,8 @@
       "eng": "He isn't right",
       "id": "312",
       "level": "a0",
-      "lesson": "16"
+      "lesson": "16",
+      "errors": 1
     },
     {
       "rus": "Моя мама - врач",
@@ -7995,7 +8018,8 @@
       "eng": "I think that you aren't right",
       "id": "314",
       "level": "a0",
-      "lesson": "16"
+      "lesson": "16",
+      "errors": 1
     },
     {
       "rus": "Они не бедные Они очень богатые",
@@ -8023,14 +8047,16 @@
       "eng": "My father is a manager",
       "id": "318",
       "level": "a0",
-      "lesson": "16"
+      "lesson": "16",
+      "errors": 1
     },
     {
       "rus": "этот отель очень хороший",
       "eng": "This hotel is very good",
       "id": "319",
       "level": "a0",
-      "lesson": "16"
+      "lesson": "16",
+      "errors": 1
     },
     {
       "rus": "Это не интересно Это так скучно",
@@ -8108,7 +8134,8 @@
       "eng": "My brother is a student",
       "id": "330",
       "level": "a0",
-      "lesson": "16"
+      "lesson": "16",
+      "errors": 1
     },
     {
       "rus": "Я холост",
@@ -8136,7 +8163,8 @@
       "eng": "They aren't in the city",
       "id": "334",
       "level": "a0",
-      "lesson": "16"
+      "lesson": "16",
+      "errors": 1
     },
     {
       "rus": "Это не сложно Это так легко",
@@ -8157,7 +8185,8 @@
       "eng": "He isn't old He's very young",
       "id": "337",
       "level": "a0",
-      "lesson": "16"
+      "lesson": "16",
+      "errors": 1
     },
     {
       "rus": "Мы не в парке сейчас",
@@ -8314,7 +8343,8 @@
       "eng": " Is he away?",
       "id": "359",
       "level": "a0",
-      "lesson": "18"
+      "lesson": "18",
+      "errors": 1
     },
     {
       "rus": "Ты в парке?",
@@ -8349,7 +8379,8 @@
       "eng": " Are you with your friendsnow?",
       "id": "364",
       "level": "a0",
-      "lesson": "18"
+      "lesson": "18",
+      "errors": 1
     },
     {
       "rus": "Это действительно так важно?",
@@ -8454,7 +8485,8 @@
       "eng": " Are you in this city?",
       "id": "379",
       "level": "a0",
-      "lesson": "18"
+      "lesson": "18",
+      "errors": 1
     },
     {
       "rus": "Они счастливы?",
@@ -8526,7 +8558,8 @@
       "eng": " Is it far?",
       "id": "389",
       "level": "a0",
-      "lesson": "18"
+      "lesson": "18",
+      "errors": 1
     },
     {
       "rus": "Мы правы?",
@@ -8554,7 +8587,8 @@
       "eng": " Is it difficult?",
       "id": "393",
       "level": "a0",
-      "lesson": "18"
+      "lesson": "18",
+      "errors": 1
     },
     {
       "rus": "Это полезно?",
@@ -8640,14 +8674,16 @@
       "eng": "Where are you from? I'm from Brazil",
       "id": "405",
       "level": "a0",
-      "lesson": "20"
+      "lesson": "20",
+      "errors": 1
     },
     {
       "rus": "Когда ты на работе?",
       "eng": " When are you at work?",
       "id": "406",
       "level": "a0",
-      "lesson": "20"
+      "lesson": "20",
+      "errors": 1
     },
     {
       "rus": "Кем она работает?",
@@ -8739,7 +8775,8 @@
       "eng": " Where is the nearest shop?",
       "id": "419",
       "level": "a0",
-      "lesson": "20"
+      "lesson": "20",
+      "errors": 1
     },
     {
       "rus": "Откуда она? Она из Германии",
@@ -8824,14 +8861,16 @@
       "eng": " Where is he?",
       "id": "431",
       "level": "a0",
-      "lesson": "20"
+      "lesson": "20",
+      "errors": 1
     },
     {
       "rus": "Как дела? Как ты?",
       "eng": "How are you?",
       "id": "432",
       "level": "a0",
-      "lesson": "20"
+      "lesson": "20",
+      "errors": 1
     },
     {
       "rus": "Как ее зовут?",
@@ -9005,7 +9044,8 @@
       "eng": "T'll read this article",
       "id": "456",
       "level": "a0",
-      "lesson": "22"
+      "lesson": "22",
+      "errors": 1
     },
     {
       "rus": "Я открою окно",
@@ -9055,7 +9095,8 @@
       "eng": "He'll say it now",
       "id": "463",
       "level": "a0",
-      "lesson": "22"
+      "lesson": "22",
+      "errors": 1
     },
     {
       "rus": "Я скоро сделаю это",
@@ -9083,7 +9124,8 @@
       "eng": "You'll like this place",
       "id": "467",
       "level": "a0",
-      "lesson": "22"
+      "lesson": "22",
+      "errors": 1
     },
     {
       "rus": "я подумаю об этом",
@@ -9125,7 +9167,8 @@
       "eng": "It'll happen soon",
       "id": "473",
       "level": "a0",
-      "lesson": "22"
+      "lesson": "22",
+      "errors": 1
     },
     {
       "rus": "Ему понравится эта идея",
@@ -9161,7 +9204,8 @@
       "eng": "We'll speak English there",
       "id": "478",
       "level": "a0",
-      "lesson": "22"
+      "lesson": "22",
+      "errors": 1
     },
     {
       "rus": "Это будет лучше",
@@ -9283,7 +9327,8 @@
       "eng": "You'll know it soon",
       "id": "495",
       "level": "a0",
-      "lesson": "22"
+      "lesson": "22",
+      "errors": 1
     },
     {
       "rus": "Я не думаю что это будет дешевле",
@@ -9333,7 +9378,8 @@
       "eng": "It's very bad",
       "id": "502",
       "level": "a0",
-      "lesson": "14"
+      "lesson": "14",
+      "errors": 1
     },
     {
       "rus": "Это важно",
@@ -9370,7 +9416,8 @@
       "eng": "It's good",
       "id": "507",
       "level": "a0",
-      "lesson": "14"
+      "lesson": "14",
+      "errors": 1
     },
     {
       "rus": "Меня зовут Алекс",
@@ -9391,14 +9438,16 @@
       "eng": "It's very cheap",
       "id": "510",
       "level": "a0",
-      "lesson": "14"
+      "lesson": "14",
+      "errors": 1
     },
     {
       "rus": "Он здесь",
       "eng": "He's here",
       "id": "511",
       "level": "a0",
-      "lesson": "14"
+      "lesson": "14",
+      "errors": 1
     },
     {
       "rus": "Это интересно",
@@ -9451,7 +9500,8 @@
       "eng": "He's our teacher",
       "id": "518",
       "level": "a0",
-      "lesson": "14"
+      "lesson": "14",
+      "errors": 1
     },
     {
       "rus": "Он учитель",
@@ -9473,7 +9523,8 @@
       "eng": "We're in England",
       "id": "521",
       "level": "a0",
-      "lesson": "14"
+      "lesson": "14",
+      "errors": 1
     },
     {
       "rus": "Меня зовут Кейт",
@@ -9603,7 +9654,8 @@
       "eng": "It's very interesting",
       "id": "539",
       "level": "a0",
-      "lesson": "14"
+      "lesson": "14",
+      "errors": 1
     },
     {
       "rus": "Он мой папа",
@@ -9675,7 +9727,8 @@
       "eng": "I'll see him tomorrow",
       "id": "549",
       "level": "a0",
-      "lesson": "22"
+      "lesson": "22",
+      "errors": 1
     },
     {
       "rus": "Это будет очень интересно",
@@ -9689,7 +9742,8 @@
       "eng": "I'll buy it online",
       "id": "551",
       "level": "a0",
-      "lesson": "22"
+      "lesson": "22",
+      "errors": 1
     },
     {
       "rus": "Я думаю тебе понравится это",
@@ -9711,7 +9765,8 @@
       "eng": "He won't tell hisfriend about it",
       "id": "554",
       "level": "a0",
-      "lesson": "24"
+      "lesson": "24",
+      "errors": 1
     },
     {
       "rus": "Она не расскажет ему об этом",
@@ -9768,7 +9823,8 @@
       "eng": "I won't go to this place tomorrow I'll go to another place",
       "id": "562",
       "level": "a0",
-      "lesson": "24"
+      "lesson": "24",
+      "errors": 1
     },
     {
       "rus": "Я не буду отвечать на это сообщение",
@@ -9852,7 +9908,8 @@
       "eng": "I won't play this game",
       "id": "574",
       "level": "a0",
-      "lesson": "24"
+      "lesson": "24",
+      "errors": 1
     },
     {
       "rus": "Они не будут покупать дом Они купят квартиру",
@@ -9880,7 +9937,8 @@
       "eng": "I won't pay for it",
       "id": "578",
       "level": "a0",
-      "lesson": "24"
+      "lesson": "24",
+      "errors": 1
     },
     {
       "rus": "Я думаю ему не понравится эта идея",
@@ -9929,7 +9987,8 @@
       "eng": "I won't wait for it",
       "id": "585",
       "level": "a0",
-      "lesson": "24"
+      "lesson": "24",
+      "errors": 1
     },
     {
       "rus": "Они не будут играть",
@@ -10028,6 +10087,4527 @@
       "id": "599",
       "level": "a0",
       "lesson": "24"
+    },
+    {
+      "rus": "Она училась в другой стране",
+      "eng": "She studied in another country",
+      "lesson": "30",
+      "level": "a0",
+      "id": "600"
+    },
+    {
+      "rus": "Я начал этот курс на прошлой неделе",
+      "eng": "I started this course last week",
+      "lesson": "30",
+      "level": "a0",
+      "id": "601"
+    },
+    {
+      "rus": "Я хотел найти хорошую работу",
+      "eng": "I wanted to find a good job",
+      "lesson": "30",
+      "level": "a0",
+      "id": "602"
+    },
+    {
+      "rus": "Я часто пользовался интернетом",
+      "eng": "I often usedthe Internet",
+      "lesson": "30",
+      "level": "a0",
+      "id": "603"
+    },
+    {
+      "rus": "Я задал ей некоторые вопросы",
+      "eng": "I asked her some questions",
+      "lesson": "30",
+      "level": "a0",
+      "id": "604"
+    },
+    {
+      "rus": "Он учился там",
+      "eng": "He studied there",
+      "lesson": "30",
+      "level": "a0",
+      "id": "605"
+    },
+    {
+      "rus": "Я заказал свой новый компьютер онлайн",
+      "eng": "I ordered my new computer onlinethis service",
+      "lesson": "30",
+      "level": "a0",
+      "id": "606"
+    },
+    {
+      "rus": "Я жил в этом месте",
+      "eng": "I lived in this place",
+      "lesson": "30",
+      "level": "a0",
+      "id": "607"
+    },
+    {
+      "rus": "Это происшествие случилось вчера",
+      "eng": "This accident happened yesterday",
+      "lesson": "30",
+      "level": "a0",
+      "id": "608"
+    },
+    {
+      "rus": "Я хотел улучшить свой английский",
+      "eng": "I wanted to improve my English",
+      "lesson": "30",
+      "level": "a0",
+      "id": "609"
+    },
+    {
+      "rus": "Я хотел посетить это место",
+      "eng": "I wanted to visit this place",
+      "lesson": "30",
+      "level": "a0",
+      "id": "610"
+    },
+    {
+      "rus": "Я играл в разные игры",
+      "eng": "I played different games",
+      "lesson": "30",
+      "level": "a0",
+      "id": "611"
+    },
+    {
+      "rus": "Я посмотрел этот фильм",
+      "eng": "I watched this movie",
+      "lesson": "30",
+      "level": "a0",
+      "id": "612"
+    },
+    {
+      "rus": "Он ответил на этот вопрос",
+      "eng": "He answered this question",
+      "lesson": "30",
+      "level": "a0",
+      "id": "613"
+    },
+    {
+      "rus": "Я посмотрел это видео",
+      "eng": "I watched this video",
+      "lesson": "30",
+      "level": "a0",
+      "id": "614"
+    },
+    {
+      "rus": "Я жил в этом районе",
+      "eng": "I lived in this area",
+      "lesson": "30",
+      "level": "a0",
+      "id": "615"
+    },
+    {
+      "rus": "Это случилось три часа назад",
+      "eng": "It happened three hours ago",
+      "lesson": "30",
+      "level": "a0",
+      "id": "616"
+    },
+    {
+      "rus": "Я хотел общаться с людьми из других стран",
+      "eng": "I wanted to communicate with people from other countries",
+      "lesson": "30",
+      "level": "a0",
+      "id": "617"
+    },
+    {
+      "rus": "Ты помог мне так сильно",
+      "eng": "You helped me so much",
+      "lesson": "30",
+      "level": "a0",
+      "id": "618"
+    },
+    {
+      "rus": "Он навестил нас позавчера",
+      "eng": "He visited us the day before yesterday",
+      "lesson": "30",
+      "level": "a0",
+      "id": "619"
+    },
+    {
+      "rus": "Она звонила мне два часа назад",
+      "eng": "She called me two hours ago",
+      "lesson": "30",
+      "level": "a0",
+      "id": "620"
+    },
+    {
+      "rus": "Я хотел выбрать лучший отель",
+      "eng": "I wanted to choose the best hotel",
+      "lesson": "30",
+      "level": "a0",
+      "id": "621"
+    },
+    {
+      "rus": "Я смотрел эту программу вчера",
+      "eng": "I watched this program yesterday",
+      "lesson": "30",
+      "level": "a0",
+      "id": "622"
+    },
+    {
+      "rus": "Я учился здесь",
+      "eng": "I studied here",
+      "lesson": "30",
+      "level": "a0",
+      "id": "623"
+    },
+    {
+      "rus": "Ты действительно помог мне",
+      "eng": "You really helped me",
+      "lesson": "30",
+      "level": "a0",
+      "id": "624"
+    },
+    {
+      "rus": "Они прибыли час назад",
+      "eng": "They arrived an hour ago",
+      "lesson": "30",
+      "level": "a0",
+      "id": "625"
+    },
+    {
+      "rus": "он хотел найти хорошую работу",
+      "eng": "He wanted to find a good job",
+      "lesson": "30",
+      "level": "a0",
+      "id": "626"
+    },
+    {
+      "rus": "Я хотел улучшить свою грамматику",
+      "eng": "I wanted to improve my grammar",
+      "lesson": "30",
+      "level": "a0",
+      "id": "627"
+    },
+    {
+      "rus": "Мы говорили о разных вещах",
+      "eng": "We talked about different things",
+      "lesson": "30",
+      "level": "a0",
+      "id": "628"
+    },
+    {
+      "rus": "Я закончил свою работу",
+      "eng": "I finished my work",
+      "lesson": "30",
+      "level": "a0",
+      "id": "629"
+    },
+    {
+      "rus": "Я задал ему вопрос",
+      "eng": "I asked him a question",
+      "lesson": "30",
+      "level": "a0",
+      "id": "630"
+    },
+    {
+      "rus": "Я работал так много",
+      "eng": "I worked so much",
+      "lesson": "30",
+      "level": "a0",
+      "id": "631"
+    },
+    {
+      "rus": "Я звонил ей вчера",
+      "eng": "I called her yesterday",
+      "lesson": "30",
+      "level": "a0",
+      "id": "632"
+    },
+    {
+      "rus": "Мне очень понравилось это видео",
+      "eng": "I really liked this videoPhie",
+      "lesson": "30",
+      "level": "a0",
+      "id": "633"
+    },
+    {
+      "rus": "ное амаЭто происшествие случилось прошлой ночью",
+      "eng": "This accident happened last night",
+      "lesson": "30",
+      "level": "a0",
+      "id": "634"
+    },
+    {
+      "rus": "Мне нужна была твоя помощь",
+      "eng": "I needed your help",
+      "lesson": "30",
+      "level": "a0",
+      "id": "635"
+    },
+    {
+      "rus": "Мы играли в футбол вместе",
+      "eng": "We played football together",
+      "lesson": "30",
+      "level": "a0",
+      "id": "636"
+    },
+    {
+      "rus": "Она посмотрела на него",
+      "eng": "She looked at him silukt t him",
+      "lesson": "30",
+      "level": "a0",
+      "id": "637"
+    },
+    {
+      "rus": "Мне очень понравился этот курс",
+      "eng": "I really liked this course",
+      "lesson": "30",
+      "level": "a0",
+      "id": "638"
+    },
+    {
+      "rus": "Мне нужны были эти деньги",
+      "eng": "I needed this money",
+      "lesson": "30",
+      "level": "a0",
+      "id": "639"
+    },
+    {
+      "rus": "Я начал этот курс",
+      "eng": "I started this course",
+      "lesson": "30",
+      "level": "a0",
+      "id": "640"
+    },
+    {
+      "rus": "Он посмотрел на нее",
+      "eng": "He looked at her",
+      "lesson": "30",
+      "level": "a0",
+      "id": "641"
+    },
+    {
+      "rus": "Я закончил свою работу тридцать минут назад",
+      "eng": "I finished my work thirty minutes ago",
+      "lesson": "30",
+      "level": "a0",
+      "id": "642"
+    },
+    {
+      "rus": "Мы часто говорили об этом",
+      "eng": "We often talked about it",
+      "lesson": "30",
+      "level": "a0",
+      "id": "643"
+    },
+    {
+      "rus": "Он учился за границей",
+      "eng": "He studied abroad",
+      "lesson": "30",
+      "level": "a0",
+      "id": "644"
+    },
+    {
+      "rus": "я посмотрел на нее и она посмотрела на меня",
+      "eng": "I looked at her and she looked jat me",
+      "lesson": "30",
+      "level": "a0",
+      "id": "645"
+    },
+    {
+      "rus": "Когда ты поедешь в аэропорт?",
+      "eng": " When will you go to the airport?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "646"
+    },
+    {
+      "rus": "Как долго будет длиться встреча?",
+      "eng": " How long will the meeting last?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "647"
+    },
+    {
+      "rus": "з Когда это будет возможно?",
+      "eng": " When will it be possible?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "648"
+    },
+    {
+      "rus": "Когда мы пойдем плавать?",
+      "eng": " When will we go swimming?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "649"
+    },
+    {
+      "rus": "Что ты будешь делать после работы?",
+      "eng": " What will you do after work?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "650"
+    },
+    {
+      "rus": "Когда ты пойдешь на пляж?",
+      "eng": " When will you go to the beach?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "651"
+    },
+    {
+      "rus": "Когда ты будешь отдыхать?",
+      "eng": " When will you have a rest?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "652"
+    },
+    {
+      "rus": "Во сколько ты придешь на работу?",
+      "eng": " What time will you come to work?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "653"
+    },
+    {
+      "rus": "Когда ты будешь там в следующий раз?",
+      "eng": " When will you be there next time?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "654"
+    },
+    {
+      "rus": "Когда у нас будет перерыв?",
+      "eng": " When will we have a break?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "655"
+    },
+    {
+      "rus": "Когда вы прибудете в аэропорт?",
+      "eng": " When will you arrive at the airport?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "656"
+    },
+    {
+      "rus": "Кто будет с тобой?",
+      "eng": " Who will be with you?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "657"
+    },
+    {
+      "rus": "Как долго будет длится один урок?",
+      "eng": " How long will one lesson last?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "658"
+    },
+    {
+      "rus": "Когда мы будем обедать?",
+      "eng": " When will we have lunch?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "659"
+    },
+    {
+      "rus": "Как это поможет мне?",
+      "eng": " How will it help me?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "660"
+    },
+    {
+      "rus": "Как долго это будет?",
+      "eng": " How long will it be?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "661"
+    },
+    {
+      "rus": "Почему ты останешься дома?",
+      "eng": " Why will you stay at home?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "662"
+    },
+    {
+      "rus": "Как долго ты там будешь?",
+      "eng": " How long will you be there?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "663"
+    },
+    {
+      "rus": "Сколько это будет стоить?",
+      "eng": " How much will it cost?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "664"
+    },
+    {
+      "rus": "Когда ты будешь свободен?",
+      "eng": " When will you be free?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "665"
+    },
+    {
+      "rus": "Куда ты пойдешь сейчас?",
+      "eng": " Where will you go now?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "666"
+    },
+    {
+      "rus": "Когда у тебя будет перерыв?",
+      "eng": " When will you have a break?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "667"
+    },
+    {
+      "rus": "Когда ты пойдешь спать?",
+      "eng": " When will you go to bed?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "668"
+    },
+    {
+      "rus": "Когда ты поедешь в Соединенные Штаты?",
+      "eng": " When will you go to the United States?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "669"
+    },
+    {
+      "rus": "Когда мы будем отдыхать?",
+      "eng": " When will we have a rest?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "670"
+    },
+    {
+      "rus": "Когда ты будешь в аэропорту?",
+      "eng": " When will you be at the airport?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "671"
+    },
+    {
+      "rus": "Как это поможет нам?",
+      "eng": " How will it help us?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "672"
+    },
+    {
+      "rus": "Когда ты будешь онлайн?",
+      "eng": " When will you be online?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "673"
+    },
+    {
+      "rus": "Когда мы пойдем на море?",
+      "eng": " When will we go to the sea?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "674"
+    },
+    {
+      "rus": "Что ты будешь делать после школы?",
+      "eng": " What will you do after school?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "675"
+    },
+    {
+      "rus": "Когда ты закончишь свою работу?",
+      "eng": " When will you finish your work?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "676"
+    },
+    {
+      "rus": "Зачем ты поедешь в тот город?",
+      "eng": " Why will you go to that city?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "677"
+    },
+    {
+      "rus": "Когда ты посетишь нас в следующий раз?",
+      "eng": " When will you visit us next time?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "678"
+    },
+    {
+      "rus": "Что ты будешь там делать?",
+      "eng": " What will you do there?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "679"
+    },
+    {
+      "rus": "Где ты будешь жить?",
+      "eng": " Where will you live?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "680"
+    },
+    {
+      "rus": "Когда мы пойдем в бассейн?",
+      "eng": " When will we go to the swimming pool?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "681"
+    },
+    {
+      "rus": "Когда ты будешь готов?",
+      "eng": " When will you be ready?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "682"
+    },
+    {
+      "rus": "Где ты будешь покупать это?",
+      "eng": " Where will you buy it?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "683"
+    },
+    {
+      "rus": "Во сколько ты вернешься?",
+      "eng": " What time will you come back?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "684"
+    },
+    {
+      "rus": "Когда мы будем есть?",
+      "eng": " When will we eat?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "685"
+    },
+    {
+      "rus": "Что мы будем делать завтра?",
+      "eng": " What will we do tomorrow?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "686"
+    },
+    {
+      "rus": "Как он будет жить на эти деньги?",
+      "eng": " How will he live on this money?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "687"
+    },
+    {
+      "rus": "Когда ты будешь заниматься английским?",
+      "eng": " When will you learn English?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "688"
+    },
+    {
+      "rus": "Как долго будет длиться урок?",
+      "eng": " How long will the lesson last?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "689"
+    },
+    {
+      "rus": "Как долго это будет продолжаться?",
+      "eng": " How long will it last?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "690"
+    },
+    {
+      "rus": "Как это будет?",
+      "eng": " How will it be?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "691"
+    },
+    {
+      "rus": "Во сколько ты придешь домой завтра?",
+      "eng": " What time will you come home tomorrow?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "692"
+    },
+    {
+      "rus": "что он скажет ей?",
+      "eng": " What will he tell her?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "693"
+    },
+    {
+      "rus": "Где ты будешь завтра?",
+      "eng": " Where will you be tomorrow?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "694"
+    },
+    {
+      "rus": "Что ты скажешь?",
+      "eng": " What will you say?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "695"
+    },
+    {
+      "rus": "Как долго будет длится эта встреча?",
+      "eng": " How long will this meeting last?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "696"
+    },
+    {
+      "rus": "Когда мы будем ужинать?",
+      "eng": " When will we have dinner?",
+      "lesson": "28",
+      "level": "a0",
+      "id": "697"
+    },
+    {
+      "rus": "Когда ты пойдешь туда?",
+      "eng": " When will you go there? ",
+      "lesson": "28",
+      "level": "a0",
+      "id": "698"
+    },
+    {
+      "rus": "Ты поможешь мне?",
+      "eng": " Will you help me?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "699"
+    },
+    {
+      "rus": "Ты пойдешь в это место?",
+      "eng": " Will you go to this place?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "700"
+    },
+    {
+      "rus": "Это будет лучший выбор?",
+      "eng": " Will it be the best choice?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "701"
+    },
+    {
+      "rus": "Мы узнаем это?",
+      "eng": " Will we know it?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "702"
+    },
+    {
+      "rus": "Ты будешь покупать дом?",
+      "eng": " Will you buy a house?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "703"
+    },
+    {
+      "rus": "Ты пойдешь на пляж?",
+      "eng": " Will you go to the beach?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "704"
+    },
+    {
+      "rus": "Ты будешь проверять это снова?",
+      "eng": " Will you check it again?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "705"
+    },
+    {
+      "rus": "Ты будешь дома?",
+      "eng": " Will you be at home?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "706"
+    },
+    {
+      "rus": "Ты будешь там?",
+      "eng": " Will you be there?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "707"
+    },
+    {
+      "rus": "Ты скажешь ей эту вещь?",
+      "eng": " Will you tell her this thing?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "708"
+    },
+    {
+      "rus": "Ты купишь эти билеты?",
+      "eng": " Will you buy thesetickets?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "709"
+    },
+    {
+      "rus": "Они присоединятся к нашей компании?",
+      "eng": " Will they join our company?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "710"
+    },
+    {
+      "rus": "Он поймет это?",
+      "eng": " Will he understand it?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "711"
+    },
+    {
+      "rus": "Ты пойдешь туда?",
+      "eng": " Will you go there?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "712"
+    },
+    {
+      "rus": "Это будет лучше?",
+      "eng": " Will it be better?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "713"
+    },
+    {
+      "rus": "Ты будешь там завтра?",
+      "eng": " Will you be there tomorrow?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "714"
+    },
+    {
+      "rus": "Это будет скоро возможно?",
+      "eng": " Will it be possible soon?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "715"
+    },
+    {
+      "rus": "Ты будешь покупать машину?",
+      "eng": " Will you buy a car?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "716"
+    },
+    {
+      "rus": "Ты пойдешь в парк?",
+      "eng": " Will you go to the park?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "717"
+    },
+    {
+      "rus": "Они будут снимать квартиру?",
+      "eng": " Will they rent an apartment?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "718"
+    },
+    {
+      "rus": "Они будут там?",
+      "eng": " Will they be there?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "719"
+    },
+    {
+      "rus": "Это будет лучший выбор в этой ситуации?",
+      "eng": " Will it be the best choice in this situation?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "720"
+    },
+    {
+      "rus": "Это будет правильно?",
+      "eng": " Will it be right?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "721"
+    },
+    {
+      "rus": "Ты поедешь во Францию в этом году?",
+      "eng": " Will you go to France this year?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "722"
+    },
+    {
+      "rus": "Он купит другую машину?",
+      "eng": " Will he buy another car?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "723"
+    },
+    {
+      "rus": "Это будет бесплатно?",
+      "eng": " Will it be free?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "724"
+    },
+    {
+      "rus": "Ты отправишь ему сообщение?",
+      "eng": " Will you send him a message?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "725"
+    },
+    {
+      "rus": "Это будет дешевле?",
+      "eng": " Will it be cheaper?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "726"
+    },
+    {
+      "rus": "Они присоединятся к нам?",
+      "eng": " Will they join us?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "727"
+    },
+    {
+      "rus": "Ты будешь на работе завтра?",
+      "eng": " Will you be at work tomorrow?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "728"
+    },
+    {
+      "rus": "Ты будешь заказывать эту новую модель онлайн?",
+      "eng": " Will you order this new model online?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "729"
+    },
+    {
+      "rus": "Он скоро вернется?",
+      "eng": " Will he come back soon?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "730"
+    },
+    {
+      "rus": "Ты будешь играть?",
+      "eng": " Will you play?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "731"
+    },
+    {
+      "rus": "Она скоро придет домой?",
+      "eng": " Will she come home soon?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "732"
+    },
+    {
+      "rus": "Ты будешь делать это?",
+      "eng": " Will you do it?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "733"
+    },
+    {
+      "rus": "Вы поедете в Германию в следующем году?",
+      "eng": " Will you go to Germany next year?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "734"
+    },
+    {
+      "rus": "Вы будете снимать дом?",
+      "eng": " Will you rent a house?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "735"
+    },
+    {
+      "rus": "Это будет дороже?",
+      "eng": " Will it be more expensive?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "736"
+    },
+    {
+      "rus": "Ты будешь покупать это?",
+      "eng": " Will you buy it?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "737"
+    },
+    {
+      "rus": "ты останешься дома?",
+      "eng": " Will you stay at home?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "738"
+    },
+    {
+      "rus": "она будет покупать квартиру?",
+      "eng": " Will she buy an apartment?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "739"
+    },
+    {
+      "rus": "Ты будешь танцевать?",
+      "eng": " Will you dance?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "740"
+    },
+    {
+      "rus": "Ты отправишь ей письмо?",
+      "eng": " Will you send her a letter?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "741"
+    },
+    {
+      "rus": "Он будет с тобой?",
+      "eng": " Will he be with you?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "742"
+    },
+    {
+      "rus": "Ты позвонишь ему?",
+      "eng": " Will you call him?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "743"
+    },
+    {
+      "rus": "Это будет возможно?",
+      "eng": " Will it be possible?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "744"
+    },
+    {
+      "rus": "Ты поедешь в Англию в следующем месяце?",
+      "eng": " Will you go to England next month?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "745"
+    },
+    {
+      "rus": "Ты проверишь эту информацию?",
+      "eng": " Will you check this information?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "746"
+    },
+    {
+      "rus": "Это будет лучшее решение?",
+      "eng": " Will it be the best decision?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "747"
+    },
+    {
+      "rus": "Это будет лучшее решение в этой ситуации?",
+      "eng": " Will it be the best decision in this situation?",
+      "lesson": "26",
+      "level": "a0",
+      "id": "748"
+    }, {
+      "rus": "Я закрыл окно",
+      "eng": "I closed the window",
+      "lesson": "32",
+      "level": "a0",
+      "id": "749"
+    },
+    {
+      "rus": "Мы продолжили наш разговор",
+      "eng": "We continued our conversation",
+      "lesson": "32",
+      "level": "a0",
+      "id": "750"
+    },
+    {
+      "rus": "Это предложение казалось очень интересным",
+      "eng": "This offer seemed very interesting",
+      "lesson": "32",
+      "level": "a0",
+      "id": "751"
+    },
+    {
+      "rus": "Он любил ее так сильно",
+      "eng": "He loved her so much",
+      "lesson": "32",
+      "level": "a0",
+      "id": "752"
+    },
+    {
+      "rus": "Кто-то открыл дверь",
+      "eng": "Someone opened the door",
+      "lesson": "32",
+      "level": "a0",
+      "id": "753"
+    },
+    {
+      "rus": "Я закрыл дверь",
+      "eng": "I closed the door",
+      "lesson": "32",
+      "level": "a0",
+      "id": "754"
+    },
+    {
+      "rus": "я согласился в конце",
+      "eng": "I agreed in the end",
+      "lesson": "32",
+      "level": "a0",
+      "id": "755"
+    },
+    {
+      "rus": "Все изменилось внезапно",
+      "eng": "Everything changed suddenly",
+      "lesson": "32",
+      "level": "a0",
+      "id": "756"
+    },
+    {
+      "rus": "Мы поддерживали друг друга",
+      "eng": "We supported each other",
+      "lesson": "32",
+      "level": "a0",
+      "id": "757"
+    },
+    {
+      "rus": "Мы продолжили этот курс",
+      "eng": "We continued this course",
+      "lesson": "32",
+      "level": "a0",
+      "id": "758"
+    },
+    {
+      "rus": "Мы повернули назад",
+      "eng": "We turned back",
+      "lesson": "32",
+      "level": "a0",
+      "id": "759"
+    },
+    {
+      "rus": "Они переехали в Америку",
+      "eng": "They moved to America",
+      "lesson": "32",
+      "level": "a0",
+      "id": "760"
+    },
+    {
+      "rus": "Это изменило мою жизнь",
+      "eng": "It changed my life",
+      "lesson": "32",
+      "level": "a0",
+      "id": "761"
+    },
+    {
+      "rus": "Я послушал эту песню",
+      "eng": "I listened to this song",
+      "lesson": "32",
+      "level": "a0",
+      "id": "762"
+    },
+    {
+      "rus": "Я подождал его",
+      "eng": "I waited for him",
+      "lesson": "32",
+      "level": "a0",
+      "id": "763"
+    },
+    {
+      "rus": "Это интересовало меня так сильно",
+      "eng": "It interested me so much",
+      "lesson": "32",
+      "level": "a0",
+      "id": "764"
+    },
+    {
+      "rus": "Это действительно интересовало меня",
+      "eng": "It really interested me",
+      "lesson": "32",
+      "level": "a0",
+      "id": "765"
+    },
+    {
+      "rus": "Мы часто разговаривали по телефону",
+      "eng": "We often talked on the phone",
+      "lesson": "32",
+      "level": "a0",
+      "id": "766"
+    },
+    {
+      "rus": "Он любил ее и она любила его",
+      "eng": "He loved her and she loved him",
+      "lesson": "32",
+      "level": "a0",
+      "id": "767"
+    },
+    {
+      "rus": "Они согласились в конце",
+      "eng": "They agreed in the end",
+      "lesson": "32",
+      "level": "a0",
+      "id": "768"
+    },
+    {
+      "rus": "Мне нужно было больше времени",
+      "eng": "I needed more time",
+      "lesson": "32",
+      "level": "a0",
+      "id": "769"
+    },
+    {
+      "rus": "Я остановился внезапно",
+      "eng": "I stopped suddenly",
+      "lesson": "32",
+      "level": "a0",
+      "id": "770"
+    },
+    {
+      "rus": "Они подождали меня немного",
+      "eng": "They waited for me a little",
+      "lesson": "32",
+      "level": "a0",
+      "id": "771"
+    },
+    {
+      "rus": "Он переехал в этот город",
+      "eng": "He moved to this city",
+      "lesson": "32",
+      "level": "a0",
+      "id": "772"
+    },
+    {
+      "rus": "Я действительно хотел понять Это",
+      "eng": "I really wanted to understand it",
+      "lesson": "32",
+      "level": "a0",
+      "id": "773"
+    },
+    {
+      "rus": "Она переехала в Англию",
+      "eng": "She moved to England",
+      "lesson": "32",
+      "level": "a0",
+      "id": "774"
+    },
+    {
+      "rus": "Кто-то открыл окно",
+      "eng": "Someone opened the window",
+      "lesson": "32",
+      "level": "a0",
+      "id": "775"
+    },
+    {
+      "rus": "Они часто смеялись",
+      "eng": "They often laughed",
+      "lesson": "32",
+      "level": "a0",
+      "id": "776"
+    },
+    {
+      "rus": "Я подождал ее",
+      "eng": "I waited for her",
+      "lesson": "32",
+      "level": "a0",
+      "id": "777"
+    },
+    {
+      "rus": "Я подождал тебя немного",
+      "eng": "I waited for you a little",
+      "lesson": "32",
+      "level": "a0",
+      "id": "778"
+    },
+    {
+      "rus": "Я хотел выучить английский",
+      "eng": "I wanted to learn English",
+      "lesson": "32",
+      "level": "a0",
+      "id": "779"
+    },
+    {
+      "rus": "Я вспомнил его имя",
+      "eng": "I remembered his name",
+      "lesson": "32",
+      "level": "a0",
+      "id": "780"
+    },
+    {
+      "rus": "Я послушал ту песню",
+      "eng": "I listened to that song",
+      "lesson": "32",
+      "level": "a0",
+      "id": "781"
+    },
+    {
+      "rus": "Они часто разговаривали по телефону",
+      "eng": "They often talked on the phone",
+      "lesson": "32",
+      "level": "a0",
+      "id": "782"
+    },
+    {
+      "rus": "Я иногда слушал музыку",
+      "eng": "I sometimes listened to music",
+      "lesson": "32",
+      "level": "a0",
+      "id": "783"
+    },
+    {
+      "rus": "Они повернули назад",
+      "eng": "They turned back",
+      "lesson": "32",
+      "level": "a0",
+      "id": "784"
+    },
+    {
+      "rus": "я остановился рядом с этим магазином",
+      "eng": "I stopped near this shop",
+      "lesson": "32",
+      "level": "a0",
+      "id": "785"
+    },
+    {
+      "rus": "Это казалось невозможным в начале",
+      "eng": "It seemed impossible in the beginning",
+      "lesson": "32",
+      "level": "a0",
+      "id": "786"
+    },
+    {
+      "rus": "Мы остановились в этом месте",
+      "eng": "We stopped in this place",
+      "lesson": "32",
+      "level": "a0",
+      "id": "787"
+    },
+    {
+      "rus": "Я вспомнил ее имя",
+      "eng": "I remembered her name",
+      "lesson": "32",
+      "level": "a0",
+      "id": "788"
+    },
+    {
+      "rus": "Он часто смеялся",
+      "eng": "He often laughed",
+      "lesson": "32",
+      "level": "a0",
+      "id": "789"
+    },
+    {
+      "rus": "Все изменилось",
+      "eng": "Everything changed",
+      "lesson": "32",
+      "level": "a0",
+      "id": "790"
+    },
+    {
+      "rus": "Мои друзья всегда поддерживали меня",
+      "eng": "My friends always supported me",
+      "lesson": "32",
+      "level": "a0",
+      "id": "791"
+    },
+    {
+      "rus": "Я остановился в этом отеле",
+      "eng": "I stayed at this hotel",
+      "lesson": "32",
+      "level": "a0",
+      "id": "792"
+    },
+    {
+      "rus": "Это реально помогло мне",
+      "eng": "It really helped me",
+      "lesson": "32",
+      "level": "a0",
+      "id": "793"
+    },
+    {
+      "rus": "Он остановился внезапно",
+      "eng": "He stopped suddenly",
+      "lesson": "32",
+      "level": "a0",
+      "id": "794"
+    },
+    {
+      "rus": "Это казалось таким трудным особенно в начале",
+      "eng": "It seemed so difficult especially in the beginning",
+      "lesson": "32",
+      "level": "a0",
+      "id": "795"
+    },
+    {
+      "rus": "я сделал это сразу же",
+      "eng": "I did it immediately",
+      "lesson": "34",
+      "level": "a0",
+      "id": "796"
+    },
+    {
+      "rus": "Я сделал эту работу",
+      "eng": "I did this work",
+      "lesson": "34",
+      "level": "a0",
+      "id": "797"
+    },
+    {
+      "rus": "Она купила дом",
+      "eng": "She bought a house",
+      "lesson": "34",
+      "level": "a0",
+      "id": "798"
+    },
+    {
+      "rus": "Я понял это сразу",
+      "eng": "I understood it immediately",
+      "lesson": "34",
+      "level": "a0",
+      "id": "799"
+    },
+    {
+      "rus": "Я вернулся",
+      "eng": "I came back",
+      "lesson": "34",
+      "level": "a0",
+      "id": "800"
+    },
+    {
+      "rus": "Я прочитал эту историю",
+      "eng": "I read this story",
+      "lesson": "34",
+      "level": "a0",
+      "id": "801"
+    },
+    {
+      "rus": "Я прочитал эту книгу",
+      "eng": "I read this book",
+      "lesson": "34",
+      "level": "a0",
+      "id": "802"
+    },
+    {
+      "rus": "Я взял это с собой",
+      "eng": "I took it with me ai tuk it wi mi",
+      "lesson": "34",
+      "level": "a0",
+      "id": "803"
+    },
+    {
+      "rus": "Ты сделал это очень хорошо",
+      "eng": "You did it very well",
+      "lesson": "34",
+      "level": "a0",
+      "id": "804"
+    },
+    {
+      "rus": "Я сделал это для тебя",
+      "eng": "I did it for you",
+      "lesson": "34",
+      "level": "a0",
+      "id": "805"
+    },
+    {
+      "rus": "я получил письмо от него",
+      "eng": "I got a letter from him",
+      "lesson": "34",
+      "level": "a0",
+      "id": "806"
+    },
+    {
+      "rus": "Я написал ей сообщение",
+      "eng": "I wrote her a message",
+      "lesson": "34",
+      "level": "a0",
+      "id": "807"
+    },
+    {
+      "rus": "Я написал им письмо",
+      "eng": "I wrote them a letter",
+      "lesson": "34",
+      "level": "a0",
+      "id": "808"
+    },
+    {
+      "rus": "Он сделал ошибку",
+      "eng": "He made a mistake",
+      "lesson": "34",
+      "level": "a0",
+      "id": "809"
+    },
+    {
+      "rus": "Я знал это",
+      "eng": "I knew it",
+      "lesson": "34",
+      "level": "a0",
+      "id": "810"
+    },
+    {
+      "rus": "Я знал ответ",
+      "eng": "I knew the answer ai njui 'ans",
+      "lesson": "34",
+      "level": "a0",
+      "id": "811"
+    },
+    {
+      "rus": "я пошел домой",
+      "eng": "I went home",
+      "lesson": "34",
+      "level": "a0",
+      "id": "812"
+    },
+    {
+      "rus": "Я вернулся два часа назад",
+      "eng": "I came back two hours ago",
+      "lesson": "34",
+      "level": "a0",
+      "id": "813"
+    },
+    {
+      "rus": "Японял это только позже",
+      "eng": "I understood it only later",
+      "lesson": "34",
+      "level": "a0",
+      "id": "814"
+    },
+    {
+      "rus": "Я прочитал эту статью",
+      "eng": "I read this article",
+      "lesson": "34",
+      "level": "a0",
+      "id": "815"
+    },
+    {
+      "rus": "Я знал это очень хорошо",
+      "eng": "I knew it very well",
+      "lesson": "34",
+      "level": "a0",
+      "id": "816"
+    },
+    {
+      "rus": "Она сказала это так громко",
+      "eng": "She said it so loudly",
+      "lesson": "34",
+      "level": "a0",
+      "id": "817"
+    },
+    {
+      "rus": "Я понял это наконец",
+      "eng": "I understood it at last",
+      "lesson": "34",
+      "level": "a0",
+      "id": "818"
+    },
+    {
+      "rus": "Она сказала это очень громко",
+      "eng": "She said it very loudly",
+      "lesson": "34",
+      "level": "a0",
+      "id": "819"
+    },
+    {
+      "rus": "Он сказал это слишком тихо",
+      "eng": "He said it too quietly",
+      "lesson": "34",
+      "level": "a0",
+      "id": "820"
+    },
+    {
+      "rus": "Я купил тебе подарок",
+      "eng": "I bought you a present",
+      "lesson": "34",
+      "level": "a0",
+      "id": "821"
+    },
+    {
+      "rus": "я получил сообщение от нее",
+      "eng": "I got a message from her",
+      "lesson": "34",
+      "level": "a0",
+      "id": "822"
+    },
+    {
+      "rus": "Он сказал это снова",
+      "eng": "He said it again",
+      "lesson": "34",
+      "level": "a0",
+      "id": "823"
+    },
+    {
+      "rus": "Он рассказал мне эту историю",
+      "eng": "He told me this story",
+      "lesson": "34",
+      "level": "a0",
+      "id": "824"
+    },
+    {
+      "rus": "Я принял это предложение",
+      "eng": "I took this offer",
+      "lesson": "34",
+      "level": "a0",
+      "id": "825"
+    },
+    {
+      "rus": "Я купил два билета",
+      "eng": "I bought two tickets",
+      "lesson": "34",
+      "level": "a0",
+      "id": "826"
+    },
+    {
+      "rus": "Я понял эту речь",
+      "eng": "I understood this speech",
+      "lesson": "34",
+      "level": "a0",
+      "id": "827"
+    },
+    {
+      "rus": "Я понял тебя",
+      "eng": "I understood you",
+      "lesson": "34",
+      "level": "a0",
+      "id": "828"
+    },
+    {
+      "rus": "Он сказал это очень тихо",
+      "eng": "He said it very quietly",
+      "lesson": "34",
+      "level": "a0",
+      "id": "829"
+    },
+    {
+      "rus": "Я ходил на работу вчера",
+      "eng": "I went to work yesterday",
+      "lesson": "34",
+      "level": "a0",
+      "id": "830"
+    },
+    {
+      "rus": "я получил твое сообщение",
+      "eng": "I got your message",
+      "lesson": "34",
+      "level": "a0",
+      "id": "831"
+    },
+    {
+      "rus": "Он взял эти деньги",
+      "eng": "He took this money",
+      "lesson": "34",
+      "level": "a0",
+      "id": "832"
+    },
+    {
+      "rus": "Я думаю я сделал ошибку",
+      "eng": "I think I made a mistake",
+      "lesson": "34",
+      "level": "a0",
+      "id": "833"
+    },
+    {
+      "rus": "Я купил подарок для тебя",
+      "eng": "I bought a present for you",
+      "lesson": "34",
+      "level": "a0",
+      "id": "834"
+    },
+    {
+      "rus": "Я прочитал это онлайн",
+      "eng": "I read it online",
+      "lesson": "34",
+      "level": "a0",
+      "id": "835"
+    },
+    {
+      "rus": "Я написал письмо",
+      "eng": "I wrote a letter",
+      "lesson": "34",
+      "level": "a0",
+      "id": "836"
+    },
+    {
+      "rus": "Он купил машину",
+      "eng": "He bought a car",
+      "lesson": "34",
+      "level": "a0",
+      "id": "837"
+    },
+    {
+      "rus": "Я получил твое письмо",
+      "eng": "I got your letter",
+      "lesson": "34",
+      "level": "a0",
+      "id": "838"
+    },
+    {
+      "rus": "Я пошел домой после работы",
+      "eng": "I went home after work",
+      "lesson": "34",
+      "level": "a0",
+      "id": "839"
+    },
+    {
+      "rus": "Я написал сообщение",
+      "eng": "I wrote a message",
+      "lesson": "34",
+      "level": "a0",
+      "id": "840"
+    },
+    {
+      "rus": "Я видел его позавчера",
+      "eng": "I saw him the day before yesterday",
+      "lesson": "34",
+      "level": "a0",
+      "id": "841"
+    },
+    {
+      "rus": "Она купила квартиру",
+      "eng": "She bought an apartment",
+      "lesson": "34",
+      "level": "a0",
+      "id": "842"
+    },
+    {
+      "rus": "Я вернулся час назад",
+      "eng": "I came back an hour ago",
+      "lesson": "34",
+      "level": "a0",
+      "id": "843"
+    },
+    {
+      "rus": "Я купил подарок",
+      "eng": "I bought a present",
+      "lesson": "34",
+      "level": "a0",
+      "id": "844"
+    },
+    {
+      "rus": "Я видел ее вчера",
+      "eng": "I saw her yesterday",
+      "lesson": "34",
+      "level": "a0",
+      "id": "845"
+    },
+    {
+      "rus": "Я потерял ключи",
+      "eng": "I lost the keys",
+      "lesson": "36",
+      "level": "a0",
+      "id": "846"
+    },
+    {
+      "rus": "Я думал об этом предложений",
+      "eng": "I thought about this offer",
+      "lesson": "36",
+      "level": "a0",
+      "id": "847"
+    },
+    {
+      "rus": "Я полетел в другую страну",
+      "eng": "I flew to another country",
+      "lesson": "36",
+      "level": "a0",
+      "id": "848"
+    },
+    {
+      "rus": "Я попил чай",
+      "eng": "I drank tea",
+      "lesson": "36",
+      "level": "a0",
+      "id": "849"
+    },
+    {
+      "rus": "Первая команда выиграла",
+      "eng": "The first team won",
+      "lesson": "36",
+      "level": "a0",
+      "id": "850"
+    },
+    {
+      "rus": "Она купалась в море",
+      "eng": "She swam in the sea",
+      "lesson": "36",
+      "level": "a0",
+      "id": "851"
+    },
+    {
+      "rus": "Я часто думал об этом",
+      "eng": "I often thought about it",
+      "lesson": "36",
+      "level": "a0",
+      "id": "852"
+    },
+    {
+      "rus": "Я выбрал второй ответ",
+      "eng": "I chose the second answer",
+      "lesson": "36",
+      "level": "a0",
+      "id": "853"
+    },
+    {
+      "rus": "Они выиграли игру",
+      "eng": "They won the game",
+      "lesson": "36",
+      "level": "a0",
+      "id": "854"
+    },
+    {
+      "rus": "Я выпил кофе",
+      "eng": "I drank coffee",
+      "lesson": "36",
+      "level": "a0",
+      "id": "855"
+    },
+    {
+      "rus": "Он потерял свой бумажник",
+      "eng": "He lost his wallet",
+      "lesson": "36",
+      "level": "a0",
+      "id": "856"
+    },
+    {
+      "rus": "Я съел два бутерброда",
+      "eng": "I ate two sandwiches",
+      "lesson": "36",
+      "level": "a0",
+      "id": "857"
+    },
+    {
+      "rus": "Я выпил чашку чая",
+      "eng": "I drank a cup of tea",
+      "lesson": "36",
+      "level": "a0",
+      "id": "858"
+    },
+    {
+      "rus": "Я потерял свои ключи",
+      "eng": "I lost my keys",
+      "lesson": "36",
+      "level": "a0",
+      "id": "859"
+    },
+    {
+      "rus": "Я выиграл наконец",
+      "eng": "I won at last",
+      "lesson": "36",
+      "level": "a0",
+      "id": "860"
+    },
+    {
+      "rus": "Я выпил стакан сока",
+      "eng": "I drank a glass of juice",
+      "lesson": "36",
+      "level": "a0",
+      "id": "861"
+    },
+    {
+      "rus": "Я выпил немного сока",
+      "eng": "I drank some juice",
+      "lesson": "36",
+      "level": "a0",
+      "id": "862"
+    },
+    {
+      "rus": "Мы купались в озере",
+      "eng": "We swam in the lake",
+      "lesson": "36",
+      "level": "a0",
+      "id": "863"
+    },
+    {
+      "rus": "Они победили в конце",
+      "eng": "They won in the end",
+      "lesson": "36",
+      "level": "a0",
+      "id": "864"
+    },
+    {
+      "rus": "Он преподавал нам английский",
+      "eng": "He taught us English",
+      "lesson": "36",
+      "level": "a0",
+      "id": "865"
+    },
+    {
+      "rus": "я потерял сумку",
+      "eng": "I lost the bag",
+      "lesson": "36",
+      "level": "a0",
+      "id": "866"
+    },
+    {
+      "rus": "Я слышал это снова и снова",
+      "eng": "I heard it again and again",
+      "lesson": "36",
+      "level": "a0",
+      "id": "867"
+    },
+    {
+      "rus": "Я выбрал правильный ответ",
+      "eng": "I chose the right answer",
+      "lesson": "36",
+      "level": "a0",
+      "id": "868"
+    },
+    {
+      "rus": "Я услышал это только вчера",
+      "eng": "I heard it only yesterday",
+      "lesson": "36",
+      "level": "a0",
+      "id": "869"
+    },
+    {
+      "rus": "Я полетел в этот город",
+      "eng": "I flew to this city",
+      "lesson": "36",
+      "level": "a0",
+      "id": "870"
+    },
+    {
+      "rus": "Вторая команда проиграла",
+      "eng": "The second team lost",
+      "lesson": "36",
+      "level": "a0",
+      "id": "871"
+    },
+    {
+      "rus": "Я выпил чашку кофе",
+      "eng": "I drank a cup of coffee",
+      "lesson": "36",
+      "level": "a0",
+      "id": "872"
+    },
+    {
+      "rus": "Я потерял свой бумажник но затем я нашел его",
+      "eng": "I lost my wallet but then I found it",
+      "lesson": "36",
+      "level": "a0",
+      "id": "873"
+    },
+    {
+      "rus": "Я выбрал этот отель",
+      "eng": "I chose this hotel",
+      "lesson": "36",
+      "level": "a0",
+      "id": "874"
+    },
+    {
+      "rus": "Она преподавала английский",
+      "eng": "She taught English",
+      "lesson": "36",
+      "level": "a0",
+      "id": "875"
+    },
+    {
+      "rus": "Он продал свою машину",
+      "eng": "He sold his car",
+      "lesson": "36",
+      "level": "a0",
+      "id": "876"
+    },
+    {
+      "rus": "Я услышал это от него",
+      "eng": "I heard it from him",
+      "lesson": "36",
+      "level": "a0",
+      "id": "877"
+    },
+    {
+      "rus": "Я полетел в Соединенные Штаты",
+      "eng": "I flew to the United States",
+      "lesson": "36",
+      "level": "a0",
+      "id": "878"
+    },
+    {
+      "rus": "Я съел бутерброд",
+      "eng": "I ate a sandwich",
+      "lesson": "36",
+      "level": "a0",
+      "id": "879"
+    },
+    {
+      "rus": "Я плавал в бассейне",
+      "eng": "I swam in the swimming pool",
+      "lesson": "36",
+      "level": "a0",
+      "id": "880"
+    },
+    {
+      "rus": "Я плавал в море",
+      "eng": "I swam in the sea",
+      "lesson": "36",
+      "level": "a0",
+      "id": "881"
+    },
+    {
+      "rus": "Яел ча назад",
+      "eng": "cI ate an hour ago",
+      "lesson": "36",
+      "level": "a0",
+      "id": "882"
+    },
+    {
+      "rus": "Он плавал в реке",
+      "eng": "He swam in the river",
+      "lesson": "36",
+      "level": "a0",
+      "id": "883"
+    },
+    {
+      "rus": "Они продавали это очень дешево",
+      "eng": "They sold it very cheaply",
+      "lesson": "36",
+      "level": "a0",
+      "id": "884"
+    },
+    {
+      "rus": "Я потерял свои ключи но затем я нашел ИХ",
+      "eng": "I lost my keys but then I found them",
+      "lesson": "36",
+      "level": "a0",
+      "id": "885"
+    },
+    {
+      "rus": "Их команда проиграла в финале",
+      "eng": "Their team lost in the final",
+      "lesson": "36",
+      "level": "a0",
+      "id": "886"
+    },
+    {
+      "rus": "Я часто думал об этой вещи",
+      "eng": "I often thought about this thing",
+      "lesson": "36",
+      "level": "a0",
+      "id": "887"
+    },
+    {
+      "rus": "Я выбрал первый ответ",
+      "eng": "I chose the first answer",
+      "lesson": "36",
+      "level": "a0",
+      "id": "888"
+    },
+    {
+      "rus": "Я потерял свою сумку",
+      "eng": "I lost my bag",
+      "lesson": "36",
+      "level": "a0",
+      "id": "889"
+    },
+    {
+      "rus": "Мы купались в море",
+      "eng": "We swam in the sea",
+      "lesson": "36",
+      "level": "a0",
+      "id": "890"
+    },
+    {
+      "rus": "Янашел свои ключи",
+      "eng": "I found my keys",
+      "lesson": "36",
+      "level": "a0",
+      "id": "891"
+    },
+    {
+      "rus": "Я выпил апельсиновый сок",
+      "eng": "I drank orange juice",
+      "lesson": "36",
+      "level": "a0",
+      "id": "892"
+    },
+    {
+      "rus": "Он продал свой дом",
+      "eng": "He sold his house",
+      "lesson": "36",
+      "level": "a0",
+      "id": "893"
+    },
+    {
+      "rus": "Они выиграли матч",
+      "eng": "They won the match",
+      "lesson": "36",
+      "level": "a0",
+      "id": "894"
+    },
+    {
+      "rus": "Они построили дом",
+      "eng": "They built a house",
+      "lesson": "38",
+      "level": "a0",
+      "id": "895"
+    },
+    {
+      "rus": "Я отправил ей сообщение",
+      "eng": "I sent her a message",
+      "lesson": "38",
+      "level": "a0",
+      "id": "896"
+    },
+    {
+      "rus": "Он дал ей эти деньги",
+      "eng": "He gave her this money",
+      "lesson": "38",
+      "level": "a0",
+      "id": "897"
+    },
+    {
+      "rus": "У меня были некоторые вопросы",
+      "eng": "I had some questions",
+      "lesson": "38",
+      "level": "a0",
+      "id": "898"
+    },
+    {
+      "rus": "Он дал мне этот совет",
+      "eng": "He gave me this advice",
+      "lesson": "38",
+      "level": "a0",
+      "id": "899"
+    },
+    {
+      "rus": "Он бежал очень быстро",
+      "eng": "He ran very fast",
+      "lesson": "38",
+      "level": "a0",
+      "id": "900"
+    },
+    {
+      "rus": "Она стала учителем",
+      "eng": "She became a teacher",
+      "lesson": "38",
+      "level": "a0",
+      "id": "901"
+    },
+    {
+      "rus": "Они говорили по-английски",
+      "eng": "They spoke English",
+      "lesson": "38",
+      "level": "a0",
+      "id": "902"
+    },
+    {
+      "rus": "Он водил машину",
+      "eng": "He drove a car",
+      "lesson": "38",
+      "level": "a0",
+      "id": "903"
+    },
+    {
+      "rus": "Я положил это на стол",
+      "eng": "I put it on the table",
+      "lesson": "38",
+      "level": "a0",
+      "id": "904"
+    },
+    {
+      "rus": "она стала известной",
+      "eng": "She became famous sibi'keim 'ferms",
+      "lesson": "38",
+      "level": "a0",
+      "id": "905"
+    },
+    {
+      "rus": "Мы встретились снова",
+      "eng": "We met again",
+      "lesson": "38",
+      "level": "a0",
+      "id": "906"
+    },
+    {
+      "rus": "Он стал очень известным",
+      "eng": "He became very famous",
+      "lesson": "38",
+      "level": "a0",
+      "id": "907"
+    },
+    {
+      "rus": "Он чувствовал себя лучше вчера",
+      "eng": "He felt better yesterday",
+      "lesson": "38",
+      "level": "a0",
+      "id": "908"
+    },
+    {
+      "rus": "Они убежали",
+      "eng": "They ran away",
+      "lesson": "38",
+      "level": "a0",
+      "id": "909"
+    },
+    {
+      "rus": "Я положил это на пол",
+      "eng": "I put it on the floor",
+      "lesson": "38",
+      "level": "a0",
+      "id": "910"
+    },
+    {
+      "rus": "Она присела и затем встала",
+      "eng": "She sat down and then stood up",
+      "lesson": "38",
+      "level": "a0",
+      "id": "911"
+    },
+    {
+      "rus": "Я водил машину вчера",
+      "eng": "I drove a car yesterday",
+      "lesson": "38",
+      "level": "a0",
+      "id": "912"
+    },
+    {
+      "rus": "Они сбежали от полиции",
+      "eng": "They ran away from the police",
+      "lesson": "38",
+      "level": "a0",
+      "id": "913"
+    },
+    {
+      "rus": "я потратил так много денег на прошлой неделе",
+      "eng": "I spent so much money last week",
+      "lesson": "38",
+      "level": "a0",
+      "id": "914"
+    },
+    {
+      "rus": "У меня была одна проблема",
+      "eng": "I had one problem",
+      "lesson": "38",
+      "level": "a0",
+      "id": "915"
+    },
+    {
+      "rus": "Я положил это рядом с моей кроватью",
+      "eng": "I put it near my bed",
+      "lesson": "38",
+      "level": "a0",
+      "id": "916"
+    },
+    {
+      "rus": "Мы говорили только по английски",
+      "eng": "We spoke only English",
+      "lesson": "38",
+      "level": "a0",
+      "id": "917"
+    },
+    {
+      "rus": "Эта встреча началась",
+      "eng": "This meeting began",
+      "lesson": "38",
+      "level": "a0",
+      "id": "918"
+    },
+    {
+      "rus": "Я отправил ей письмо",
+      "eng": "I sent her a letter",
+      "lesson": "38",
+      "level": "a0",
+      "id": "919"
+    },
+    {
+      "rus": "У меня было мало свободного времени",
+      "eng": "I had little free time",
+      "lesson": "38",
+      "level": "a0",
+      "id": "920"
+    },
+    {
+      "rus": "Я сел на тот стул",
+      "eng": "I sat on that chair",
+      "lesson": "38",
+      "level": "a0",
+      "id": "921"
+    },
+    {
+      "rus": "Он убежал",
+      "eng": "He ran away",
+      "lesson": "38",
+      "level": "a0",
+      "id": "922"
+    },
+    {
+      "rus": "Я часто проводил время со своими друзьями",
+      "eng": "I often spent time with my friends",
+      "lesson": "38",
+      "level": "a0",
+      "id": "923"
+    },
+    {
+      "rus": "Я чувствовал себя намного лучше вечером",
+      "eng": "I felt much better in the evening",
+      "lesson": "38",
+      "level": "a0",
+      "id": "924"
+    },
+    {
+      "rus": "Он стал бизнесменом",
+      "eng": "He became a businessman",
+      "lesson": "38",
+      "level": "a0",
+      "id": "925"
+    },
+    {
+      "rus": "Они говорили по-испански",
+      "eng": "They spoke Spanish",
+      "lesson": "38",
+      "level": "a0",
+      "id": "926"
+    },
+    {
+      "rus": "Он построил дом",
+      "eng": "He built a house",
+      "lesson": "38",
+      "level": "a0",
+      "id": "927"
+    },
+    {
+      "rus": "Я положил это на письменный стол",
+      "eng": "I put it on the desk",
+      "lesson": "38",
+      "level": "a0",
+      "id": "928"
+    },
+    {
+      "rus": "Мы встретились наконец",
+      "eng": "We met at last",
+      "lesson": "38",
+      "level": "a0",
+      "id": "929"
+    },
+    {
+      "rus": "Он стал врачом",
+      "eng": "He became a doctor",
+      "lesson": "38",
+      "level": "a0",
+      "id": "930"
+    },
+    {
+      "rus": "Я отправил ему имейл",
+      "eng": "I sent him an email",
+      "lesson": "38",
+      "level": "a0",
+      "id": "931"
+    },
+    {
+      "rus": "Его машина сломалась",
+      "eng": "His car broke down",
+      "lesson": "38",
+      "level": "a0",
+      "id": "932"
+    },
+    {
+      "rus": "Мы встретились в аэропорту",
+      "eng": "We met at the airport",
+      "lesson": "38",
+      "level": "a0",
+      "id": "933"
+    },
+    {
+      "rus": "Он присел",
+      "eng": "He sat down",
+      "lesson": "38",
+      "level": "a0",
+      "id": "934"
+    },
+    {
+      "rus": "Эта встреча началась десять минут назад",
+      "eng": "This meeting began ten minutes ago",
+      "lesson": "38",
+      "level": "a0",
+      "id": "935"
+    },
+    {
+      "rus": "Мы часто проводили время вместе",
+      "eng": "We often spent time together",
+      "lesson": "38",
+      "level": "a0",
+      "id": "936"
+    },
+    {
+      "rus": "Я отправил ей два сообщения",
+      "eng": "I sent her two messages",
+      "lesson": "38",
+      "level": "a0",
+      "id": "937"
+    },
+    {
+      "rus": "Я положил это рядом со своим компьютером",
+      "eng": "I put it near my computer",
+      "lesson": "38",
+      "level": "a0",
+      "id": "938"
+    },
+    {
+      "rus": "Он заплатил за нее",
+      "eng": "He paid for her",
+      "lesson": "38",
+      "level": "a0",
+      "id": "939"
+    },
+    {
+      "rus": "Я заплатил за нее",
+      "eng": "I paid for her",
+      "lesson": "38",
+      "level": "a0",
+      "id": "940"
+    },
+    {
+      "rus": "я чувствовал себя очень хорошо",
+      "eng": "I felt very good",
+      "lesson": "38",
+      "level": "a0",
+      "id": "941"
+    },
+    {
+      "rus": "Они построили мост",
+      "eng": "They built a bridge",
+      "lesson": "38",
+      "level": "a0",
+      "id": "942"
+    },
+    {
+      "rus": "У меня было слишком мало времени",
+      "eng": "I had too little time",
+      "lesson": "38",
+      "level": "a0",
+      "id": "943"
+    },
+    {
+      "rus": "Его машина сломалась вчера",
+      "eng": "His car broke down yesterday",
+      "lesson": "38",
+      "level": "a0",
+      "id": "944"
+    },
+    {
+      "rus": "Их машина сломалась вдруг",
+      "eng": "Their car broke down suddenly",
+      "lesson": "38",
+      "level": "a0",
+      "id": "945"
+    },
+    {
+      "rus": "У меня был вопрос",
+      "eng": "I had a question",
+      "lesson": "38",
+      "level": "a0",
+      "id": "946"
+    },
+    {
+      "rus": "Я заплатил за эту услугу",
+      "eng": "I paid for this service",
+      "lesson": "38",
+      "level": "a0",
+      "id": "947"
+    },
+    {
+      "rus": "Я не хотел опаздывать на концерт",
+      "eng": "I didn't want to be late for the concert",
+      "lesson": "40",
+      "level": "a0",
+      "id": "948"
+    },
+    {
+      "rus": "Мне не понравилась эта идея сначала",
+      "eng": "I didn't like this idea at first",
+      "lesson": "40",
+      "level": "a0",
+      "id": "949"
+    },
+    {
+      "rus": "Она не хотела тратить время на это",
+      "eng": "She didn't want to spend time on it",
+      "lesson": "40",
+      "level": "a0",
+      "id": "950"
+    },
+    {
+      "rus": "Я не смотрел этот фильм",
+      "eng": "I didn't watch this movie",
+      "lesson": "40",
+      "level": "a0",
+      "id": "951"
+    },
+    {
+      "rus": "Это не принесло ему больших денег",
+      "eng": "It didn't bring him big money",
+      "lesson": "40",
+      "level": "a0",
+      "id": "952"
+    },
+    {
+      "rus": "Мы не поняли это",
+      "eng": "We didn't understand it",
+      "lesson": "40",
+      "level": "a0",
+      "id": "953"
+    },
+    {
+      "rus": "Он не спрашивал меня об этом",
+      "eng": "He didn't ask me about it",
+      "lesson": "40",
+      "level": "a0",
+      "id": "954"
+    },
+    {
+      "rus": "Я не ходил туда Я пошел в другое место",
+      "eng": "I didn't go there I went to another place",
+      "lesson": "40",
+      "level": "a0",
+      "id": "955"
+    },
+    {
+      "rus": "Я не ходил по магазинам",
+      "eng": "I didn't go shopping",
+      "lesson": "40",
+      "level": "a0",
+      "id": "956"
+    },
+    {
+      "rus": "Он не понял этот урок",
+      "eng": "He didn't understand this lesson",
+      "lesson": "40",
+      "level": "a0",
+      "id": "957"
+    },
+    {
+      "rus": "Это не помогло мне",
+      "eng": "It didn't help me",
+      "lesson": "40",
+      "level": "a0",
+      "id": "958"
+    },
+    {
+      "rus": "Я не хотел ждать это",
+      "eng": "I didn't want to wait for it",
+      "lesson": "40",
+      "level": "a0",
+      "id": "959"
+    },
+    {
+      "rus": "Это не принесло ему успех и счастье",
+      "eng": "It didn't bring him success and happiness",
+      "lesson": "40",
+      "level": "a0",
+      "id": "960"
+    },
+    {
+      "rus": "Я не пил чай Я выпил кофе",
+      "eng": "I didn't drink tea I drank coffee",
+      "lesson": "40",
+      "level": "a0",
+      "id": "961"
+    },
+    {
+      "rus": "Это не принесло ей настоящее счастье",
+      "eng": "It didn't bring her real happiness",
+      "lesson": "40",
+      "level": "a0",
+      "id": "962"
+    },
+    {
+      "rus": "Я не хотел опаздывать на урок",
+      "eng": "I I didn't want to be late for the lesson",
+      "lesson": "40",
+      "level": "a0",
+      "id": "963"
+    },
+    {
+      "rus": "Она не ходила по магазинам вчера",
+      "eng": "She didn't go shopping yesterday",
+      "lesson": "40",
+      "level": "a0",
+      "id": "964"
+    },
+    {
+      "rus": "У меня не было достаточно времени",
+      "eng": "I didn't have enough time",
+      "lesson": "40",
+      "level": "a0",
+      "id": "965"
+    },
+    {
+      "rus": "Мне не понравилось это сначала",
+      "eng": "I didn't like it at first",
+      "lesson": "40",
+      "level": "a0",
+      "id": "966"
+    },
+    {
+      "rus": "Мне не понравилась эта идея в начале",
+      "eng": "I didn't like this idea in the beginning",
+      "lesson": "40",
+      "level": "a0",
+      "id": "967"
+    },
+    {
+      "rus": "У него не было достаточно денег",
+      "eng": "He didn't have enough money",
+      "lesson": "40",
+      "level": "a0",
+      "id": "968"
+    },
+    {
+      "rus": "Я не думал об этом всерьез",
+      "eng": "I didn't think about it seriously",
+      "lesson": "40",
+      "level": "a0",
+      "id": "969"
+    },
+    {
+      "rus": "Я не ходил на работу два дня назад",
+      "eng": "I didn't go to work two days ago",
+      "lesson": "40",
+      "level": "a0",
+      "id": "970"
+    },
+    {
+      "rus": "Она не чувствовала себя счастливой",
+      "eng": "She didn't feel happy",
+      "lesson": "40",
+      "level": "a0",
+      "id": "971"
+    },
+    {
+      "rus": "Это не произошло",
+      "eng": "It didn't happen",
+      "lesson": "40",
+      "level": "a0",
+      "id": "972"
+    },
+    {
+      "rus": "У меня не было времени",
+      "eng": "I didn't have time",
+      "lesson": "40",
+      "level": "a0",
+      "id": "973"
+    },
+    {
+      "rus": "Я не хотел делать это",
+      "eng": "I didn't want to do it",
+      "lesson": "40",
+      "level": "a0",
+      "id": "974"
+    },
+    {
+      "rus": "Он не ходил в школу вчера",
+      "eng": "He didn't go to school yesterday",
+      "lesson": "40",
+      "level": "a0",
+      "id": "975"
+    },
+    {
+      "rus": "Я не хотел тратить свое время на это",
+      "eng": "I didn't want to spend my time on it",
+      "lesson": "40",
+      "level": "a0",
+      "id": "976"
+    },
+    {
+      "rus": "Эта вещь не помогла нам",
+      "eng": "This thing didn't help us",
+      "lesson": "40",
+      "level": "a0",
+      "id": "977"
+    },
+    {
+      "rus": "Мне не понравился тот отель",
+      "eng": "I didn't like that hotel",
+      "lesson": "40",
+      "level": "a0",
+      "id": "978"
+    },
+    {
+      "rus": "Я не знал об этом",
+      "eng": "I didn't know about it",
+      "lesson": "40",
+      "level": "a0",
+      "id": "979"
+    },
+    {
+      "rus": "Я не сделал какие-либо ошибки",
+      "eng": "I didn't make any mistakes",
+      "lesson": "40",
+      "level": "a0",
+      "id": "980"
+    },
+    {
+      "rus": "Я не хотел опаздывать",
+      "eng": "I didn't want to be late",
+      "lesson": "40",
+      "level": "a0",
+      "id": "981"
+    },
+    {
+      "rus": "Я не нашел эту информацию",
+      "eng": "I didn't find this information",
+      "lesson": "40",
+      "level": "a0",
+      "id": "982"
+    },
+    {
+      "rus": "Я не нашел это",
+      "eng": "I didn't find it",
+      "lesson": "40",
+      "level": "a0",
+      "id": "983"
+    },
+    {
+      "rus": "Я не хотел опаздывать на встречу",
+      "eng": "I didn't want to be late for the meeting",
+      "lesson": "40",
+      "level": "a0",
+      "id": "984"
+    },
+    {
+      "rus": "У меня не было каких-либо проблем",
+      "eng": "I didn't have any problems",
+      "lesson": "40",
+      "level": "a0",
+      "id": "985"
+    },
+    {
+      "rus": "Он не хотел там работать",
+      "eng": "He didn't want to work there",
+      "lesson": "40",
+      "level": "a0",
+      "id": "986"
+    },
+    {
+      "rus": "Я не смотрел это видео",
+      "eng": "I didn't watch this video",
+      "lesson": "40",
+      "level": "a0",
+      "id": "987"
+    },
+    {
+      "rus": "У меня не было каких-либо вопросов",
+      "eng": "I didn't have any questions",
+      "lesson": "40",
+      "level": "a0",
+      "id": "988"
+    },
+    {
+      "rus": "Я не поверил ему сначала",
+      "eng": "I didn't believe him at first",
+      "lesson": "40",
+      "level": "a0",
+      "id": "989"
+    },
+    {
+      "rus": "Они не проиграли",
+      "eng": "They didn't lose ei didnt luz",
+      "lesson": "40",
+      "level": "a0",
+      "id": "990"
+    },
+    {
+      "rus": "Я не платил за это",
+      "eng": "I I didn't pay for it",
+      "lesson": "40",
+      "level": "a0",
+      "id": "991"
+    },
+    {
+      "rus": "Я не хотел туда идти",
+      "eng": "I didn't want to go there",
+      "lesson": "40",
+      "level": "a0",
+      "id": "992"
+    },
+    {
+      "rus": "Мне не понравилось это в начале",
+      "eng": "I didn't like it in the beginning",
+      "lesson": "40",
+      "level": "a0",
+      "id": "993"
+    },
+    {
+      "rus": "Она не выглядела счастливой",
+      "eng": "She didn't look happy",
+      "lesson": "40",
+      "level": "a0",
+      "id": "994"
+    },
+    {
+      "rus": "Я не хотел ждать",
+      "eng": "I didn't want to wait",
+      "lesson": "40",
+      "level": "a0",
+      "id": "995"
+    },
+    {
+      "rus": "Я не поверил этому в начале",
+      "eng": "I didn't believe it in the beginning",
+      "lesson": "40",
+      "level": "a0",
+      "id": "996"
+    },
+    {
+      "rus": "Тебе понравилась экскурсия?",
+      "eng": " Did you like the excursion?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "997"
+    },
+    {
+      "rus": "Тебе действительно понравился этот фильм?",
+      "eng": " Did you really like this movie?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "998"
+    },
+    {
+      "rus": "Он сделал ошибку?",
+      "eng": " Did he make a mistake?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "999"
+    },
+    {
+      "rus": "Тебе понравился этот урок?",
+      "eng": " Did you like this lesson?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1000"
+    },
+    {
+      "rus": "Тебе понравилась эта экскурсия?",
+      "eng": " Did you like this excursion?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1001"
+    },
+    {
+      "rus": "Тебе понравилось это видео?",
+      "eng": " Did you like this video?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1002"
+    },
+    {
+      "rus": "Ты решил эти проблемы?",
+      "eng": " Did you solve these problems?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1003"
+    },
+    {
+      "rus": "Тебе понравилась книга?",
+      "eng": " Did you like the book?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1004"
+    },
+    {
+      "rus": "я правильно написал это?",
+      "eng": " Did I write it correctly?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1005"
+    },
+    {
+      "rus": "Ты понял это?",
+      "eng": " Did you understand it?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1006"
+    },
+    {
+      "rus": "Тебе понравился этот фильм?",
+      "eng": " Did you like this movie?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1007"
+    },
+    {
+      "rus": "Они приехали туда?",
+      "eng": " Did they come there?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1008"
+    },
+    {
+      "rus": "Ты сдал тот экзамен?",
+      "eng": " Did you pass that exam?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1009"
+    },
+    {
+      "rus": "Тебе понравилась эта программа?",
+      "eng": " Did you like this program?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1010"
+    },
+    {
+      "rus": "Ты прошел тест?",
+      "eng": " Did you pass the test?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1011"
+    },
+    {
+      "rus": "Ты показал лучший результат?",
+      "eng": " Did you show the best result?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1012"
+    },
+    {
+      "rus": "Тебе понравилась эта книга?",
+      "eng": " Did you like this book?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1013"
+    },
+    {
+      "rus": "Это действительно помогло тебе?",
+      "eng": " Did it really help you?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1014"
+    },
+    {
+      "rus": "Тебе понравился этот матч?",
+      "eng": " Did you like this match?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1015"
+    },
+    {
+      "rus": "Он решил те проблемы?",
+      "eng": " Did he solve those problems?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1016"
+    },
+    {
+      "rus": "Ему понравилась та экскурсия?",
+      "eng": " Did he like that excursion?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1017"
+    },
+    {
+      "rus": "Тебе понравилась игра?",
+      "eng": " Did you like the game?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1018"
+    },
+    {
+      "rus": "Ты сдал экзамен?",
+      "eng": " Did you pass the exam?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1019"
+    },
+    {
+      "rus": "Она знала это?",
+      "eng": " Did she know it?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1020"
+    },
+    {
+      "rus": "Это случилось вчера?",
+      "eng": " Did it happen yesterday?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1021"
+    },
+    {
+      "rus": "Ты решил эту проблему?",
+      "eng": " Did you solve this problem?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1022"
+    },
+    {
+      "rus": "Тебе действительно понравилась эта поездка?",
+      "eng": " Did you really like this trip?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1023"
+    },
+    {
+      "rus": "Он купил машину?",
+      "eng": " Did he buy a car?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1024"
+    },
+    {
+      "rus": "Тебе понравилась эта игра?",
+      "eng": " Did you like this game?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1025"
+    },
+    {
+      "rus": "Мы ответили на это правильно?",
+      "eng": " Did we answer it correctly?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1026"
+    },
+    {
+      "rus": "Он решил ту проблему?",
+      "eng": " Did he solve that problem?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1027"
+    },
+    {
+      "rus": "Он действительно помог тебе?",
+      "eng": " Did he really help you?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1028"
+    },
+    {
+      "rus": "Ты вчера ходил на работу?",
+      "eng": " Did you go to work yesterday?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1029"
+    },
+    {
+      "rus": "Ты заплатил за это?",
+      "eng": " Did you pay for it?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1030"
+    },
+    {
+      "rus": "Тебе понравилась поездка?",
+      "eng": " Did you like the trip?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1031"
+    },
+    {
+      "rus": "Мы правильно сказали это?",
+      "eng": " Did we say it correctly?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1032"
+    },
+    {
+      "rus": "Ты заказал это онлайн?",
+      "eng": " Did you order it online?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1033"
+    },
+    {
+      "rus": "Тебе понравилась эта идея?",
+      "eng": " Did you like this idea?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1034"
+    },
+    {
+      "rus": "Ты купил это онлайн?",
+      "eng": " Did you buy it online?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1035"
+    },
+    {
+      "rus": "Я сделал какие-либо ошибки?",
+      "eng": " Did I make any mistakes?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1036"
+    },
+    {
+      "rus": "Ты решил те проблемы?",
+      "eng": " Did you solve those problems?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1037"
+    },
+    {
+      "rus": "Ты сделал свое домашнее задание?",
+      "eng": " Did you do your homework?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1038"
+    },
+    {
+      "rus": "Ты ходил туда?",
+      "eng": " Did you go there?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1039"
+    },
+    {
+      "rus": "Тебе понравился урок?",
+      "eng": " Did you like the lesson?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1040"
+    },
+    {
+      "rus": "Тебе понравилась эта поездка?",
+      "eng": " Did you like this trip?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1041"
+    },
+    {
+      "rus": "Тебе действительно понравилась эта программа?",
+      "eng": " Did you really like this program?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1042"
+    },
+    {
+      "rus": "Это помогло тебе?",
+      "eng": " Did it help you?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1043"
+    },
+    {
+      "rus": "я правильно сказал это?",
+      "eng": " Did I say it correctly?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1044"
+    },
+    {
+      "rus": "Он работал с тобой?",
+      "eng": " Did he work with you?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1045"
+    },
+    {
+      "rus": "Ты сдал этот тест?",
+      "eng": " Did you pass this test?",
+      "lesson": "42",
+      "level": "a0",
+      "id": "1046"
+    },
+    {
+      "rus": "Что ты увидел там?",
+      "eng": " What did you see there?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1047"
+    },
+    {
+      "rus": "Какие ошибки он сделал?",
+      "eng": " What mistakes did he make?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1048"
+    },
+    {
+      "rus": "Когда ты видел его в последний раз?",
+      "eng": " When did you see him last time?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1049"
+    },
+    {
+      "rus": "Что ты делал вчера?",
+      "eng": " What did you do yesterday?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1050"
+    },
+    {
+      "rus": "Где ты нашел эту информацию?",
+      "eng": " Where did you find this information?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1051"
+    },
+    {
+      "rus": "Сколько денег ты потратил на это?",
+      "eng": " How much money did you spend on it?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1052"
+    },
+    {
+      "rus": "Когда она пришла на встречу?",
+      "eng": " When did she come to the meeting?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1053"
+    },
+    {
+      "rus": "Как ты сделал это?",
+      "eng": " How did you do it?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1054"
+    },
+    {
+      "rus": "Какую еду ты купил?",
+      "eng": " What food did you buy?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1055"
+    },
+    {
+      "rus": "Какие ошибки ты сделал?",
+      "eng": " What mistakes did you make?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1056"
+    },
+    {
+      "rus": "Что ты ел на обед?",
+      "eng": " What did you eat for lunch?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1057"
+    },
+    {
+      "rus": "Когда он пришел на ту вечеринку?",
+      "eng": " When did he come to that party?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1058"
+    },
+    {
+      "rus": "Которую модель ты заказал?",
+      "eng": " Which model did you order?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1059"
+    },
+    {
+      "rus": "Где ты жил?",
+      "eng": " Where did you live?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1060"
+    },
+    {
+      "rus": "Когда они пришли?",
+      "eng": " When did they come?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1061"
+    },
+    {
+      "rus": "Как это помогло тебе?",
+      "eng": " How did it help you?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1062"
+    },
+    {
+      "rus": "Сколько ты заплатил за это?",
+      "eng": " How much did you pay for it?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1063"
+    },
+    {
+      "rus": "Что ты ел на завтрак?",
+      "eng": " What did you eat for breakfast?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1064"
+    },
+    {
+      "rus": "Куда ты ездил прошлой зимой?",
+      "eng": " Where did you go last winter?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1065"
+    },
+    {
+      "rus": "Какие интересные места вы посетили?",
+      "eng": " What interesting places fiz did you visit?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1066"
+    },
+    {
+      "rus": "Где ты купил это?",
+      "eng": " Where did you buy it?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1067"
+    },
+    {
+      "rus": "Сколько денег ты потратил на эту поездку?",
+      "eng": " How much money did you spend on this trip?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1068"
+    },
+    {
+      "rus": "Когда ты пришел на вечеринку?",
+      "eng": " When did you come to the party?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1069"
+    },
+    {
+      "rus": "Как ты решил эту проблему?",
+      "eng": " How did you solve this problem?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1070"
+    },
+    {
+      "rus": "Что ты делал позавчера?",
+      "eng": " What did you do the day before yesterday?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1071"
+    },
+    {
+      "rus": "Когда ты это понял?",
+      "eng": " When did you understand it?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1072"
+    },
+    {
+      "rus": "Какие результаты у тебя были?",
+      "eng": " What results did you have?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1073"
+    },
+    {
+      "rus": "Что он сказал тебе?",
+      "eng": " What did he tell you?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1074"
+    },
+    {
+      "rus": "Как ты отпраздновал свой день рождения?",
+      "eng": " How did you celebrate your birthday?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1075"
+    },
+    {
+      "rus": "Что ты ел на ужин?",
+      "eng": " What did you eat for dinner?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1076"
+    },
+    {
+      "rus": "Зачем ты сделал это?",
+      "eng": " Why did you do it?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1077"
+    },
+    {
+      "rus": "Где вы встречались в прошлый раз?",
+      "eng": " Where did you meet last time?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1078"
+    },
+    {
+      "rus": "Как ты говорил по-английски?",
+      "eng": " How did you speak English?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1079"
+    },
+    {
+      "rus": "Какие результаты у него были?",
+      "eng": " What results did he have?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1080"
+    },
+    {
+      "rus": "Как ты отмечал этот праздник?",
+      "eng": " How did you celebrate this holiday?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1081"
+    },
+    {
+      "rus": "Когда вы прибыли в аэропорт?",
+      "eng": " When did you arrive at the airport?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1082"
+    },
+    {
+      "rus": "Сколько времени ты потратил на это?",
+      "eng": " How much time did you spend on it?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1083"
+    },
+    {
+      "rus": "Как ты узнал об этом?",
+      "eng": " How did you know about it?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1084"
+    },
+    {
+      "rus": "Когда ты пришел домой?",
+      "eng": " When did you come home?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1085"
+    },
+    {
+      "rus": "Какие билеты ты купил?",
+      "eng": " What tickets did you buy?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1086"
+    },
+    {
+      "rus": "Когда он пришел на эту встречу?",
+      "eng": " When did he come to this meeting?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1087"
+    },
+    {
+      "rus": "Во сколько ты пришел домой?",
+      "eng": " What time did you come home?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1088"
+    },
+    {
+      "rus": "Что она сказала?",
+      "eng": " What did she say?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1089"
+    },
+    {
+      "rus": "Сколько это стоило?",
+      "eng": " How much did it cost?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1090"
+    },
+    {
+      "rus": "Куда ты ездил прошлым летом?",
+      "eng": " Where did you go last summer?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1091"
+    },
+    {
+      "rus": "Как вы встретились?",
+      "eng": " How did you meet?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1092"
+    },
+    {
+      "rus": "Какие места вы посетили?",
+      "eng": " What places did you visit?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1093"
+    },
+    {
+      "rus": "Как часто ты ходил туда?",
+      "eng": " How often did you go there?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1094"
+    },
+    {
+      "rus": "Которое платье ты выбрал?",
+      "eng": " Which dress did you choose? wit dres did jutuz?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1095"
+    },
+    {
+      "rus": "Сколько денег ты потратил на этот курс?",
+      "eng": " How much money did you spend on this course?",
+      "lesson": "44",
+      "level": "a0",
+      "id": "1096"
+    },
+    {
+      "rus": "Она болела на прошлой неделе",
+      "eng": "She was ill last week",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1097"
+    },
+    {
+      "rus": "я был на работе",
+      "eng": "I was at work",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1098"
+    },
+    {
+      "rus": "Он был болен",
+      "eng": "He was ill",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1099"
+    },
+    {
+      "rus": "Она была так счастлива",
+      "eng": "She was so happy",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1100"
+    },
+    {
+      "rus": "Она была действительно рассержена",
+      "eng": "She was really angry",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1101"
+    },
+    {
+      "rus": "Я был в парке",
+      "eng": "I was in the park",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1102"
+    },
+    {
+      "rus": "я был действительно удивлен",
+      "eng": "I was really surprised",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1103"
+    },
+    {
+      "rus": "Он был на работе",
+      "eng": "He was at work",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1104"
+    },
+    {
+      "rus": "я был очень удивлен",
+      "eng": "I was very surprised",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1105"
+    },
+    {
+      "rus": "Он был очень удивлен",
+      "eng": "He was very surprised",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1106"
+    },
+    {
+      "rus": "Он был очень грустный",
+      "eng": "He was very sad",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1107"
+    },
+    {
+      "rus": "Он был очень зол",
+      "eng": "He was very angry",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1108"
+    },
+    {
+      "rus": "Это было очень сложно",
+      "eng": "It was very difficult",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1109"
+    },
+    {
+      "rus": "Это был лучший результат",
+      "eng": "It was the best result",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1110"
+    },
+    {
+      "rus": "Я очень устал",
+      "eng": "I was very tired",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1111"
+    },
+    {
+      "rus": "Это было действительно странно",
+      "eng": "It was really strange",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1112"
+    },
+    {
+      "rus": "Это было важно",
+      "eng": "It was important",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1113"
+    },
+    {
+      "rus": "Этот урок был очень полезным",
+      "eng": "This lesson was very useful",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1114"
+    },
+    {
+      "rus": "Она была грустная",
+      "eng": "She was sadLjiwpz sed",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1115"
+    },
+    {
+      "rus": "Я очень устал вчера",
+      "eng": "I was very tired yesterday",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1116"
+    },
+    {
+      "rus": "Они были в городе",
+      "eng": "They were in the city",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1117"
+    },
+    {
+      "rus": "Это было очень важно",
+      "eng": "It was very important",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1118"
+    },
+    {
+      "rus": "Это было так необычно",
+      "eng": "It was so unusual",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1119"
+    },
+    {
+      "rus": "Мы были в городе",
+      "eng": "We were in the city",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1120"
+    },
+    {
+      "rus": "Это было очень легко",
+      "eng": "It was very easy",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1121"
+    },
+    {
+      "rus": "Эта еда была очень дешевой",
+      "eng": "This food was very cheap",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1122"
+    },
+    {
+      "rus": "Эта идея была очень интересная",
+      "eng": "This idea was very interesting",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1123"
+    },
+    {
+      "rus": "Это было лучшее решение",
+      "eng": "It was the best decision",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1124"
+    },
+    {
+      "rus": "Это было действительно важно",
+      "eng": "It was really important",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1125"
+    },
+    {
+      "rus": "Это был лучший выбор",
+      "eng": "It was the best choice",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1126"
+    },
+    {
+      "rus": "Ты был совершенно прав",
+      "eng": "You were absolutely right",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1127"
+    },
+    {
+      "rus": "Это было легко",
+      "eng": "It was easy",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1128"
+    },
+    {
+      "rus": "Я был очень занят",
+      "eng": "I was very busy",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1129"
+    },
+    {
+      "rus": "Они были в другом городе",
+      "eng": "They were in another city",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1130"
+    },
+    {
+      "rus": "Я очень устал после работы",
+      "eng": "I was very tired after work",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1131"
+    },
+    {
+      "rus": "Он был очень счастлив",
+      "eng": "He was very happy",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1132"
+    },
+    {
+      "rus": "Я был очень занят весь день",
+      "eng": "I was very busy all day",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1133"
+    },
+    {
+      "rus": "Это был мой лучший результат",
+      "eng": "It was my best result",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1134"
+    },
+    {
+      "rus": "Мы были вместе",
+      "eng": "We were together",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1135"
+    },
+    {
+      "rus": "Это платье было очень дорогое",
+      "eng": "This dress was very expensive",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1136"
+    },
+    {
+      "rus": "Я был очень счастлив",
+      "eng": "I was very happy",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1137"
+    },
+    {
+      "rus": "Это было действительно интересно",
+      "eng": "It was really interesting",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1138"
+    },
+    {
+      "rus": "Эти уроки были очень полезные",
+      "eng": "These lessons were very useful",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1139"
+    },
+    {
+      "rus": "Этот билет был таким дорогим",
+      "eng": "This ticket was so expensive",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1140"
+    },
+    {
+      "rus": "Это было слишком сложно",
+      "eng": "It was too difficult",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1141"
+    },
+    {
+      "rus": "Это было сложно",
+      "eng": "It was difficult",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1142"
+    },
+    {
+      "rus": "Мы были в парке",
+      "eng": "We were in the park",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1143"
+    },
+    {
+      "rus": "Эти билеты были очень дорогими",
+      "eng": "These tickets were very expensive",
+      "lesson": "46",
+      "level": "a0",
+      "id": "1144"
+    },
+    {
+      "rus": "Это не было проблемой",
+      "eng": "It wasn't a problem",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1145"
+    },
+    {
+      "rus": "Я не был удивлен",
+      "eng": "I wasn't surprised",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1146"
+    },
+    {
+      "rus": "Это не было плохо Это было очень хорошо",
+      "eng": "It wasn't badIt was very good",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1147"
+    },
+    {
+      "rus": "Он не был удивлен",
+      "eng": "He wasn't surprised",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1148"
+    },
+    {
+      "rus": "Они не были богатыми Они были очень бедными",
+      "eng": "They weren't rich They were very poor",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1149"
+    },
+    {
+      "rus": "Я не был за границей в прошлом году",
+      "eng": "I wasn't abroad last year",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1150"
+    },
+    {
+      "rus": "Это не было интересно мне",
+      "eng": "It wasn't interesting for me",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1151"
+    },
+    {
+      "rus": "Я не был занят Я был свободен",
+      "eng": "I wasn't busy I was free",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1152"
+    },
+    {
+      "rus": "Это не было дорого Это было очень дешево",
+      "eng": "It wasn't expensive It was very cheap",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1153"
+    },
+    {
+      "rus": "Я не был дома Я был на работе",
+      "eng": "I wasn't at home I was at work",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1154"
+    },
+    {
+      "rus": "Я не был там днем Я был там вечером",
+      "eng": "I wasn't there in the afternoon I was there in the evening",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1155"
+    },
+    {
+      "rus": "Я думаю это было не так легко",
+      "eng": "I think it wasn't so easy",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1156"
+    },
+    {
+      "rus": "Это было не смешно",
+      "eng": "It wasn't funny",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1157"
+    },
+    {
+      "rus": "Это не было так дешево",
+      "eng": "It wasn't so cheap",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1158"
+    },
+    {
+      "rus": "Это было не легко Это было очень сложно",
+      "eng": "It wasn't easy It was very difficult",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1159"
+    },
+    {
+      "rus": "Это не было слишком сложно",
+      "eng": "It wasn't too difficult",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1160"
+    },
+    {
+      "rus": "Мы не были там Мы были в другом месте",
+      "eng": "We weren't there We were in another place",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1161"
+    },
+    {
+      "rus": "Это не было интересно ему",
+      "eng": "It wasn't interesting for him",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1162"
+    },
+    {
+      "rus": "Это не было важно",
+      "eng": "It wasn't important",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1163"
+    },
+    {
+      "rus": "Это было не так смешно",
+      "eng": "It wasn't so funny",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1164"
+    },
+    {
+      "rus": "Он не был уверен",
+      "eng": "He wasn't sure",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1165"
+    },
+    {
+      "rus": "Я думаю ты не был прав",
+      "eng": "I think you weren't right",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1166"
+    },
+    {
+      "rus": "Я не был готов к этому",
+      "eng": "I wasn't ready for it",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1167"
+    },
+    {
+      "rus": "Это было не сложно Это было очень легко",
+      "eng": "It wasn't difficult It was very easy",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1168"
+    },
+    {
+      "rus": "Я не был уверен по поводу этого",
+      "eng": "I wasn't sure about it",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1169"
+    },
+    {
+      "rus": "Это была не лучшая идея в той ситуации",
+      "eng": "It wasn't the best idea in that situation",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1170"
+    },
+    {
+      "rus": "Это не было интересно им",
+      "eng": "It wasn't interesting for them fit woznt'intristi fodem",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1171"
+    },
+    {
+      "rus": "Это не было проблемой для меня",
+      "eng": "It wasn't a problem for me",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1172"
+    },
+    {
+      "rus": "Они не были дома",
+      "eng": "They weren't at home",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1173"
+    },
+    {
+      "rus": "Это было не так легко",
+      "eng": "It wasn't so easy",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1174"
+    },
+    {
+      "rus": "Я думаю что эта цена была не такая хорошая",
+      "eng": "I think that this price wasn't so good",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1175"
+    },
+    {
+      "rus": "Это не было действительно важно",
+      "eng": "It wasn't really important",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1176"
+    },
+    {
+      "rus": "Я думаю что эта цена была не такая хорошая",
+      "eng": "I think that this price wasn't so good",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1177"
+    },
+    {
+      "rus": "Это не было действительно важно",
+      "eng": "It wasn't really important it woznt 'rili im'ptnt",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1178"
+    },
+    {
+      "rus": "Она не была удивлена",
+      "eng": "She wasn't surprised Uwpznt s'prazd",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1179"
+    },
+    {
+      "rus": "Я не был готов",
+      "eng": "I wasn't ready",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1180"
+    },
+    {
+      "rus": "Я не был там утром Я был там днем",
+      "eng": "I wasn't there in the morning I was there in the afternoon",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1181"
+    },
+    {
+      "rus": "Мы не были дома",
+      "eng": "We weren't at home",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1182"
+    },
+    {
+      "rus": "Это не было сложно в начале",
+      "eng": "It wasn't difficult in the beginning",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1183"
+    },
+    {
+      "rus": "Эта шутка не была смешной",
+      "eng": "This joke wasn't funny",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1184"
+    },
+    {
+      "rus": "Это не было легко",
+      "eng": "It wasn't easy",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1185"
+    },
+    {
+      "rus": "Это не было сложно",
+      "eng": "It wasn't difficult",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1186"
+    },
+    {
+      "rus": "Они не были рядом Они были очень далеко",
+      "eng": "They weren't near They were very far",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1187"
+    },
+    {
+      "rus": "Это была не моя идея",
+      "eng": "It wasn't my idea",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1188"
+    },
+    {
+      "rus": "Это было не интересно",
+      "eng": "It wasn't interesting",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1189"
+    },
+    {
+      "rus": "Я не был на работе вчера",
+      "eng": "I wasn't at work yesterday",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1190"
+    },
+    {
+      "rus": "Он не устал вчера",
+      "eng": "He wasn't tired yesterday",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1191"
+    },
+    {
+      "rus": "Это видео не было смешным",
+      "eng": "This video wasn't funny",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1192"
+    },
+    {
+      "rus": "Эта шутка не была такой смешной",
+      "eng": "This joke wasn't so funny",
+      "lesson": "48",
+      "level": "a0",
+      "id": "1193"
+    },
+    {
+      "rus": "Он был на концерте?",
+      "eng": " Was he at the concert?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1194"
+    },
+    {
+      "rus": "Это было интересно или нет?",
+      "eng": " Was it interesting or not?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1195"
+    },
+    {
+      "rus": "Это было проблемой для тебя?",
+      "eng": " Was it a problem for you?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1196"
+    },
+    {
+      "rus": "Это было действительно так сложно?",
+      "eng": " Was it really so difficult?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1197"
+    },
+    {
+      "rus": "Что было на полу?",
+      "eng": " What was on the floor?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1198"
+    },
+    {
+      "rus": "Это было важно или нет?",
+      "eng": " Was it important or not?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1199"
+    },
+    {
+      "rus": "Что было в коробке?",
+      "eng": " What was in the box?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1200"
+    },
+    {
+      "rus": "Где ты был?",
+      "eng": " Where were you?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1201"
+    },
+    {
+      "rus": "Вы были вместе?",
+      "eng": " Were you together?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1202"
+    },
+    {
+      "rus": "Почему это было так эффективно?",
+      "eng": " Why was it so effective?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1203"
+    },
+    {
+      "rus": "Где ты был утром?",
+      "eng": " Where were you in the morning?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1204"
+    },
+    {
+      "rus": "Это было действительно так скучно?",
+      "eng": " Was it really so boring?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1205"
+    },
+    {
+      "rus": "Он был действительно зол?",
+      "eng": " Was he really angry?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1206"
+    },
+    {
+      "rus": "Ты был действительно уверен?",
+      "eng": " Were you really sure?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1207"
+    },
+    {
+      "rus": "Почему это было так дорого?",
+      "eng": " Why was it so expensive?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1208"
+    },
+    {
+      "rus": "Где ты купил эту вещь?",
+      "eng": " Where did you buy this thing?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1209"
+    },
+    {
+      "rus": "Это было лучше?",
+      "eng": " Was it better?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1210"
+    },
+    {
+      "rus": "Почему это было так медленно?",
+      "eng": " Why was it so slow?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1211"
+    },
+    {
+      "rus": "Он был на вечеринке?",
+      "eng": " Was he at the party?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1212"
+    },
+    {
+      "rus": "что было в той коробке?",
+      "eng": " What was in that box?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1213"
+    },
+    {
+      "rus": "Это было бесплатно?",
+      "eng": " Was it free?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1214"
+    },
+    {
+      "rus": "Когда ты был там последний раз?",
+      "eng": " When were you there last time?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1215"
+    },
+    {
+      "rus": "Они были на пляже?",
+      "eng": " Were they at the beach?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1216"
+    },
+    {
+      "rus": "Как ты скачал эту программу?",
+      "eng": " How did you download this program?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1217"
+    },
+    {
+      "rus": "Как ты скачал это?",
+      "eng": " How did you download it?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1218"
+    },
+    {
+      "rus": "Это было действительно так важно?",
+      "eng": " Was it really so important?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1219"
+    },
+    {
+      "rus": "Что было действительно важно?",
+      "eng": " What was really important?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1220"
+    },
+    {
+      "rus": "Сколько это стоило?",
+      "eng": "How much was it?How much did it cost?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1221"
+    },
+    {
+      "rus": "Вы были на пляже?",
+      "eng": " Were you at the beach?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1222"
+    },
+    {
+      "rus": "Кто там был?",
+      "eng": " Who was there?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1223"
+    },
+    {
+      "rus": "Это было действительно так эффективно?",
+      "eng": " Was it really so effective?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1224"
+    },
+    {
+      "rus": "Он был с тобой?",
+      "eng": " Was he with you?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1225"
+    },
+    {
+      "rus": "Что было на письменном столе?",
+      "eng": " What was on the desk?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1226"
+    },
+    {
+      "rus": "Что было такого странного?",
+      "eng": " What was so strange?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1227"
+    },
+    {
+      "rus": "Ты был на этой вечеринке?",
+      "eng": " Were you at this party?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1228"
+    },
+    {
+      "rus": "сТы был на концерте?",
+      "eng": " Were you at the concert?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1229"
+    },
+    {
+      "rus": "Кто был прав?",
+      "eng": " Who was right?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1230"
+    },
+    {
+      "rus": "она была действительно рассержена?",
+      "eng": " Was she really angry?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1231"
+    },
+    {
+      "rus": "Где ты был вечером?",
+      "eng": " Where were you in the evening?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1232"
+    },
+    {
+      "rus": "Это было проблемой?",
+      "eng": " Was it a problem?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1233"
+    },
+    {
+      "rus": "Где ты был днем?",
+      "eng": " Where were you in the afternoon?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1234"
+    },
+    {
+      "rus": "Я был прав?",
+      "eng": " Was I right?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1235"
+    },
+    {
+      "rus": "Ты был в Англии в прошлом году?",
+      "eng": " Were you in England last year?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1236"
+    },
+    {
+      "rus": "Что было в этой коробке?",
+      "eng": " What was in this box?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1237"
+    },
+    {
+      "rus": "Когда ты последний раз был за границей?",
+      "eng": " When were you abroad last time?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1238"
+    },
+    {
+      "rus": "Что было на столе?",
+      "eng": " What was on the table?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1239"
+    },
+    {
+      "rus": "Ты был онлайн?",
+      "eng": "Were you online?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1240"
+    },
+    {
+      "rus": "Где он был?",
+      "eng": " Where was he?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1241"
+    },
+    {
+      "rus": "Ты был занят вчера?",
+      "eng": " Were you busy yesterday?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1242"
+    },
+    {
+      "rus": "Он был действительно прав?",
+      "eng": " Was he really right?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1243"
+    },
+    {
+      "rus": "Почему это было так дешево?",
+      "eng": " Why was it so cheap?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1244"
+    },
+    {
+      "rus": "Ты был в Соединенных Штатах в прошлом году?",
+      "eng": " Were you in the United States last year?",
+      "lesson": "50",
+      "level": "a0",
+      "id": "1245"
     }
   ]
 }
