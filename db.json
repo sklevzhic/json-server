@@ -5721,7 +5721,8 @@
       "rus": "Мне нужно идти на работу ",
       "id": "16",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "errors": 1
     },
     {
       "eng": "I'd like to go to that place",
@@ -5749,7 +5750,8 @@
       "rus": "Мне нужно сделать это ",
       "id": "20",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "errors": 1
     },
     {
       "eng": "I go to work",
@@ -5842,7 +5844,7 @@
       "id": "32",
       "level": "a0",
       "lesson": "2",
-      "errors": "1"
+      "errors": 1
     },
     {
       "eng": "This speech really inspired",
@@ -6703,7 +6705,8 @@
       "id": "138",
       "level": "a0",
       "lesson": "2",
-      "correctly": "1"
+      "correctly": "1",
+      "errors": "11"
     },
     {
       "eng": "I often go for a walk",
@@ -6734,7 +6737,8 @@
       "rus": "Я бы хотел посетить эту страну ",
       "id": "142",
       "level": "a0",
-      "lesson": "2"
+      "lesson": "2",
+      "errors": 1
     },
     {
       "eng": "I want to visit new countries and cities",
@@ -11130,7 +11134,8 @@
       "lesson": "26",
       "level": "a0",
       "id": "748"
-    }, {
+    },
+    {
       "rus": "Я закрыл окно",
       "eng": "I closed the window",
       "lesson": "32",
@@ -14611,121 +14616,581 @@
     }
   ],
   "englishLessons": [
-    {"level": "a0", "lesson": "2", "title": "was/were"},
-    {"level": "a0", "lesson": "4", "title": "to be"},
-    {"level": "a0", "lesson": "6", "title": "to be"},
-    {"level": "a0", "lesson": "8", "title": "to be"},
-    {"level": "a0", "lesson": "10", "title": "to be"},
-    {"level": "a0", "lesson": "12", "title": "to be"},
-    {"level": "a0", "lesson": "14", "title": "to be"},
-    {"level": "a0", "lesson": "16", "title": "to be"},
-    {"level": "a0", "lesson": "18", "title": "to be"},
-    {"level": "a0", "lesson": "20", "title": "to be"},
-    {"level": "a0", "lesson": "22", "title": "to be"},
-    {"level": "a0", "lesson": "24", "title": "to be"},
-    {"level": "a0", "lesson": "26", "title": "to be"},
-    {"level": "a0", "lesson": "28", "title": "to be"},
-    {"level": "a0", "lesson": "30", "title": "to be"},
-    {"level": "a0", "lesson": "32", "title": "to be"},
-    {"level": "a0", "lesson": "34", "title": "Past Simple - Прошеднее простое время (неправильные глаголы)"},
-    {"level": "a0", "lesson": "36", "title": "Past Simple - Прошеднее простое время (неправильные глаголы)"},
-    {"level": "a0", "lesson": "38", "title": "Past Simple - Прошеднее простое время (неправильные глаголы)"},
-    {"level": "a0", "lesson": "40", "title": "Отрицание в прошедшем времени didn't + глагол"},
-    {"level": "a0", "lesson": "42", "title": "Вопросительные предложения в прошедшем времени Did +"},
-    {"level": "a0", "lesson": "44", "title": "Специальные вопросы в прошедшем времени Where + did +"},
-    {"level": "a0", "lesson": "46", "title": "Прошедшее время to be i/he/she/it - was, we,you, they - were"},
-    {"level": "a0", "lesson": "48", "title": "Отрицание в прошедшем времени to be /wasn't, weren't "},
-    {"level": "a0", "lesson": "50", "title": "Cпециальные вопросы to be i/he/she/it - was, we,you, they - were"},
-    {"level": "a1", "lesson": "2", "title": "was/were"},
-    {"level": "a1", "lesson": "4", "title": "to be"},
-    {"level": "a1", "lesson": "6", "title": "to be"},
-    {"level": "a1", "lesson": "8", "title": "to be"},
-    {"level": "a1", "lesson": "10", "title": "to be"},
-    {"level": "a1", "lesson": "12", "title": "to be"},
-    {"level": "a1", "lesson": "14", "title": "to be"},
-    {"level": "a1", "lesson": "16", "title": "to be"},
-    {"level": "a1", "lesson": "18", "title": "to be"},
-    {"level": "a1", "lesson": "20", "title": "to be"},
-    {"level": "a2", "lesson": "2", "title": "was/were"},
-    {"level": "a2", "lesson": "4", "title": "to be"},
-    {"level": "a2", "lesson": "6", "title": "to be"},
-    {"level": "a2", "lesson": "8", "title": "to be"},
-    {"level": "a2", "lesson": "10", "title": "to be"},
-    {"level": "a2", "lesson": "12", "title": "to be"},
-    {"level": "a2", "lesson": "14", "title": "to be"},
-    {"level": "a2", "lesson": "16", "title": "to be"},
-    {"level": "a2", "lesson": "18", "title": "to be"},
-    {"level": "a2", "lesson": "20", "title": "to be"},
-    {"level": "a2", "lesson": "2", "title": "was/were"},
-    {"level": "a2", "lesson": "4", "title": "to be"},
-    {"level": "a2", "lesson": "6", "title": "to be"},
-    {"level": "a2", "lesson": "8", "title": "to be"},
-    {"level": "a2", "lesson": "10", "title": "to be"},
-    {"level": "a2", "lesson": "12", "title": "to be"},
-    {"level": "a2", "lesson": "14", "title": "to be"},
-    {"level": "a2", "lesson": "16", "title": "to be"},
-    {"level": "a2", "lesson": "18", "title": "to be"},
-    {"level": "a2", "lesson": "20", "title": "to be"},
-    {"level": "b1", "lesson": "2", "title": "was/were"},
-    {"level": "b1", "lesson": "4", "title": "to be"},
-    {"level": "b1", "lesson": "6", "title": "to be"},
-    {"level": "b1", "lesson": "8", "title": "to be"},
-    {"level": "b1", "lesson": "10", "title": "to be"},
-    {"level": "b1", "lesson": "12", "title": "to be"},
-    {"level": "b1", "lesson": "14", "title": "to be"},
-    {"level": "b1", "lesson": "16", "title": "to be"},
-    {"level": "b1", "lesson": "18", "title": "to be"},
-    {"level": "b1", "lesson": "20", "title": "to be"},
-    {"level": "b2", "lesson": "2", "title": "was/were"},
-    {"level": "b2", "lesson": "4", "title": "to be"},
-    {"level": "b2", "lesson": "6", "title": "to be"},
-    {"level": "b2", "lesson": "8", "title": "to be"},
-    {"level": "b2", "lesson": "10", "title": "to be"},
-    {"level": "b2", "lesson": "12", "title": "to be"},
-    {"level": "b2", "lesson": "14", "title": "to be"},
-    {"level": "b2", "lesson": "16", "title": "to be"},
-    {"level": "b2", "lesson": "18", "title": "to be"},
-    {"level": "b2", "lesson": "20", "title": "to be"},
-    {"level": "b2", "lesson": "2", "title": "was/were"},
-    {"level": "b2", "lesson": "4", "title": "to be"},
-    {"level": "b2", "lesson": "6", "title": "to be"},
-    {"level": "b2", "lesson": "8", "title": "to be"},
-    {"level": "b2", "lesson": "10", "title": "to be"},
-    {"level": "b2", "lesson": "12", "title": "to be"},
-    {"level": "b2", "lesson": "14", "title": "to be"},
-    {"level": "b2", "lesson": "16", "title": "to be"},
-    {"level": "b2", "lesson": "18", "title": "to be"},
-    {"level": "b2", "lesson": "20", "title": "to be"},
-    {"level": "c1", "lesson": "2", "title": "was/were"},
-    {"level": "c1", "lesson": "4", "title": "to be"},
-    {"level": "c1", "lesson": "6", "title": "to be"},
-    {"level": "c1", "lesson": "8", "title": "to be"},
-    {"level": "c1", "lesson": "10", "title": "to be"},
-    {"level": "c1", "lesson": "12", "title": "to be"},
-    {"level": "c1", "lesson": "14", "title": "to be"},
-    {"level": "c1", "lesson": "16", "title": "to be"},
-    {"level": "c1", "lesson": "18", "title": "to be"},
-    {"level": "c1", "lesson": "20", "title": "to be"},
-    {"level": "c2", "lesson": "2", "title": "was/were"},
-    {"level": "c2", "lesson": "4", "title": "to be"},
-    {"level": "c2", "lesson": "6", "title": "to be"},
-    {"level": "c2", "lesson": "8", "title": "to be"},
-    {"level": "c2", "lesson": "10", "title": "to be"},
-    {"level": "c2", "lesson": "12", "title": "to be"},
-    {"level": "c2", "lesson": "14", "title": "to be"},
-    {"level": "c2", "lesson": "16", "title": "to be"},
-    {"level": "c2", "lesson": "18", "title": "to be"},
-    {"level": "c2", "lesson": "20", "title": "to be"},
-    {"level": "c2", "lesson": "2", "title": "was/were"},
-    {"level": "c2", "lesson": "4", "title": "to be"},
-    {"level": "c2", "lesson": "6", "title": "to be"},
-    {"level": "c2", "lesson": "8", "title": "to be"},
-    {"level": "c2", "lesson": "10", "title": "to be"},
-    {"level": "c2", "lesson": "12", "title": "to be"},
-    {"level": "c2", "lesson": "14", "title": "to be"},
-    {"level": "c2", "lesson": "16", "title": "to be"},
-    {"level": "c2", "lesson": "18", "title": "to be"},
-    {"level": "c2", "lesson": "20", "title": "to be"}
+    {
+      "level": "a0",
+      "lesson": "2",
+      "title": "was/were"
+    },
+    {
+      "level": "a0",
+      "lesson": "4",
+      "title": "to be"
+    },
+    {
+      "level": "a0",
+      "lesson": "6",
+      "title": "to be"
+    },
+    {
+      "level": "a0",
+      "lesson": "8",
+      "title": "to be"
+    },
+    {
+      "level": "a0",
+      "lesson": "10",
+      "title": "to be"
+    },
+    {
+      "level": "a0",
+      "lesson": "12",
+      "title": "to be"
+    },
+    {
+      "level": "a0",
+      "lesson": "14",
+      "title": "to be"
+    },
+    {
+      "level": "a0",
+      "lesson": "16",
+      "title": "to be"
+    },
+    {
+      "level": "a0",
+      "lesson": "18",
+      "title": "to be"
+    },
+    {
+      "level": "a0",
+      "lesson": "20",
+      "title": "to be"
+    },
+    {
+      "level": "a0",
+      "lesson": "22",
+      "title": "to be"
+    },
+    {
+      "level": "a0",
+      "lesson": "24",
+      "title": "to be"
+    },
+    {
+      "level": "a0",
+      "lesson": "26",
+      "title": "to be"
+    },
+    {
+      "level": "a0",
+      "lesson": "28",
+      "title": "to be"
+    },
+    {
+      "level": "a0",
+      "lesson": "30",
+      "title": "to be"
+    },
+    {
+      "level": "a0",
+      "lesson": "32",
+      "title": "to be"
+    },
+    {
+      "level": "a0",
+      "lesson": "34",
+      "title": "Past Simple - Прошеднее простое время (неправильные глаголы)"
+    },
+    {
+      "level": "a0",
+      "lesson": "36",
+      "title": "Past Simple - Прошеднее простое время (неправильные глаголы)"
+    },
+    {
+      "level": "a0",
+      "lesson": "38",
+      "title": "Past Simple - Прошеднее простое время (неправильные глаголы)"
+    },
+    {
+      "level": "a0",
+      "lesson": "40",
+      "title": "Отрицание в прошедшем времени didn't + глагол"
+    },
+    {
+      "level": "a0",
+      "lesson": "42",
+      "title": "Вопросительные предложения в прошедшем времени Did +"
+    },
+    {
+      "level": "a0",
+      "lesson": "44",
+      "title": "Специальные вопросы в прошедшем времени Where + did +"
+    },
+    {
+      "level": "a0",
+      "lesson": "46",
+      "title": "Прошедшее время to be i/he/she/it - was, we,you, they - were"
+    },
+    {
+      "level": "a0",
+      "lesson": "48",
+      "title": "Отрицание в прошедшем времени to be /wasn't, weren't "
+    },
+    {
+      "level": "a0",
+      "lesson": "50",
+      "title": "Cпециальные вопросы to be i/he/she/it - was, we,you, they - were"
+    },
+    {
+      "level": "a1",
+      "lesson": "2",
+      "title": "was/were"
+    },
+    {
+      "level": "a1",
+      "lesson": "4",
+      "title": "to be"
+    },
+    {
+      "level": "a1",
+      "lesson": "6",
+      "title": "to be"
+    },
+    {
+      "level": "a1",
+      "lesson": "8",
+      "title": "to be"
+    },
+    {
+      "level": "a1",
+      "lesson": "10",
+      "title": "to be"
+    },
+    {
+      "level": "a1",
+      "lesson": "12",
+      "title": "to be"
+    },
+    {
+      "level": "a1",
+      "lesson": "14",
+      "title": "to be"
+    },
+    {
+      "level": "a1",
+      "lesson": "16",
+      "title": "to be"
+    },
+    {
+      "level": "a1",
+      "lesson": "18",
+      "title": "to be"
+    },
+    {
+      "level": "a1",
+      "lesson": "20",
+      "title": "to be"
+    },
+    {
+      "level": "a2",
+      "lesson": "2",
+      "title": "was/were"
+    },
+    {
+      "level": "a2",
+      "lesson": "4",
+      "title": "to be"
+    },
+    {
+      "level": "a2",
+      "lesson": "6",
+      "title": "to be"
+    },
+    {
+      "level": "a2",
+      "lesson": "8",
+      "title": "to be"
+    },
+    {
+      "level": "a2",
+      "lesson": "10",
+      "title": "to be"
+    },
+    {
+      "level": "a2",
+      "lesson": "12",
+      "title": "to be"
+    },
+    {
+      "level": "a2",
+      "lesson": "14",
+      "title": "to be"
+    },
+    {
+      "level": "a2",
+      "lesson": "16",
+      "title": "to be"
+    },
+    {
+      "level": "a2",
+      "lesson": "18",
+      "title": "to be"
+    },
+    {
+      "level": "a2",
+      "lesson": "20",
+      "title": "to be"
+    },
+    {
+      "level": "a2",
+      "lesson": "2",
+      "title": "was/were"
+    },
+    {
+      "level": "a2",
+      "lesson": "4",
+      "title": "to be"
+    },
+    {
+      "level": "a2",
+      "lesson": "6",
+      "title": "to be"
+    },
+    {
+      "level": "a2",
+      "lesson": "8",
+      "title": "to be"
+    },
+    {
+      "level": "a2",
+      "lesson": "10",
+      "title": "to be"
+    },
+    {
+      "level": "a2",
+      "lesson": "12",
+      "title": "to be"
+    },
+    {
+      "level": "a2",
+      "lesson": "14",
+      "title": "to be"
+    },
+    {
+      "level": "a2",
+      "lesson": "16",
+      "title": "to be"
+    },
+    {
+      "level": "a2",
+      "lesson": "18",
+      "title": "to be"
+    },
+    {
+      "level": "a2",
+      "lesson": "20",
+      "title": "to be"
+    },
+    {
+      "level": "b1",
+      "lesson": "2",
+      "title": "was/were"
+    },
+    {
+      "level": "b1",
+      "lesson": "4",
+      "title": "to be"
+    },
+    {
+      "level": "b1",
+      "lesson": "6",
+      "title": "to be"
+    },
+    {
+      "level": "b1",
+      "lesson": "8",
+      "title": "to be"
+    },
+    {
+      "level": "b1",
+      "lesson": "10",
+      "title": "to be"
+    },
+    {
+      "level": "b1",
+      "lesson": "12",
+      "title": "to be"
+    },
+    {
+      "level": "b1",
+      "lesson": "14",
+      "title": "to be"
+    },
+    {
+      "level": "b1",
+      "lesson": "16",
+      "title": "to be"
+    },
+    {
+      "level": "b1",
+      "lesson": "18",
+      "title": "to be"
+    },
+    {
+      "level": "b1",
+      "lesson": "20",
+      "title": "to be"
+    },
+    {
+      "level": "b2",
+      "lesson": "2",
+      "title": "was/were"
+    },
+    {
+      "level": "b2",
+      "lesson": "4",
+      "title": "to be"
+    },
+    {
+      "level": "b2",
+      "lesson": "6",
+      "title": "to be"
+    },
+    {
+      "level": "b2",
+      "lesson": "8",
+      "title": "to be"
+    },
+    {
+      "level": "b2",
+      "lesson": "10",
+      "title": "to be"
+    },
+    {
+      "level": "b2",
+      "lesson": "12",
+      "title": "to be"
+    },
+    {
+      "level": "b2",
+      "lesson": "14",
+      "title": "to be"
+    },
+    {
+      "level": "b2",
+      "lesson": "16",
+      "title": "to be"
+    },
+    {
+      "level": "b2",
+      "lesson": "18",
+      "title": "to be"
+    },
+    {
+      "level": "b2",
+      "lesson": "20",
+      "title": "to be"
+    },
+    {
+      "level": "b2",
+      "lesson": "2",
+      "title": "was/were"
+    },
+    {
+      "level": "b2",
+      "lesson": "4",
+      "title": "to be"
+    },
+    {
+      "level": "b2",
+      "lesson": "6",
+      "title": "to be"
+    },
+    {
+      "level": "b2",
+      "lesson": "8",
+      "title": "to be"
+    },
+    {
+      "level": "b2",
+      "lesson": "10",
+      "title": "to be"
+    },
+    {
+      "level": "b2",
+      "lesson": "12",
+      "title": "to be"
+    },
+    {
+      "level": "b2",
+      "lesson": "14",
+      "title": "to be"
+    },
+    {
+      "level": "b2",
+      "lesson": "16",
+      "title": "to be"
+    },
+    {
+      "level": "b2",
+      "lesson": "18",
+      "title": "to be"
+    },
+    {
+      "level": "b2",
+      "lesson": "20",
+      "title": "to be"
+    },
+    {
+      "level": "c1",
+      "lesson": "2",
+      "title": "was/were"
+    },
+    {
+      "level": "c1",
+      "lesson": "4",
+      "title": "to be"
+    },
+    {
+      "level": "c1",
+      "lesson": "6",
+      "title": "to be"
+    },
+    {
+      "level": "c1",
+      "lesson": "8",
+      "title": "to be"
+    },
+    {
+      "level": "c1",
+      "lesson": "10",
+      "title": "to be"
+    },
+    {
+      "level": "c1",
+      "lesson": "12",
+      "title": "to be"
+    },
+    {
+      "level": "c1",
+      "lesson": "14",
+      "title": "to be"
+    },
+    {
+      "level": "c1",
+      "lesson": "16",
+      "title": "to be"
+    },
+    {
+      "level": "c1",
+      "lesson": "18",
+      "title": "to be"
+    },
+    {
+      "level": "c1",
+      "lesson": "20",
+      "title": "to be"
+    },
+    {
+      "level": "c2",
+      "lesson": "2",
+      "title": "was/were"
+    },
+    {
+      "level": "c2",
+      "lesson": "4",
+      "title": "to be"
+    },
+    {
+      "level": "c2",
+      "lesson": "6",
+      "title": "to be"
+    },
+    {
+      "level": "c2",
+      "lesson": "8",
+      "title": "to be"
+    },
+    {
+      "level": "c2",
+      "lesson": "10",
+      "title": "to be"
+    },
+    {
+      "level": "c2",
+      "lesson": "12",
+      "title": "to be"
+    },
+    {
+      "level": "c2",
+      "lesson": "14",
+      "title": "to be"
+    },
+    {
+      "level": "c2",
+      "lesson": "16",
+      "title": "to be"
+    },
+    {
+      "level": "c2",
+      "lesson": "18",
+      "title": "to be"
+    },
+    {
+      "level": "c2",
+      "lesson": "20",
+      "title": "to be"
+    },
+    {
+      "level": "c2",
+      "lesson": "2",
+      "title": "was/were"
+    },
+    {
+      "level": "c2",
+      "lesson": "4",
+      "title": "to be"
+    },
+    {
+      "level": "c2",
+      "lesson": "6",
+      "title": "to be"
+    },
+    {
+      "level": "c2",
+      "lesson": "8",
+      "title": "to be"
+    },
+    {
+      "level": "c2",
+      "lesson": "10",
+      "title": "to be"
+    },
+    {
+      "level": "c2",
+      "lesson": "12",
+      "title": "to be"
+    },
+    {
+      "level": "c2",
+      "lesson": "14",
+      "title": "to be"
+    },
+    {
+      "level": "c2",
+      "lesson": "16",
+      "title": "to be"
+    },
+    {
+      "level": "c2",
+      "lesson": "18",
+      "title": "to be"
+    },
+    {
+      "level": "c2",
+      "lesson": "20",
+      "title": "to be"
+    }
   ],
   "array": [
     {
