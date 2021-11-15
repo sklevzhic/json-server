@@ -929,8 +929,8 @@
       "invent": "1362407",
       "year": "2013",
       "build": "1",
-      "room": "82",
-      "user": "Аудитория 11",
+      "room": "101",
+      "user": "Шеститко Ирина Владимировна",
       "matfyo": "Шаркевич Татьяна Сергеевна",
       "print": false,
       "faculty": "Факультет дополнительного профессионального образования"
@@ -955,8 +955,8 @@
       "invent": "1362244",
       "year": "2013",
       "build": "1",
-      "room": "91",
-      "user": "Аудитория",
+      "room": "106",
+      "user": "Маковчик Андрей Александрович",
       "matfyo": "Шаркевич Татьяна Сергеевна",
       "print": false,
       "faculty": "Факультет дополнительного профессионального образования"
@@ -1160,7 +1160,7 @@
       "invent": "1361665",
       "year": "2012",
       "build": "1",
-      "room": "124",
+      "room": "91",
       "user": "Аудитория",
       "matfyo": "Клевжиц Александр Юрьевич",
       "zavod": "UHBA1138032314",
@@ -1687,8 +1687,8 @@
       "name": "Монитор 19\"LG ",
       "invent": "136M8151",
       "build": "1",
-      "room": "91",
-      "user": "Аудитория",
+      "room": "106",
+      "user": "Маковчик Андрей Александрович",
       "matfyo": "Клевжиц Александр Юрьевич",
       "zavod": "502NTJJBQ172",
       "print": true,
@@ -2261,7 +2261,7 @@
       "invent": "1363102",
       "year": "2018",
       "build": "1",
-      "room": "104",
+      "room": "124",
       "user": "Клезович Ольга Валерьевна",
       "matfyo": "Клевжиц Александр Юрьевич",
       "zavod": "CND8068DPN",
@@ -3331,7 +3331,7 @@
       "invent": "1361454",
       "year": "2010",
       "build": "1",
-      "room": "124",
+      "room": "91",
       "user": "Аудитория",
       "matfyo": "Иванюк",
       "zavod": "А12377",
@@ -3954,8 +3954,8 @@
       "invent": "7103524",
       "year": "2008-01-01",
       "build": "1",
-      "room": "106",
-      "user": "Общий",
+      "room": "101а",
+      "user": "Стрела София Сергеевна",
       "matfyo": "Шаркевич Татьяна Сергеевна",
       "print": false,
       "faculty": "Учебно-методический отдел"
@@ -4156,7 +4156,7 @@
     {
       "name": "HP LaserJet P1005",
       "type": "Принтер",
-      "room": "104",
+      "room": "124",
       "build": "1",
       "user": "Клезович Ольга Валерьевна",
       "date": "",
@@ -4728,6 +4728,55 @@
       "body": "Выдал заправленный неделю назад",
       "technicId": "227",
       "id": 47
+    },
+    {
+      "postId": "117",
+      "date": "2021-11-01T06:32:50.984Z",
+      "body": "1 ноября выдан новый",
+      "technicId": "117",
+      "id": 48
+    },
+    {
+      "postId": "229",
+      "date": "2021-11-01T06:33:20.003Z",
+      "body": "5 ноября выдан",
+      "technicId": "229",
+      "id": 49
+    },
+    {
+      "postId": "229",
+      "date": "2021-11-01T06:33:34.515Z",
+      "body": "оставлена заявка в црит",
+      "technicId": "229",
+      "id": 50
+    },
+    {
+      "postId": "15",
+      "date": "2021-11-01T06:34:29.036Z",
+      "body": "мажет при печати, полный",
+      "technicId": "15",
+      "id": 51
+    },
+    {
+      "postId": "15",
+      "date": "2021-11-01T06:34:41.390Z",
+      "body": "докладная на новый",
+      "technicId": "15",
+      "id": 52
+    },
+    {
+      "postId": "355",
+      "date": "2021-11-04T08:48:08.965Z",
+      "body": "Передал в ремонт компьютер.",
+      "technicId": "355",
+      "id": 53
+    },
+    {
+      "postId": "ciSeMHl",
+      "date": "2021-11-08T07:57:12.990Z",
+      "body": "Выдан новый",
+      "technicId": "ciSeMHl",
+      "id": 54
     }
   ],
   "refills": [
@@ -5408,6 +5457,77 @@
       "countRefill": 1,
       "receiverDate": 1633430272707,
       "id": "3r7cf9K"
+    },
+    {
+      "technicId": "117",
+      "name": "SAMSUNG SCX-4650N",
+      "user": "Радыгина Вероника Валерьевна",
+      "createDate": 1635748341270,
+      "countRefill": 1,
+      "receiverDate": 1635748349613,
+      "id": "sa-P7jf"
+    },
+    {
+      "technicId": "228",
+      "name": "Canon i-sensys MF 443dw",
+      "user": "Гуравская Инна Станиславовна",
+      "createDate": 1633425476557,
+      "countRefill": 1,
+      "receiverDate": 1636463357901,
+      "id": "8fMSd4T"
+    },
+    {
+      "technicId": "18",
+      "name": "Canon LBP6020B",
+      "user": "Грузд Лариса Ивановна",
+      "createDate": 1633424350750,
+      "countRefill": 1,
+      "receiverDate": 1636463360082,
+      "id": "DTmvMq0"
+    },
+    {
+      "technicId": "229",
+      "name": "Canon i-sensys MF 443dw",
+      "user": "Владимирская Елена Алексеевна",
+      "createDate": 1633425465956,
+      "countRefill": 1,
+      "receiverDate": 1636463382970,
+      "id": "v3cM3aS"
+    },
+    {
+      "technicId": "369",
+      "name": "HP LaserJet P1005",
+      "user": "Маголина Алла Викторовна",
+      "createDate": 1629377482824,
+      "receiverDate": 1636463429722,
+      "id": "0KY4QJd"
+    },
+    {
+      "technicId": "178",
+      "name": "HP LaserJet P1005c",
+      "user": "Ширинская Татьяна Михайловна",
+      "createDate": 1630168141941,
+      "countRefill": 1,
+      "receiverDate": 1636463440603,
+      "id": "-4Ucpfd"
+    },
+    {
+      "technicId": "15",
+      "name": "HP LJ 1020",
+      "user": "Римик Ольга Владимировна",
+      "createDate": 1633425510461,
+      "countRefill": 1,
+      "receiverDate": 1636464392059,
+      "id": "5aIOV6y"
+    },
+    {
+      "technicId": "14",
+      "name": "HP LaserJet P1005",
+      "user": "Толстик Ольга Витальевна",
+      "createDate": 1633425511999,
+      "countRefill": 1,
+      "receiverDate": 1636464400841,
+      "id": "fFv-E2g"
     }
   ],
   "refillsCurrent": [
@@ -5416,7 +5536,57 @@
       "arr": [
         {
           "name": "Сбор картриджей",
-          "arr": []
+          "arr": [
+            {
+              "technicId": "229",
+              "name": "Canon i-sensys MF 443dw",
+              "user": "Владимирская Елена Алексеевна",
+              "createDate": 1635748014022,
+              "countRefill": 1
+            },
+            {
+              "technicId": "15",
+              "name": "HP LJ 1020",
+              "user": "Римик Ольга Владимировна",
+              "createDate": 1635748130893,
+              "countRefill": 1
+            },
+            {
+              "technicId": "151",
+              "name": "HP LaserJet P1005c",
+              "user": "Алтынцева Елена Николаевна",
+              "createDate": 1636013828612,
+              "countRefill": 1
+            },
+            {
+              "technicId": "ciSeMHl",
+              "name": "HP LaserJet P1005",
+              "user": "Клезович Ольга Валерьевна",
+              "createDate": 1636360399933,
+              "countRefill": 1
+            },
+            {
+              "technicId": "230",
+              "name": "Canon i-sensys MF 443dw",
+              "user": "Глазко О.А",
+              "createDate": 1636458863065,
+              "countRefill": 1
+            },
+            {
+              "technicId": "117",
+              "name": "SAMSUNG SCX-4650N",
+              "user": "Радыгина Вероника Валерьевна",
+              "createDate": 1636956566318,
+              "countRefill": 1
+            },
+            {
+              "technicId": "ciSeMHl",
+              "name": "HP LaserJet P1005",
+              "user": "Клезович Ольга Валерьевна",
+              "createDate": 1636956571452,
+              "countRefill": 1
+            }
+          ]
         },
         {
           "name": "Оставление заявки в ЦРИТ",
@@ -5434,41 +5604,6 @@
               "user": "Микшто Агнесса Александровна",
               "createDate": 1633424097784,
               "countRefill": 1
-            },
-            {
-              "technicId": "229",
-              "name": "Canon i-sensys MF 443dw",
-              "user": "Владимирская Елена Алексеевна",
-              "createDate": 1633425465956,
-              "countRefill": 1
-            },
-            {
-              "technicId": "228",
-              "name": "Canon i-sensys MF 443dw",
-              "user": "Гуравская Инна Станиславовна",
-              "createDate": 1633425476557,
-              "countRefill": 1
-            },
-            {
-              "technicId": "18",
-              "name": "Canon LBP6020B",
-              "user": "Грузд Лариса Ивановна",
-              "createDate": 1633424350750,
-              "countRefill": 1
-            },
-            {
-              "technicId": "15",
-              "name": "HP LJ 1020",
-              "user": "Римик Ольга Владимировна",
-              "createDate": 1633425510461,
-              "countRefill": 1
-            },
-            {
-              "technicId": "14",
-              "name": "HP LaserJet P1005",
-              "user": "Толстик Ольга Витальевна",
-              "createDate": 1633425511999,
-              "countRefill": 1
             }
           ]
         },
@@ -5481,19 +5616,6 @@
               "user": "Яковенко Сергей Владимирович",
               "createDate": 1629377311291,
               "receiverName": "Клевжиц Александр Юрьевич"
-            },
-            {
-              "technicId": "369",
-              "name": "HP LaserJet P1005",
-              "user": "Маголина Алла Викторовна",
-              "createDate": 1629377482824
-            },
-            {
-              "technicId": "178",
-              "name": "HP LaserJet P1005c",
-              "user": "Ширинская Татьяна Михайловна",
-              "createDate": 1630168141941,
-              "countRefill": 1
             }
           ]
         },
