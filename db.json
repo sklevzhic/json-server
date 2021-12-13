@@ -240,7 +240,7 @@
       "name": "Sony ILCE-5000Y",
       "invent": "1381393",
       "build": "1",
-      "room": "106",
+      "room": "104",
       "user": "Кондратьева Вероника Анатольевна",
       "matfyo": "Клевжиц Александр Юрьевич",
       "desc": "Объектив маленький не открывается",
@@ -398,7 +398,7 @@
       "invent": "7113196",
       "year": "2018",
       "build": "1",
-      "room": "106",
+      "room": "104",
       "user": "Кондратьева Вероника Анатольевна",
       "matfyo": "Клевжиц Александр Юрьевич",
       "zavod": "null",
@@ -693,8 +693,8 @@
       "invent": "1362529",
       "year": "2013",
       "build": "1",
-      "room": "106",
-      "user": "Расоян Араик Джасмович",
+      "room": "104",
+      "user": "Пучок Александра",
       "matfyo": "Клевжиц Александр Юрьевич",
       "print": false,
       "faculty": "Учебно-методический отдел"
@@ -706,7 +706,7 @@
       "invent": "01363032",
       "year": "2016",
       "build": "1",
-      "room": "106",
+      "room": "104",
       "user": "Кондратьева Вероника Анатольевна",
       "matfyo": "Клевжиц Александр Юрьевич",
       "getdate": "2016-09-22",
@@ -1175,8 +1175,8 @@
       "invent": "1361666",
       "year": "2012",
       "build": "1",
-      "room": "123",
-      "user": "комплект 2",
+      "room": "106",
+      "user": "Толстик Ольга Витальевна",
       "matfyo": "Клевжиц Александр Юрьевич",
       "zavod": "UHBA1138032315",
       "print": false,
@@ -2432,7 +2432,7 @@
       "year": "2014",
       "build": "1",
       "room": "101",
-      "user": "Турченко Ирина Алексеевна",
+      "user": "101",
       "matfyo": "Шаркевич Татьяна Сергеевна",
       "print": false,
       "faculty": "Факультет дополнительного профессионального образования"
@@ -2486,7 +2486,8 @@
       "room": "101",
       "matfyo": "Шаркевич Татьяна Сергеевна",
       "print": false,
-      "faculty": "Факультет дополнительного профессионального образования"
+      "faculty": "Факультет дополнительного профессионального образования",
+      "user": "101"
     },
     {
       "id": "107",
@@ -2498,7 +2499,8 @@
       "room": "101",
       "matfyo": "Шаркевич Татьяна Сергеевна",
       "print": false,
-      "faculty": "Факультет дополнительного профессионального образования"
+      "faculty": "Факультет дополнительного профессионального образования",
+      "user": "101"
     },
     {
       "id": "109",
@@ -2510,7 +2512,8 @@
       "room": "101",
       "matfyo": "Шаркевич Татьяна Сергеевна",
       "print": false,
-      "faculty": "Факультет дополнительного профессионального образования"
+      "faculty": "Факультет дополнительного профессионального образования",
+      "user": "101"
     },
     {
       "id": "110",
@@ -2522,7 +2525,8 @@
       "room": "101",
       "matfyo": "Шаркевич Татьяна Сергеевна",
       "print": false,
-      "faculty": "Факультет дополнительного профессионального образования"
+      "faculty": "Факультет дополнительного профессионального образования",
+      "user": "101"
     },
     {
       "id": "111",
@@ -2534,7 +2538,8 @@
       "room": "101",
       "matfyo": "Шаркевич Татьяна Сергеевна",
       "print": false,
-      "faculty": "Факультет дополнительного профессионального образования"
+      "faculty": "Факультет дополнительного профессионального образования",
+      "user": "101"
     },
     {
       "id": "112",
@@ -2546,7 +2551,8 @@
       "room": "101",
       "matfyo": "Шаркевич Татьяна Сергеевна",
       "print": false,
-      "faculty": "Факультет дополнительного профессионального образования"
+      "faculty": "Факультет дополнительного профессионального образования",
+      "user": "101"
     },
     {
       "id": "113",
@@ -2558,7 +2564,8 @@
       "room": "101",
       "matfyo": "Шаркевич Татьяна Сергеевна",
       "print": false,
-      "faculty": "Факультет дополнительного профессионального образования"
+      "faculty": "Факультет дополнительного профессионального образования",
+      "user": "101"
     },
     {
       "id": "116",
@@ -2578,8 +2585,8 @@
       "invent": "1362659",
       "year": "2014",
       "build": "1",
-      "room": "106",
-      "user": "Кондратьева Вероника Анатольевна",
+      "room": "101",
+      "user": "101",
       "matfyo": "Шаркевич Татьяна Сергеевна",
       "print": false,
       "date": "2016-01-01",
@@ -2630,7 +2637,7 @@
       "invent": "7112642",
       "year": "2017",
       "build": "1",
-      "room": "106",
+      "room": "104",
       "user": "Кондратьева Вероника Анатольевна",
       "matfyo": "Петрусев Сергей Викторович",
       "getdate": "null",
@@ -2830,7 +2837,7 @@
       "year": "2004",
       "build": "1",
       "room": "106",
-      "user": "Клевжиц Александр Юрьевич",
+      "user": "Толстик Ольга Витальевна",
       "zavod": "02460A",
       "print": true,
       "faculty": "Учебно-методический отдел"
@@ -3346,8 +3353,8 @@
       "invent": "1362528",
       "year": "2013",
       "build": "1",
-      "room": "123",
-      "user": "Шарабайко",
+      "room": "106",
+      "user": "Толстик Ольга Витальевна",
       "matfyo": "Клевжиц Александр Юрьевич",
       "print": false,
       "faculty": "Факультет дополнительного профессионального образования"
@@ -4131,9 +4138,9 @@
     {
       "name": "Integral TFT LCD 17",
       "type": "Монитор",
-      "room": "106",
+      "room": "104",
       "build": "1",
-      "user": "Расоян Араик Джасмович",
+      "user": "Кондратьева Вероника Анатольевна",
       "date": "06.01.2016",
       "faculty": "Учебно-методический отдел",
       "invent": "1361284",
@@ -4777,6 +4784,27 @@
       "body": "Выдан новый",
       "technicId": "ciSeMHl",
       "id": 54
+    },
+    {
+      "postId": "101",
+      "date": "2021-12-13T08:32:56.370Z",
+      "body": "Турченко Ирина Алексеевна",
+      "technicId": "101",
+      "id": 55
+    },
+    {
+      "postId": "178",
+      "date": "2021-12-13T10:15:09.270Z",
+      "body": "выдан полный картридж",
+      "technicId": "178",
+      "id": 56
+    },
+    {
+      "postId": "155",
+      "date": "2021-12-13T10:15:27.595Z",
+      "body": "выдан полный картридж начало декабря",
+      "technicId": "155",
+      "id": 57
     }
   ],
   "refills": [
@@ -5528,111 +5556,102 @@
       "countRefill": 1,
       "receiverDate": 1636464400841,
       "id": "fFv-E2g"
+    },
+    {
+      "receiverDate": 1639393743034,
+      "technicId": "1636995389538",
+      "id": "ePBME9z"
+    },
+    {
+      "receiverDate": 1639393748505,
+      "technicId": "1636995389538",
+      "id": "M5kWWx1"
+    },
+    {
+      "receiverDate": 1639393798048,
+      "technicId": "1636995389538",
+      "id": "-Px3qxr"
     }
   ],
   "refillsCurrent": [
     {
-      "id": 1,
-      "arr": [
-        {
-          "name": "Сбор картриджей",
-          "arr": [
-            {
-              "technicId": "229",
-              "name": "Canon i-sensys MF 443dw",
-              "user": "Владимирская Елена Алексеевна",
-              "createDate": 1635748014022,
-              "countRefill": 1
-            },
-            {
-              "technicId": "15",
-              "name": "HP LJ 1020",
-              "user": "Римик Ольга Владимировна",
-              "createDate": 1635748130893,
-              "countRefill": 1
-            },
-            {
-              "technicId": "151",
-              "name": "HP LaserJet P1005c",
-              "user": "Алтынцева Елена Николаевна",
-              "createDate": 1636013828612,
-              "countRefill": 1
-            },
-            {
-              "technicId": "ciSeMHl",
-              "name": "HP LaserJet P1005",
-              "user": "Клезович Ольга Валерьевна",
-              "createDate": 1636360399933,
-              "countRefill": 1
-            },
-            {
-              "technicId": "230",
-              "name": "Canon i-sensys MF 443dw",
-              "user": "Глазко О.А",
-              "createDate": 1636458863065,
-              "countRefill": 1
-            },
-            {
-              "technicId": "117",
-              "name": "SAMSUNG SCX-4650N",
-              "user": "Радыгина Вероника Валерьевна",
-              "createDate": 1636956566318,
-              "countRefill": 1
-            },
-            {
-              "technicId": "ciSeMHl",
-              "name": "HP LaserJet P1005",
-              "user": "Клезович Ольга Валерьевна",
-              "createDate": 1636956571452,
-              "countRefill": 1
-            },
-            {
-              "technicId": "9",
-              "name": "Samsung SCX-4200",
-              "user": "Николаенко Инна Васильевна",
-              "createDate": 1636995389538,
-              "countRefill": 1
-            }
-          ]
-        },
-        {
-          "name": "Оставление заявки в ЦРИТ",
-          "arr": [
-            {
-              "technicId": "127",
-              "name": "Epson L805",
-              "user": "Кондратьева Вероника Анатольевна",
-              "createDate": 1629542306250,
-              "countRefill": 1
-            },
-            {
-              "technicId": "231",
-              "name": "Canon i-sensys MF 443dw",
-              "user": "Микшто Агнесса Александровна",
-              "createDate": 1633424097784,
-              "countRefill": 1
-            }
-          ]
-        },
-        {
-          "name": "Передача в ЦРИТ",
-          "arr": [
-            {
-              "technicId": "362",
-              "name": "Canon MF4730",
-              "user": "Яковенко Сергей Владимирович",
-              "createDate": 1629377311291,
-              "receiverName": "Клевжиц Александр Юрьевич"
-            }
-          ]
-        },
-        {
-          "name": "Получение из ЦРИТ",
-          "arr": []
-        }
-      ]
-    }
-  ],
+      "id": "-Px3qx4r",
+      "technicId": "9",
+      "createDate": 1636995389538,
+      "stage": 0
+    },
+    {
+      "id": "-Px3qx2r",
+      "technicId": "178",
+      "createDate": 1639384447753,
+      "stage": 0
+    },
+    {
+      "id": "-Px3qx55r",
+      "technicId": "ciSeMHl",
+      "createDate": 1639384461032,
+      "stage": 0
+    },
+    {
+      "id": "-Px3qx66r",
+      "technicId": "155",
+      "createDate": 1639384520102,
+      "stage": 0
+    },
+    {
+      "id": "-Px2qx3r",
+      "technicId": "127",
+      "createDate": 1629542306250,
+      "stage": 1
+    },
+    {
+      "id": "-Px1qx3r",
+      "technicId": "231",
+      "createDate": 1633424097784,
+      "stage": 1
+    },
+    {
+      "id": "-Px0qx3r",
+      "technicId": "229",
+      "createDate": 1635748014022,
+      "stage": 1
+    },
+    {
+      "id": "-Px9qx3r",
+      "technicId": "15",
+      "createDate": 1635748130893,
+      "stage": 1
+    },
+    {
+      "id": "-Px8qx3r",
+      "technicId": "151",
+      "createDate": 1636013828612,
+      "stage": 1
+    },
+    {
+      "id": "-Px7qx3r",
+      "technicId": "ciSeMHl",
+      "createDate": 1636360399933,
+      "stage": 1
+    },
+    {
+      "id": "-Px6qx3r",
+      "technicId": "230",
+      "createDate": 1636458863065,
+      "stage": 1
+    },
+    {
+      "id": "-Px5qx3r",
+      "technicId": "117",
+      "createDate": 1636956566318,
+      "stage": 1
+    },
+    {
+      "id": "-Px54rqx3r",
+      "technicId": "362",
+      "createDate": 1629377311291,
+      "stage": 2
+    }],
   "shemaTechnics": [
     {
       "address": "Голубева, 26",
@@ -14838,9 +14857,468 @@
       "level": "a0",
       "id": "1245"
     },
-    {"rus":"Я хочу сказать что это действительно имеет значение","eng":"I want to say that it really matters","lesson":"2","level":"a1","id":"lvla1l2"},{"rus":"Я хотел бы сказать что эта вещь действительно имеет значение","eng":"I'd like to say that this thing really matters","lesson":"2","level":"a1","id":"lvla1l2"},{"rus":"Я хочу сказать тебе что это действительно вдохновляет меня","eng":"I want to tell you that it really inspires me","lesson":"2","level":"a1","id":"lvla1l2"},{"rus":"Я думаю что не все зависит от нас","eng":"I think that not everything depends on us","lesson":"2","level":"a1","id":"lvla1l2"},{"rus":"Мне кажется что все зависит от нас","eng":"It seems to me that everything depends on us","lesson":"2","level":"a1","id":"lvla1l2"},{"rus":"Мне кажется что это лучший выбор","eng":"It seems to me that it's the best choice","lesson":"2","level":"a1","id":"lvla1l2"},{"rus":"Я не думаю что это действительно работает","eng":"I don't think that it really works","lesson":"2","level":"a1","id":"lvla1l2"},{"rus":"Я не думаю что этот метод действительно работает","eng":"I don't think that this method really works","lesson":"2","level":"a1","id":"lvla1l2"},{"rus":"Ты знаешь я тоже так думаю","eng":"You know I also think so","lesson":"2","level":"a1","id":"lvla1l2"},{"rus":"Ты знаешь у меня такое же мнение","eng":"You know I have the same opinionYou know I really like this phrase","lesson":"2","level":"a1","id":"lvla1l2"},{"rus":"Ты знаешь у меня такая же идея","eng":"You know I have the same idea","lesson":"2","level":"a1","id":"lvla1l2"},{"rus":"Я должен сказать что это предложение звучит действительно привлекательным","eng":"I have to say that this offer sounds really attractiveThis offer is very goodI like this offer","lesson":"2","level":"a1","id":"lvla1l2"},{"rus":"Я должен сказать что это предложение такое привлекательное для меня","eng":"I have to say that this offer is so attractive for me","lesson":"2","level":"a1","id":"lvla1l2"},{"rus":"Я должен сказать что это кажется лучшим выбором в этой ситуации","eng":"I have to say that it seems the best choice in this situation","lesson":"2","level":"a1","id":"lvla1l2"},{"rus":"Я должен сказать что это лучший отель в этом районе","eng":"I have to say that it's the best hotel in this area","lesson":"2","level":"a1","id":"lvla1l2"},{"rus":"Я хотел бы сказать что я хочу общаться с людьми из разных стран","eng":"I'd like to say that I want to communicate with people from different countries","lesson":"2","level":"a1","id":"lvla1l2"},{"rus":"Я хочу сказать что я хотел бы повидать мир","eng":"I want to say that I'd like to see world","lesson":"2","level":"a1","id":"lvla1l2"},{"rus":"Я действительно думаю что это довольно хорошо для начала","eng":"I really think that it's quite good for a start","lesson":"2","level":"a1","id":"lvla1l2"},{"rus":"Я действительно думаю что это довольно хорошо особенно в начале","eng":"I really think that it's quite good especially","lesson":"2","level":"a1","id":"lvla1l2"},{"rus":"Я знаю что он работает менеджером","eng":"I know that he works as a manager","lesson":"2","level":"a1","id":"lvla1l2"},{"rus":"Я хотел бы сказать что я действительно обожаю английский потому что я чувствую огромный прогресс ия также хочу сказать что я понимаю носителей языка лучше и лучше","eng":"I'd like to say that I really enjoy English because I feel great progress and I also want to say that I understand native speakers better and better","lesson":"2","level":"a1","id":"lvla1l2"},{"rus":"Ты знаешь это прекрасное чувство","eng":"You know it's a wonderful feeling","lesson":"2","level":"a1","id":"lvla1l2"},
-    {"rus":"у меня есть четкая цель","eng":"I have a clear aim","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Этот отель очень хороший","eng":"This hotel is very good","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"У меня очень четкая цель","eng":"I have a very clear aimmistake","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это очень необычное решение","eng":"It's a very unusual decision","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это большая ошибка","eng":"It's a big","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"У меня есть результат","eng":"I have a result","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Я думаю это хорошая идея","eng":"I think it's a good idea","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это очень дорогой билет","eng":"It's a very expensive ticket","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это интересное решение","eng":"It's an interesting decision","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это очень сложная задача","eng":"It's a very difficult task","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это очень полезная книга","eng":"It's a very useful book its a 'veri 'jusful buk","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"У меня есть некоторые результаты","eng":"I have some results","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это дорогой билет","eng":"It's an expensive ticket","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это место такое красивое","eng":"This place is so beautiful","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Я думаю что это очень сложный вопрос","eng":"I think that it's a very difficult question","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Мне кажется что это правдивая история","eng":"It seems z to me that it's a true story","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это легкий тест","eng":"It's an easy test","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это очень полезный урок","eng":"It's a very useful lesson","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это интересный вопрос","eng":"It's an interesting question","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это маленькая ошибка","eng":"It's a small mistake","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это полезный урок","eng":"It's a useful lesson","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это очень интересное решение","eng":"It's a very interesting decision","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"У меня есть цель","eng":"I have an aim","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это очень смешное видео","eng":"It's a very funny video","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Мы видим университет","eng":"We see a university","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"У меня очень хороший результат","eng":"I have a very good result","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это странный ответ","eng":"It's a strange answer","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это так необычно","eng":"It's so unusual","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это очень смешная шутка","eng":"It's a very funny joke","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это очень интересный план","eng":"It's a very interesting plan","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это интересный план","eng":"It's an interesting plan","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это очень красивое место","eng":"It's a very beautiful place","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это очень хорошая идея","eng":"It's a very good idea","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это очень легкий тест","eng":"It's a very easy test","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"У меня есть некоторые планы","eng":"I have some plans","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"У меня есть одна очень четкая цель","eng":"I have one very clear aim","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это хороший результат","eng":"It's a good result","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Я думаю что это очень хорошая идея","eng":"I think that it's a very good idea","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это очень полезная вещь","eng":"It's a very useful thing","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это очень странный ответ","eng":"It's a very strange answer","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это необычное решение","eng":"It's an unusual decision","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это правдивая история","eng":"It's a true story","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Это очень необычно","eng":"It's very unusual","lesson":"4","level":"a1","id":"lvla1l4"},{"rus":"Мне кажется что это очень хорошая идея","eng":"It seemsto me that it's a very good idea","lesson":"4","level":"a1","id":"lvla1l4"}
-
+    {
+      "rus": "Я хочу сказать что это действительно имеет значение",
+      "eng": "I want to say that it really matters",
+      "lesson": "2",
+      "level": "a1",
+      "id": "lvla1l2"
+    },
+    {
+      "rus": "Я хотел бы сказать что эта вещь действительно имеет значение",
+      "eng": "I'd like to say that this thing really matters",
+      "lesson": "2",
+      "level": "a1",
+      "id": "lvla1l2"
+    },
+    {
+      "rus": "Я хочу сказать тебе что это действительно вдохновляет меня",
+      "eng": "I want to tell you that it really inspires me",
+      "lesson": "2",
+      "level": "a1",
+      "id": "lvla1l2"
+    },
+    {
+      "rus": "Я думаю что не все зависит от нас",
+      "eng": "I think that not everything depends on us",
+      "lesson": "2",
+      "level": "a1",
+      "id": "lvla1l2"
+    },
+    {
+      "rus": "Мне кажется что все зависит от нас",
+      "eng": "It seems to me that everything depends on us",
+      "lesson": "2",
+      "level": "a1",
+      "id": "lvla1l2"
+    },
+    {
+      "rus": "Мне кажется что это лучший выбор",
+      "eng": "It seems to me that it's the best choice",
+      "lesson": "2",
+      "level": "a1",
+      "id": "lvla1l2"
+    },
+    {
+      "rus": "Я не думаю что это действительно работает",
+      "eng": "I don't think that it really works",
+      "lesson": "2",
+      "level": "a1",
+      "id": "lvla1l2"
+    },
+    {
+      "rus": "Я не думаю что этот метод действительно работает",
+      "eng": "I don't think that this method really works",
+      "lesson": "2",
+      "level": "a1",
+      "id": "lvla1l2"
+    },
+    {
+      "rus": "Ты знаешь я тоже так думаю",
+      "eng": "You know I also think so",
+      "lesson": "2",
+      "level": "a1",
+      "id": "lvla1l2"
+    },
+    {
+      "rus": "Ты знаешь у меня такое же мнение",
+      "eng": "You know I have the same opinionYou know I really like this phrase",
+      "lesson": "2",
+      "level": "a1",
+      "id": "lvla1l2"
+    },
+    {
+      "rus": "Ты знаешь у меня такая же идея",
+      "eng": "You know I have the same idea",
+      "lesson": "2",
+      "level": "a1",
+      "id": "lvla1l2"
+    },
+    {
+      "rus": "Я должен сказать что это предложение звучит действительно привлекательным",
+      "eng": "I have to say that this offer sounds really attractiveThis offer is very goodI like this offer",
+      "lesson": "2",
+      "level": "a1",
+      "id": "lvla1l2"
+    },
+    {
+      "rus": "Я должен сказать что это предложение такое привлекательное для меня",
+      "eng": "I have to say that this offer is so attractive for me",
+      "lesson": "2",
+      "level": "a1",
+      "id": "lvla1l2"
+    },
+    {
+      "rus": "Я должен сказать что это кажется лучшим выбором в этой ситуации",
+      "eng": "I have to say that it seems the best choice in this situation",
+      "lesson": "2",
+      "level": "a1",
+      "id": "lvla1l2"
+    },
+    {
+      "rus": "Я должен сказать что это лучший отель в этом районе",
+      "eng": "I have to say that it's the best hotel in this area",
+      "lesson": "2",
+      "level": "a1",
+      "id": "lvla1l2"
+    },
+    {
+      "rus": "Я хотел бы сказать что я хочу общаться с людьми из разных стран",
+      "eng": "I'd like to say that I want to communicate with people from different countries",
+      "lesson": "2",
+      "level": "a1",
+      "id": "lvla1l2"
+    },
+    {
+      "rus": "Я хочу сказать что я хотел бы повидать мир",
+      "eng": "I want to say that I'd like to see world",
+      "lesson": "2",
+      "level": "a1",
+      "id": "lvla1l2"
+    },
+    {
+      "rus": "Я действительно думаю что это довольно хорошо для начала",
+      "eng": "I really think that it's quite good for a start",
+      "lesson": "2",
+      "level": "a1",
+      "id": "lvla1l2"
+    },
+    {
+      "rus": "Я действительно думаю что это довольно хорошо особенно в начале",
+      "eng": "I really think that it's quite good especially",
+      "lesson": "2",
+      "level": "a1",
+      "id": "lvla1l2"
+    },
+    {
+      "rus": "Я знаю что он работает менеджером",
+      "eng": "I know that he works as a manager",
+      "lesson": "2",
+      "level": "a1",
+      "id": "lvla1l2"
+    },
+    {
+      "rus": "Я хотел бы сказать что я действительно обожаю английский потому что я чувствую огромный прогресс ия также хочу сказать что я понимаю носителей языка лучше и лучше",
+      "eng": "I'd like to say that I really enjoy English because I feel great progress and I also want to say that I understand native speakers better and better",
+      "lesson": "2",
+      "level": "a1",
+      "id": "lvla1l2"
+    },
+    {
+      "rus": "Ты знаешь это прекрасное чувство",
+      "eng": "You know it's a wonderful feeling",
+      "lesson": "2",
+      "level": "a1",
+      "id": "lvla1l2"
+    },
+    {
+      "rus": "у меня есть четкая цель",
+      "eng": "I have a clear aim",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Этот отель очень хороший",
+      "eng": "This hotel is very good",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "У меня очень четкая цель",
+      "eng": "I have a very clear aimmistake",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это очень необычное решение",
+      "eng": "It's a very unusual decision",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это большая ошибка",
+      "eng": "It's a big",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "У меня есть результат",
+      "eng": "I have a result",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Я думаю это хорошая идея",
+      "eng": "I think it's a good idea",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это очень дорогой билет",
+      "eng": "It's a very expensive ticket",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это интересное решение",
+      "eng": "It's an interesting decision",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это очень сложная задача",
+      "eng": "It's a very difficult task",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это очень полезная книга",
+      "eng": "It's a very useful book its a 'veri 'jusful buk",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "У меня есть некоторые результаты",
+      "eng": "I have some results",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это дорогой билет",
+      "eng": "It's an expensive ticket",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это место такое красивое",
+      "eng": "This place is so beautiful",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Я думаю что это очень сложный вопрос",
+      "eng": "I think that it's a very difficult question",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Мне кажется что это правдивая история",
+      "eng": "It seems z to me that it's a true story",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это легкий тест",
+      "eng": "It's an easy test",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это очень полезный урок",
+      "eng": "It's a very useful lesson",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это интересный вопрос",
+      "eng": "It's an interesting question",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это маленькая ошибка",
+      "eng": "It's a small mistake",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это полезный урок",
+      "eng": "It's a useful lesson",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это очень интересное решение",
+      "eng": "It's a very interesting decision",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "У меня есть цель",
+      "eng": "I have an aim",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это очень смешное видео",
+      "eng": "It's a very funny video",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Мы видим университет",
+      "eng": "We see a university",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "У меня очень хороший результат",
+      "eng": "I have a very good result",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это странный ответ",
+      "eng": "It's a strange answer",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это так необычно",
+      "eng": "It's so unusual",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это очень смешная шутка",
+      "eng": "It's a very funny joke",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это очень интересный план",
+      "eng": "It's a very interesting plan",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это интересный план",
+      "eng": "It's an interesting plan",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это очень красивое место",
+      "eng": "It's a very beautiful place",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это очень хорошая идея",
+      "eng": "It's a very good idea",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это очень легкий тест",
+      "eng": "It's a very easy test",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "У меня есть некоторые планы",
+      "eng": "I have some plans",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "У меня есть одна очень четкая цель",
+      "eng": "I have one very clear aim",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это хороший результат",
+      "eng": "It's a good result",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Я думаю что это очень хорошая идея",
+      "eng": "I think that it's a very good idea",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это очень полезная вещь",
+      "eng": "It's a very useful thing",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это очень странный ответ",
+      "eng": "It's a very strange answer",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это необычное решение",
+      "eng": "It's an unusual decision",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это правдивая история",
+      "eng": "It's a true story",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Это очень необычно",
+      "eng": "It's very unusual",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    },
+    {
+      "rus": "Мне кажется что это очень хорошая идея",
+      "eng": "It seemsto me that it's a very good idea",
+      "lesson": "4",
+      "level": "a1",
+      "id": "lvla1l4"
+    }
   ],
   "englishLessons": [
     {
